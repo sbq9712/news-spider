@@ -1,0 +1,1 @@
+"""Daily news spider package."""
