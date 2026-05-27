@@ -5,21 +5,30 @@ on:
     - cron: "0 22 * * *"
   workflow_dispatch:
 
+concurrency:
+  group: daily-news-spider-${{ github.ref }}
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
 jobs:
   crawl:
     runs-on: ubuntu-latest
+    env:
+      PYTHONUTF8: "1"
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
+        with:
+          ref: ${{ github.ref_name }}
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.11"
+          cache: "pip"
 
       - name: Install dependencies
         run: |
@@ -31,7 +40,7 @@ jobs:
           python -m src.main --sources sources.xlsx
 
       - name: Upload data and logs artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: news-spider-output
           path: |
@@ -41,12 +50,17 @@ jobs:
 
       - name: Commit data and logs
         run: |
+          branch="${GITHUB_REF_NAME:-$(git branch --show-current)}"
+          if [ -z "$branch" ]; then
+            branch="${{ github.event.repository.default_branch }}"
+          fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data logs
+          git add -A data logs
           if git diff --cached --quiet; then
             echo "No data/log changes to commit."
           else
             git commit -m "chore: update crawled news data"
-            git push
+            git pull --rebase --autostash origin "$branch"
+            git push origin "HEAD:$branch"
           fi
