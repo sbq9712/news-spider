@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import json
 import re
 from datetime import datetime, timezone
 from typing import Optional
@@ -7,16 +8,33 @@ from urllib.parse import urljoin
 
 from bs4 import BeautifulSoup
 
+from .date_utils import date_from_url
 from .http_client import HttpClient
 from .load_sources import Source
 
 
 ARTICLE_SELECTORS = (
     "article",
+    ".article",
+    ".article-detail",
+    ".article-text",
+    ".articleCont",
+    ".article-cont",
+    ".articleCon",
+    ".article-con",
     ".entry-content",
     ".post-content",
     ".article-content",
     ".article-body",
+    ".contentText",
+    ".content-text",
+    ".content_left",
+    ".contentleft",
+    ".detail-content",
+    ".news-content",
+    ".TRS_Editor",
+    ".main-content",
+    "#content",
     ".content",
     "main",
 )
@@ -29,11 +47,67 @@ REMOVE_SELECTORS = (
     "form",
     "nav",
     "aside",
+    "header",
+    "footer",
     ".share",
     ".social",
     ".newsletter",
     ".advert",
     ".advertisement",
+    ".ad",
+    ".ads",
+    ".recommend",
+    ".related",
+    ".popular",
+    ".breadcrumb",
+    ".crumb",
+    ".copyright",
+    ".comment",
+    ".pagination",
+    ".pagecode",
+)
+
+REMOVE_CLASS_ID_RE = re.compile(
+    r"(?:^|[-_ ])(?:ad|ads|advert|banner|promo|recommend|related|popular|share|"
+    r"social|comment|breadcrumb|crumb|footer|nav|sidebar)(?:$|[-_ ])",
+    re.I,
+)
+
+BODY_STOP_MARKERS = (
+    "\nPopular content\n",
+    "\nRelated Articles\n",
+    "\nRelated Stories\n",
+    "\nAdvertisement\n",
+    "\nAdvertisements\n",
+    "\nShare\n",
+    "\n相关阅读\n",
+    "\n相关推荐\n",
+    "\n热门推荐\n",
+    "\n更多新闻\n",
+    "\n版权声明\n",
+    "\n免责声明\n",
+)
+
+NON_BODY_LINE_RE = re.compile(
+    r"^(?:"
+    r"source|from|author|by|published|updated|editor|copyright|tags?|"
+    r"来源|来自|作者|记者|编辑|责任编辑|发布时间|发布日期|时间|"
+    r"关键词|标签|声明|版权|分享到|分享|打印|字号|阅读|浏览|"
+    r"打开网易新闻 查看精彩图片|"
+    r"上一篇|下一篇|相关|推荐|热门|更多"
+    r")\b|^(?:来源|作者|编辑|责任编辑|发布时间|发布日期|时间|关键词|标签|版权|声明)[：:]",
+    re.I,
+)
+
+MIN_PARAGRAPH_LENGTH = 12
+BODY_END_LINE_KEYWORDS = (
+    "版权声明",
+    "免责声明",
+    "版权归",
+    "未经授权",
+    "如需转载",
+    "This content is protected by copyright",
+    "If you want to cooperate",
 )
 
 
@@ -83,6 +157,17 @@ def extract_date(soup: BeautifulSoup) -> str:
     time_tag = soup.find("time")
     if time_tag:
         return (time_tag.get("datetime") or time_tag.get_text(" ", strip=True)).strip()
+    for script in soup.select('script[type="application/ld+json"]'):
+        try:
+            data = json.loads(script.string or "")
+        except json.JSONDecodeError:
+            continue
+        nodes = data if isinstance(data, list) else [data]
+        for node in nodes:
+            if isinstance(node, dict):
+                value = node.get("datePublished") or node.get("dateCreated") or node.get("dateModified")
+                if value:
+                    return str(value).strip()
     return ""
 
 
@@ -90,16 +175,79 @@ def extract_body(soup: BeautifulSoup) -> str:
     for selector in REMOVE_SELECTORS:
         for tag in soup.select(selector):
             tag.decompose()
+    for tag in list(soup.find_all(True)):
+        if not getattr(tag, "attrs", None):
+            continue
+        if tag.select_one(",".join(ARTICLE_SELECTORS)):
+            continue
+        class_id = " ".join(tag.get("class") or [])
+        if tag.get("id"):
+            class_id = f"{class_id} {tag.get('id')}"
+        if class_id and REMOVE_CLASS_ID_RE.search(class_id):
+            tag.decompose()
 
-    candidates = []
+    candidates: list[tuple[int, str]] = []
     for selector in ARTICLE_SELECTORS:
         for node in soup.select(selector):
-            text = clean_text(node.get_text("\n", strip=True))
+            text = extract_node_body_text(node)
             if text:
-                candidates.append(text)
+                candidates.append((score_body_candidate(node, text), text))
     if candidates:
-        return max(candidates, key=len)
-    return clean_text(soup.get_text("\n", strip=True))
+        return trim_body_noise(max(candidates, key=lambda item: item[0])[1])
+    return trim_body_noise(clean_text(soup.get_text("\n", strip=True)))
+
+
+def extract_node_body_text(node) -> str:
+    paragraphs = []
+    for tag in node.find_all(("p", "div"), recursive=True):
+        if tag.find(("p", "div")):
+            continue
+        text = clean_text(tag.get_text("\n", strip=True))
+        if is_body_line(text):
+            paragraphs.append(text)
+    if paragraphs:
+        return clean_text("\n".join(paragraphs))
+
+    lines = [
+        line.strip()
+        for line in clean_text(node.get_text("\n", strip=True)).splitlines()
+        if is_body_line(line.strip())
+    ]
+    return clean_text("\n".join(lines))
+
+
+def is_body_line(text: str) -> bool:
+    if len(text) < MIN_PARAGRAPH_LENGTH:
+        return False
+    if NON_BODY_LINE_RE.search(text):
+        return False
+    if re.fullmatch(r"[\d\s:/.\-年月日时分秒]+", text):
+        return False
+    return True
+
+
+def score_body_candidate(node, text: str) -> int:
+    text_len = len(text)
+    link_text_len = sum(len(link.get_text(" ", strip=True)) for link in node.find_all("a"))
+    paragraph_count = len([line for line in text.splitlines() if len(line.strip()) >= MIN_PARAGRAPH_LENGTH])
+    link_penalty = min(link_text_len, text_len)
+    return text_len + paragraph_count * 120 - link_penalty * 2
+
+
+def trim_body_noise(text: str) -> str:
+    text = clean_text(text)
+    for marker in BODY_STOP_MARKERS:
+        index = text.find(marker)
+        if index > 0:
+            text = text[:index]
+    lines = []
+    for line in text.splitlines():
+        stripped = line.strip()
+        if any(keyword in stripped for keyword in BODY_END_LINE_KEYWORDS):
+            break
+        if is_body_line(stripped):
+            lines.append(stripped)
+    return clean_text("\n".join(lines))
 
 
 def parse_article_html(html: str, url: str, source: Source, crawled_at: Optional[str] = None) -> dict:
@@ -108,10 +256,17 @@ def parse_article_html(html: str, url: str, source: Source, crawled_at: Optional
     link = soup.find("link", rel=lambda value: value and "canonical" in value)
     if link and link.get("href"):
         canonical = urljoin(url, link["href"])
+    requested_url_date = date_from_url(url)
+    canonical_url_date = date_from_url(canonical)
+    if requested_url_date and canonical_url_date and requested_url_date != canonical_url_date:
+        canonical = url
+
+    url_date = date_from_url(canonical) or date_from_url(url)
+    published_at = url_date.isoformat() if url_date else extract_date(soup)
 
     return {
         "title": extract_title(soup),
-        "published_at": extract_date(soup),
+        "published_at": published_at,
         "content": extract_body(soup),
         "url": canonical,
         "source_name": source.name,
@@ -125,7 +280,7 @@ def fetch_and_parse_article(client: HttpClient, url: str, source: Source) -> Opt
     result = client.get(url, allow_non_html=False)
     if not result:
         return None
-    article = parse_article_html(result.text, result.url, source)
+    article = parse_article_html(result.text, url, source)
     if not article["title"] and not article["content"]:
         return None
     return article

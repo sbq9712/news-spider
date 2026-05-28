@@ -111,7 +111,8 @@ class HttpClient:
             logging.info("Skip non-html response: %s (%s)", url, content_type)
             return None
 
-        response.encoding = response.encoding or response.apparent_encoding
+        if not response.encoding or response.encoding.lower() == "iso-8859-1":
+            response.encoding = response.apparent_encoding
         return FetchResult(
             url=response.url,
             text=response.text,
