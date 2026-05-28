@@ -7,6 +7,13 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 from .article_parser import fetch_and_parse_article
+from .date_utils import (
+    DEFAULT_TIMEZONE,
+    ensure_published_at,
+    is_article_on_date,
+    normalize_published_at,
+    parse_target_date,
+)
 from .http_client import DEFAULT_USER_AGENT, HttpClient
 from .load_sources import default_sources_path, load_sources
 from .rss_discovery import discover_feed, fetch_feed_entries
@@ -14,7 +21,7 @@ from .scrapers import get_scraper_class
 from .storage import append_jsonl, export_csv, load_existing_urls
 
 
-DEFAULT_CSV_TIMEZONE = "Asia/Shanghai"
+DEFAULT_CSV_TIMEZONE = DEFAULT_TIMEZONE
 
 
 def default_csv_path(now: datetime | None = None) -> Path:
@@ -47,6 +54,11 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--timeout", type=int, default=20)
     parser.add_argument("--user-agent", default=DEFAULT_USER_AGENT)
     parser.add_argument("--ignore-robots", action="store_true")
+    parser.add_argument(
+        "--target-date",
+        help="Only keep articles published on this date (YYYY-MM-DD). Default: today in Asia/Shanghai.",
+    )
+    parser.add_argument("--date-filter", choices=("today", "all"), default="today")
     return parser.parse_args()
 
 
@@ -67,6 +79,8 @@ def main() -> int:
     setup_logging(args.logs)
     logging.info("Starting daily news spider")
     logging.info("Source file: %s", args.sources)
+    target_date = parse_target_date(args.target_date, DEFAULT_CSV_TIMEZONE)
+    logging.info("Date filter: %s, target date=%s", args.date_filter, target_date)
 
     sources = load_sources(args.sources)
     existing_urls = load_existing_urls(args.output)
@@ -100,6 +114,15 @@ def main() -> int:
                         continue
                     article = enrich_from_rss_entry(client, source, entry)
                     if article and article.get("url") not in existing_urls:
+                        ensure_published_at(article)
+                        if args.date_filter == "today" and not is_article_on_date(article, target_date, DEFAULT_CSV_TIMEZONE):
+                            logging.info(
+                                "Skip non-target-date article: %s (%s)",
+                                article.get("url"),
+                                article.get("published_at"),
+                            )
+                            continue
+                        normalize_published_at(article, DEFAULT_CSV_TIMEZONE)
                         new_articles.append(article)
                         existing_urls.add(article["url"])
             else:
@@ -108,6 +131,15 @@ def main() -> int:
                 for article in scraper.scrape(args.limit_per_source):
                     url = article.get("url")
                     if url and url not in existing_urls:
+                        ensure_published_at(article)
+                        if args.date_filter == "today" and not is_article_on_date(article, target_date, DEFAULT_CSV_TIMEZONE):
+                            logging.info(
+                                "Skip non-target-date article: %s (%s)",
+                                url,
+                                article.get("published_at"),
+                            )
+                            continue
+                        normalize_published_at(article, DEFAULT_CSV_TIMEZONE)
                         new_articles.append(article)
                         existing_urls.add(url)
         except Exception as exc:  # Keep one bad source from stopping the daily run.
