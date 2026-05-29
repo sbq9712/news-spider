@@ -2,8 +2,11 @@ from __future__ import annotations
 
 import csv
 import json
+from datetime import date
 from pathlib import Path
 from typing import Iterable
+
+from .date_utils import DEFAULT_TIMEZONE, article_date
 
 
 FIELDNAMES = (
@@ -46,7 +49,12 @@ def append_jsonl(jsonl_path: Path, articles: Iterable[dict]) -> int:
     return count
 
 
-def export_csv(jsonl_path: Path, csv_path: Path) -> None:
+def export_csv(
+    jsonl_path: Path,
+    csv_path: Path,
+    target_date: date | None = None,
+    timezone_name: str = DEFAULT_TIMEZONE,
+) -> None:
     csv_path.parent.mkdir(parents=True, exist_ok=True)
     with csv_path.open("w", encoding="utf-8-sig", newline="") as csv_file:
         writer = csv.DictWriter(csv_file, fieldnames=FIELDNAMES)
@@ -60,5 +68,7 @@ def export_csv(jsonl_path: Path, csv_path: Path) -> None:
                 try:
                     item = json.loads(line)
                 except json.JSONDecodeError:
+                    continue
+                if target_date and article_date(item, timezone_name) != target_date:
                     continue
                 writer.writerow({key: item.get(key, "") for key in FIELDNAMES})
