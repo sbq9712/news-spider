@@ -39,6 +39,32 @@ ARTICLE_SELECTORS = (
     "main",
 )
 
+SOURCE_ARTICLE_SELECTORS = {
+    "electrive": (
+        ".entry-content",
+        ".post-content",
+        ".article-content",
+        "article",
+    ),
+    "battery tech online": (
+        "[data-testid='article-body']",
+        "[data-testid='body-content']",
+        ".article-body",
+        ".article__body",
+        ".article-content",
+        ".content-body",
+        ".field--name-body",
+        ".node__content",
+        "main article",
+    ),
+    "volta foundation": (
+        ".entry-content",
+        ".post-content",
+        ".article-content",
+        "article",
+    ),
+}
+
 REMOVE_SELECTORS = (
     "script",
     "style",
@@ -65,6 +91,17 @@ REMOVE_SELECTORS = (
     ".comment",
     ".pagination",
     ".pagecode",
+    ".author",
+    ".byline",
+    ".tags",
+    ".tag",
+    ".sponsored",
+    ".teaser",
+    ".promo",
+    ".signup",
+    ".sign-up",
+    ".event",
+    ".events",
 )
 
 REMOVE_CLASS_ID_RE = re.compile(
@@ -80,6 +117,11 @@ BODY_STOP_MARKERS = (
     "\nAdvertisement\n",
     "\nAdvertisements\n",
     "\nShare\n",
+    "\nSign up for Battery Technology newsletters\n",
+    "\nWant more Battery Technology in your search results?\n",
+    "\nYour Privacy Choices\n",
+    "\nExplore more about Hymson",
+    "\nThis is a sponsored article",
     "\n相关阅读\n",
     "\n相关推荐\n",
     "\n热门推荐\n",
@@ -91,6 +133,7 @@ BODY_STOP_MARKERS = (
 NON_BODY_LINE_RE = re.compile(
     r"^(?:"
     r"source|from|author|by|published|updated|editor|copyright|tags?|"
+    r"share|newsletter|sign up|want more|your privacy choices|advertisement|sponsored|"
     r"来源|来自|作者|记者|编辑|责任编辑|发布时间|发布日期|时间|"
     r"关键词|标签|声明|版权|分享到|分享|打印|字号|阅读|浏览|"
     r"打开网易新闻 查看精彩图片|"
@@ -98,6 +141,9 @@ NON_BODY_LINE_RE = re.compile(
     r")\b|^(?:来源|作者|编辑|责任编辑|发布时间|发布日期|时间|关键词|标签|版权|声明)[：:]",
     re.I,
 )
+
+STANDALONE_DOMAIN_RE = re.compile(r"^(?:[a-z0-9-]+\.)+[a-z]{2,}(?:/\S*)?$", re.I)
+EMAIL_RE = re.compile(r"[\w.+-]+@[\w.-]+\.[a-z]{2,}", re.I)
 
 MIN_PARAGRAPH_LENGTH = 12
 BODY_END_LINE_KEYWORDS = (
@@ -108,6 +154,13 @@ BODY_END_LINE_KEYWORDS = (
     "如需转载",
     "This content is protected by copyright",
     "If you want to cooperate",
+    "This is a sponsored article",
+    "If you'd like to inquire",
+    "If you’d like to inquire",
+    "Explore more about",
+    "Sign up for Battery Technology newsletters",
+    "Want more Battery Technology in your search results",
+    "Your Privacy Choices",
 )
 
 
@@ -171,7 +224,7 @@ def extract_date(soup: BeautifulSoup) -> str:
     return ""
 
 
-def extract_body(soup: BeautifulSoup) -> str:
+def extract_body(soup: BeautifulSoup, source_name: str = "") -> str:
     for selector in REMOVE_SELECTORS:
         for tag in soup.select(selector):
             tag.decompose()
@@ -187,7 +240,8 @@ def extract_body(soup: BeautifulSoup) -> str:
             tag.decompose()
 
     candidates: list[tuple[int, str]] = []
-    for selector in ARTICLE_SELECTORS:
+    selectors = SOURCE_ARTICLE_SELECTORS.get(source_name.strip().lower(), ()) + ARTICLE_SELECTORS
+    for selector in selectors:
         for node in soup.select(selector):
             text = extract_node_body_text(node)
             if text:
@@ -218,6 +272,10 @@ def extract_node_body_text(node) -> str:
 
 def is_body_line(text: str) -> bool:
     if len(text) < MIN_PARAGRAPH_LENGTH:
+        return False
+    if EMAIL_RE.search(text):
+        return False
+    if STANDALONE_DOMAIN_RE.fullmatch(text):
         return False
     if NON_BODY_LINE_RE.search(text):
         return False
@@ -267,7 +325,7 @@ def parse_article_html(html: str, url: str, source: Source, crawled_at: Optional
     return {
         "title": extract_title(soup),
         "published_at": published_at,
-        "content": extract_body(soup),
+        "content": extract_body(soup, source.name),
         "url": canonical,
         "source_name": source.name,
         "domain": source.domain,

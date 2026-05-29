@@ -22,6 +22,9 @@ from .storage import append_jsonl, export_csv, load_existing_urls
 
 
 DEFAULT_CSV_TIMEZONE = DEFAULT_TIMEZONE
+RSS_DISCOVERY_DISABLED_SOURCES = {
+    "volta foundation",
+}
 
 
 def default_csv_path(now: datetime | None = None) -> Path:
@@ -105,13 +108,25 @@ def main() -> int:
         logging.info("Processing source: %s <%s>", source.name, source.url)
         new_articles: list[dict] = []
         try:
-            feed_url = source.configured_rss_url or discover_feed(client, source.url)
+            source_key = source.name.strip().lower()
+            feed_url = source.configured_rss_url
+            if not feed_url and source_key not in RSS_DISCOVERY_DISABLED_SOURCES:
+                feed_url = discover_feed(client, source.url)
             if feed_url:
                 if source.configured_rss_url:
                     logging.info("Using configured RSS for %s: %s", source.name, feed_url)
                 for entry in fetch_feed_entries(client, feed_url, args.limit_per_source):
                     if entry.url in existing_urls:
                         continue
+                    if entry.published_at and args.date_filter == "today":
+                        feed_article = {"published_at": entry.published_at, "url": entry.url}
+                        if not is_article_on_date(feed_article, target_date, DEFAULT_CSV_TIMEZONE):
+                            logging.info(
+                                "Skip non-target-date RSS entry: %s (%s)",
+                                entry.url,
+                                entry.published_at,
+                            )
+                            continue
                     article = enrich_from_rss_entry(client, source, entry)
                     if article and article.get("url") not in existing_urls:
                         ensure_published_at(article)
@@ -151,7 +166,8 @@ def main() -> int:
         total_new += count
         logging.info("Source complete: %s, new articles=%s", source.name, count)
 
-    export_csv(args.output, args.csv)
+    export_target_date = target_date if args.date_filter == "today" else None
+    export_csv(args.output, args.csv, export_target_date, DEFAULT_CSV_TIMEZONE)
     logging.info("Run complete. New articles: %s", total_new)
     logging.info("Skipped sources: %s", skipped_sources)
     logging.info("Failed sources: %s", failed_sources)
