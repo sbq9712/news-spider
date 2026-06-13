@@ -1,0 +1,1303 @@
+﻿title,published_at,content,url,source_name,domain,sub_domain,crawled_at
+The rise and continued rise of the International Flow Battery Forum – Batteries International,2026-06-13,"Uncategorised
+The rise and continued rise of the International Flow Battery Forum
+–  June 13, 2026 04:20 pm BST
+How Anthony Price turned a niche meeting of energy storage enthusiasts into an international forum shaping the future of long-duration energy storage.
+When Anthony Price launched what would become the International Flow Battery Forum (IFBF) in 2010, he had modest expectations. The event was intended as a one-off gathering for a small group of specialists working in a technology that, at the time, sat firmly on the fringes of the energy industry.
+Today, the conference attracts hundreds of delegates from around the world and is widely regarded as the premier international meeting place for the flow battery sector.
+Yet for Price, the conference’s success has never been measured simply by attendance figures. Instead, it has been driven by a simple philosophy: bring the right people together, create meaningful conversations and ensure every event reflects the rapidly changing world around it.
+Price’s own journey into energy storage began long before the conference was conceived. In the early 1990s, while working for one of Britain’s newly privatised power companies, he was tasked with acquiring rights to a flow battery technology developed in the US and exploring its commercial potential in the UK.
+Between 1991 and 2002, he worked to establish a flow battery business within the utility sector. However, when his employer was acquired, the new owners concluded that there was no future in energy storage and shelved the project altogether.
+Rather than abandoning the technology, Price doubled down on his belief that energy storage would eventually play a critical role in the global energy system. He established himself as an energy storage consultant and became involved with industry organisations, including the American Energy Storage Association.
+The idea for the IFBF emerged when colleagues in the flow battery sector approached him with a problem. Despite growing technical advances, flow batteries were receiving little attention on the conference circuit.
+“They asked if I could run a conference on flow batteries because they simply weren’t getting any presence,” he recalls.
+Surprise attendance
+The first event was planned for around 30 attendees. Instead, more than 80 delegates arrived, including several who paid cash on the door.
+What happened next surprised even the organisers.
+Delegates enjoyed the event so much that they immediately asked for another one the following year. A one-off conference had inadvertently become an annual institution.
+Over the following decade and a half, the forum expanded across Europe, moving between locations and developing its own distinct identity. Price believes that willingness to evolve is one of the reasons the conference has remained relevant.
+Many industry events, he argues, risk becoming predictable by repeating the same formula year after year. The IFBF deliberately takes a different approach.
+Each venue is selected not only for practical reasons but also because it offers a fresh perspective on the industry. Conferences have been hosted near manufacturing facilities, installation sites and technology developers, allowing delegates to see real-world projects in action.
+“Every conference picks up its own identity,” Price explains. “The venue gives you an opportunity to focus on different things.”
+That adaptability extends to the programme itself. A successful conference, he believes, must strike the right balance between technical expertise, commercial realities, politics, finance and business strategy.
+One of the most common compliments the event receives, he says, is its ability to blend these different perspectives.
+“We somehow manage to get the right mix of technical, commercial, business and political discussion.”
+That balance is increasingly important as the energy storage industry matures. When the conference began, most people had never heard of energy storage, let alone flow batteries. Today, the sector sits at the centre of some of the world’s most pressing challenges, including renewable energy integration, energy security and the explosive growth of artificial intelligence.
+The industry’s current focus, according to Price, is on scale.
+Interest in very large flow battery installations is growing rapidly, driven by the need to support renewable energy projects and the emergence of vast data centres powering AI applications. Some facilities now require hundreds of megawatts of capacity, creating entirely new technical and commercial challenges.
+As a result, conversations at the conference have evolved far beyond chemistry and engineering. Questions of manufacturing capability, financing, supply chains and geopolitics now dominate many discussions.
+This year’s programme reflects those shifts, with sessions exploring how the industry can scale production, improve performance, attract investment and navigate increasingly complex regulatory and political landscapes.
+Networking and beyond
+For Price, however, the most valuable aspect of any conference is often what happens outside the formal agenda.
+He is unapologetic about the importance of networking and has built a reputation for ensuring delegates have opportunities to connect in informal settings.
+“If people don’t have a good time, they don’t network,” he says.
+The results speak for themselves. Over the years, countless business relationships have been forged at the IFBF. Investors have met entrepreneurs, suppliers have found partners and students presenting research have secured careers in the industry.
+In one case, Price reveals, a company that has since achieved unicorn status can trace its origins back to conversations held during a previous forum.
+Those stories illustrate what he believes is the true purpose of a conference: not simply sharing information, but creating an environment where opportunities emerge.
+Although Price transferred ownership of the IFBF in 2024, watching others take responsibility for an event he founded has not been difficult. He sees the conference as something that continues to grow and evolve.
+“You are not handing over something static,” he says. “You are handing over something that is still developing.”
+That outlook mirrors his view of the flow battery industry itself. Progress may have taken longer than many expected, but the sector is now entering a period of unprecedented opportunity.",https://www.batteriesinternational.com/news/the-rise-and-continued-rise-of-the-international-flow-battery-forum/,Batteries International,电池,无,2026-06-13T18:54:32+00:00
+Innovations in Li-ion Battery Electrode Structuring,2026-06-13,"Explore how MKS' Spectra-Physics burst-mode laser processing improves precision, efficiency, and scalability in Li-ion battery manufacturing.
+June 12, 2026
+Li-ion battery cross section showing: a) convoluted lithium-ion diffusion path during charging, b) formation of metallic lithium dendrites with rapid charging, c) openings in the anode coating facilitate ion diffusion.
+MKS’ Spectra-Physics
+Lasers have long been essential in
+lithium-ion battery
+manufacturing, enabling processes such as welding and cutting. Today, advanced laser technologies, particularly burst-mode laser processing, are changing electrode structuring with unmatched precision and efficiency. These innovations enable intricate electrode designs that improve battery performance, energy density, and reliability while reducing material waste and optimizing energy transfer.
+Modern laser systems also enhance manufacturing efficiency, lower costs, and support scalable production to meet the growing demands of electric vehicles (EVs) and renewable energy storage. By addressing key industrial challenges, these advancements are shaping the future of high-performance Li-ion battery manufacturing.
+Lithium-ion batteries are essential across applications ranging from consumer electronics to EVs. Despite their diversity, all share common performance goals: higher capacity, faster charging, and longer lifetime. As capacity increases, improving charging rates becomes increasingly critical.
+EV Battery Insulation Goes Digital as Plastic Film Fails Under Fast-Charging Stress
+Charging performance is fundamentally limited by electrode structure. A typical anode consists of a copper current collector coated with a dense graphite layer bound in an organic matrix. During charging, lithium ions diffuse into this layer and are stored in the graphite; during discharge, they are released to generate electrical power.
+The dense anode structure imposes a key constraint: lithium ions must traverse long, indirect paths to reach deeper graphite particles. This slows charging. Increasing voltage or current to compensate can cause lithium plating and dendrite formation, leading to degradation or catastrophic failure.
+A well-known solution is to introduce structured features (arrays of dimples or grooves) into the coating. These features shorten diffusion paths, enabling faster charging. Although recognized for over a decade, implementing this approach at an industrial scale remains challenging.
+The following study focuses on parameter optimization for electrode structuring using an ultraviolet (UV), short-nanosecond pulsed laser with flexible burst capability. The relationship between burst parameters and ablation efficiency is examined, defining a path toward high-quality, high-throughput electrode structuring.
+Structured electrodes contain arrays of holes 20–50 µm in diameter, spaced ~150 µm apart, over their entire surface. Industrial production requires drilling rates of at least 100,000 holes per second, approaching 1 million and more at scale. This is well beyond the feasibility of mechanical techniques.
+Innovations in Battery Manufacturing for Solid-State and Dry Electrodes
+The laser approach offers precision, consistency, and non-contact processing without tool wear. Many laser types have been evaluated, from long-pulse nanosecond to ultrashort pulse (USP) pico- and femtosecond systems.
+Long-pulse nanoseconds (ns) lasers can achieve high throughputs but produce generally poor feature quality due to excessive thermal effects, which often enlarge hole sizes. Conversely, USP lasers provide excellent precision and minimal thermal damage, but high throughput requires complex beam shaping, increasing cost. These trade-offs between throughput and quality have limited adoption and motivate alternative approaches.
+Programmable burst-mode lasers provide a promising alternative by distributing energy across multiple closely spaced sub-pulses rather than a single pulse. This enables precise temporal control of energy delivery.
+Short-ns burst processing generates a tailored thermal profile that supports both efficient material removal and high feature quality. The nanosecond-scale spacing between pulses limits lateral heat spread, and loading with additional pulses promotes deeper energy penetration. Although some direct ablation occurs, material removal is primarily driven by binder dissociation and ejection of loosened particles.
+The Case for Domestic Battery Production: Answers to Five Key Questions
+This controlled thermal mechanism enables efficient, high-speed removal. The key question is whether burst processing can achieve the speeds, quality, and scalability required for high-volume manufacturing.
+Experiments used an MKS Spectra‑Physics Talon Ace UV100 laser (>100 W at 343 nm), integrated with a 2-axis galvanometer scanner producing a ~20 µm spot over a 200 × 200 mm² field. Test samples were double-sided graphite-coated copper anodes with 60 µm coating thickness.
+The system’s TimeShift burst capability enables independent control of pulse width, repetition rate, and burst parameters such as sub-pulse count and separation time. Pulse widths and separations ranged from ~2 ns to several tens of nanoseconds, with burst repetition rates in the tens to hundreds of kHz.
+The objective was to determine how burst parameters affect ablation efficiency, feature geometry, and process viability. Metrics included material removal rate, depth-per-pulse (D
+), efficiency, hole quality, and compatibility with high-throughput manufacturing.
+Ablated depth-per-pulse (Dpp) improves with larger pulse bursts and shorter time between pulses. Courtesy of MKS’ Spectra-Physics.
+Initial tests used single-pulse operation to establish a baseline. Holes of varying depths were produced at different pulse energies, and depth-per-pulse (D
+) was calculated. Burst testing was then performed, drilling comparable holes but with the energy distributed across multiple sub-pulses.
+Burst mode produced substantially greater material removal than single-pulse operation. Both small and large bursts exceeded the baseline, and at optimal sub-pulse separation, D
+increased by more than 50%. These results demonstrate that distributing energy across sub-pulses improves coupling into the graphite-binder matrix, enhancing removal efficiency.
+With optimal pulse separation established, further tests varied pulse energy across different burst sizes. Efficiency was defined as removal depth per unit energy.
+Pulse energy is more efficiently used with increasingly large bursts. Courtesy of MKS’ Spectra-Physics.
+The resulting curves follow the expected behavior of pulsed laser ablation, with peaks representing optimal energy utilization. Below the peak, energy is insufficient for efficient removal; above it, excess energy is lost to heating and plasma formation.
+Increasing the number of sub-pulses significantly improves peak efficiency. Larger bursts enhance energy coupling and expand the effective operating range. Maximizing burst length, with lower energy per pulse, is the clear path to efficient power use.
+A final analysis examined how burst size affects peak efficiency and total energy required to reach a fixed depth (~50 µm).
+Larger bursts equate to higher processing efficiency and lower total dose of energy required to drill 50 µm deep holes. The colored stars (horizontal axis) correspond to those in the figure above. Courtesy of MKS’ Spectra-Physics.
+As burst size increases, peak efficiency rises while total energy per hole decreases. This demonstrates improved energy utilization which enables reduced process dose.
+To validate practical performance, optimized burst parameters were used to drill arrays of ~50 µm deep holes. Each hole was produced with a single burst at a repetition rate of 100,000 holes per second, using continuous beam motion. This “burst-on-the-fly” approach enables straightforward, high-throughput structuring using standard Gaussian beam focusing.
+Optical microscopy reveals the granular nature of the drilling process, with the perimeter of removal defined along particle grain boundaries. Hole diameters are somewhat large at the surface but quickly taper to ~20 µm and less throughout the remaining drilled depth.
+Drilled holes demonstrate removal at grain boundaries and rapid tapering to 20 µm and below. Courtesy of MKS’ Spectra-Physics.
+The improved performance of burst processing arises from progressive material modification within each burst. Closely spaced sub-pulses alter the graphite-binder matrix, allowing subsequent pulses to remove material more efficiently. This reduces energy loss to heat and plasma shielding while enhancing overall removal effectiveness.
+These effects provide several practical advantages:
+Increased material removal rates
+Reduced thermal damage
+Improved feature quality
+Lower energy consumption per feature
+Scalability to high-throughput manufacturing
+Together, these benefits address the primary limitations that have constrained industrial implementation of structured electrodes.
+Burst-mode laser processing significantly improves energy utilization in Li-ion battery electrode structuring. Distributing energy across closely spaced sub-pulses enhances coupling within the graphite-binder matrix, increasing ablation depth while reducing thermal losses.
+As a result, deeper features can be produced with less energy, lowering thermal load and improving feature quality. At the same time, higher efficiency supports increased throughput, meeting the demands of industrial-scale production.
+These results demonstrate that short-nanosecond burst processing provides a practical and scalable solution for high-speed electrode structuring, enabling faster-charging and higher-performance lithium-ion batteries.
+Jim Bovatsek
+Senior Manager of Application Engineering , MKS’ Spectra-Physics
+Jim Bovatsek is a Senior Manager of Application Engineering at MKS’ Spectra-Physics industrial laser applications laboratory in Milpitas, California USA.
+See more from
+Jim Bovatsek",https://www.batterytechonline.com/battery-manufacturing/innovations-in-li-ion-battery-electrode-structuring,Battery Tech Online,电池,无,2026-06-13T18:54:50+00:00
+Schneider Electric: People are the Future of Supply Chain,2026-06-13,"Schneider Electric: People are the Future of Supply Chain
+Prioritise Us
+Laure Collin explains why Industry 4.0 is a cultural challenge, sharing how a talent overhaul at a top smart factory cut critical turnover to just 6%
+Laure Collin is the Senior Vice President of Human Resources for Global Supply Chain at
+Schneider Electric
+, where she leads the people and organisation agenda for one of the world’s most complex and global industrial supply chains.
+Laure’s role is to ensure that talent, skills and culture are decisive enablers of performance, resilience, digitalisation and sustainability across our end‑to‑end value chain.
+With more than 30 years at Schneider Electric, her career reflects the evolution of both the company and the HR function – having held a wide range of roles across regions and functions.
+Laure explores how when we talk about
+AI in manufacturing
+, it tends to explore data pipelines, predictive maintenance and automation. But, Laure believes we are missing the most critical element: the human one. As AI transitions from isolated pilots to real-time cognitive networks, the real differentiator is not the technology itself, but how fast your workforce can adapt to it.
+Speaking to Supply Chain Digital, Laure breaks down why Industry 4.0 readiness is a cultural challenge rather than a technical one, shares a blueprint for successful human-AI teaming from Schneider Electric’s award-winning Wuhan factory and explains why talent must be treated as core operational infrastructure.
+Treating readiness as a technology problem. In many organisations, AI is stitched into daily production and end-to-end value chains but the sites that sustain step-change results invest in talent with the same rigour they invest in technology.
+people systems
+(skills, roles, incentives, governance, etc.) can’t scale as fast as AI, performance won’t stick. So, I think one of the biggest mistakes businesses make when it comes to AI is not driving cultural change at the same speed as technical adoption.
+We’re moving from pilots to “cognitive networks” where connected plants, logistics and suppliers are operating in real time and AI is embedded in decision-making. That raises the bar. It is no longer a question of “can we build the AI use case?"" but “can our team own it and run it safely, consistently and at scale?”
+One of the key challenges is that many organisations do not have effective ways to measure AI readiness. Traditional workforce metrics often stop at headcount, hiring or course completion. Those are activity measures, not readiness measures. We need to build a metrics-based system focused on outcomes such as productivity, critical skills and internal mobility into AI-impacted roles.
+Practically, that means
+treating skills
+with the same rigour as business assets by mapping and forecasting capability needs, embedding human-AI ways of working into everyday operations and scaling them across sites. It is also important to build a strong talent pipeline through partnerships that co-create job-ready curricula and “earn and learn” pathways.
+At Schneider Electric’s Wuhan factory in China - one of only three Global Lighthouses for Talent designated by World Economic Forum – we implemented a large-scape talent transformation programme to help drive productivity and AI adoption.
+Wuhan is a good example because the pressure was very real and very practical. The site went through rapid automation and a major expansion in its product portfolio, and capability just couldn’t keep up at first.
+The big shift was treating capability like a system, not a set of training events. We introduced AI-driven competency management so we could match skills
+supply and demand
+, assign personalised learning and connect progression to a ‘pay for skills’ model. We also changed how work was planned, making it more people-centric so task allocation improved.
+On the shopfloor, GenAI tools helped technicians solve problems faster and build their confidence, which had a real impact on retention. And we did not rely on internal development alone. We built an external pipeline through partnerships with vocational institutions, apprenticeships and initiatives like R&D labs and scholarships, so the inflow of skills became sustainable rather than reactive. Over the course of the transformation, workforce readiness rose from 20% to 76% and we managed to reduce critical-role turnover from 48% to just 6%.
+Talent isn’t a “nice to have”, it is the multiplier. The Lighthouse story used to be mainly about productivity, resilience and sustainability. Now talent is being recognised as a core ingredient of excellence. That shift is important because it reframes workforce capability as operational infrastructure, not an HR initiative you bolt on after the fact.
+Technology isn’t going to replace people who keep adapting, but it will expose skills gaps much faster. The risk isn’t “AI taking your job”. It is being outperformed by someone who knows how to use AI better, unless upskilling becomes non-negotiable.
+Our responsibility
+is to protect people’s ability to adapt, contribute and grow as the operating model evolves.
+SVP Human Resources Global Supply Chain",https://supplychaindigital.com/news/schneider-electric-people-are-the-future-of-supply-chain,Supply Chain Digital,综合媒体,关键原材料/矿产,2026-06-13T18:55:23+00:00
+This Week's Top Five Stories in Supply Chain,2026-06-13,"This Week's Top Five Stories in Supply Chain
+Prioritise Us
+Supply Chain Digital takes a look at the top stories of this week, including global news from Haleon, The Estée Lauder Companies and 4flow
+The Estée Lauder Companies, founded in 1946, has grown into the second largest cosmetics company in the world.
+As the company celebrates the 60th anniversary of its Whitman facility in Petersfield, England, it has announced the strengthening of its UK manufacturing supply chain.
+ELC is integrating capabilities from one of its longstanding partners, Contract Candles, gaining more possibility for its
+research and development capabilities
+While facing ongoing disruption across the world, businesses need to have confidence in their own supply chains. For a multinational company like Kraft Heinz, this can be incredibly difficult.
+As the third-largest food and beverage company in North America, the company has an expansive supply chain. This puts it at risk of disruption and supply chain fragmentation.
+To avoid this, end-to-end visibility is key. Gaining these insights allows businesses to see which
+suppliers are at risk
+and how they can gain more control over their supply chain.
+Recently named a Leader in the 2026 Gartner Magic Quadrant for Specialist Supply Chain Strategy, Planning and Operations Consulting, 4flow is working to redefine how businesses can connect strategy to real-time decisions.
+The company has launched optaire, a modular and AI-native platform which is built to enable end-to-end supply chain and logistics optimisation.
+In today's volatile environment, businesses need to respond faster than ever to disruption. optaire aims to help businesses
+respond faster
+and develop resilience.
+As supply chains around the world continue to expand, Haleon has turned to India.
+The company is paying attention to one of its fastest-growing markets and investing into the country, building a new manufacturing site to accelerate distribution efforts.
+Haleon is working to meet rising demand, gain
+supply chain resilience
+and support supply across Asia with a £175m (US$234.4m) investment.
+In today's world, it can be difficult to establish a new brand in amongst the global giants. Au Vodka, however, is one of the
+fastest-growing spirit brands in the UK
+The beverage company is expanding its presence and making its way into the US market, using innovations and collaborations in order to reach a wider consumer base.
+Known for its shiny gold bottles, Au Vodka is taking off with its ready-to-drink (RTD) can selections, working to deliver bold flavours to its customer base.
+Supply Chain Digital spoke to Ethan Cooze, the Supply Chain Director at Au Vodka, about the company's expansion and ongoing plans to innovate.
+In his role, Ethan lead the end-to-end supply chain and operations function, ensuring the company has strong supplier partnerships and the operational capabilities to ensure long-lasting growth.
+Supply Chain Director",https://supplychaindigital.com/news/this-weeks-top-five-stories-in-supply-chain-13-june,Supply Chain Digital,综合媒体,关键原材料/矿产,2026-06-13T18:55:25+00:00
+"Electric rally car revival continues with new, 280 hp Peugeot E-208 GTi",2026-06-13,"| Jun 13 2026 - 7:56 am PT
+Making its public debut at the legendary 24 Hours of LeMans this weekend, the new, 280 hp Peugeot E-208 GTi resurrects another storied hot hatch name as it takes its place alongside reborn 80s icons from Lancia and Renault.
+First unveiled as a concept last year, the new age E-208 GTi is production ready now,
+with specs that have it slotting right between the reborn Renault 5 and 280 hp Lancia Y HF
+, resurrecting the feisty French hot hatch from the 80s and 90s with modern styling that’s immediately familiar to fans – and, with 280 hp and 345 Nm (~255 lb-ft) of TQ – performance that’s mercifully closer to the GTi you
+than the GTi that really was.
+“We wanted a car that evokes our history, but with a sober expression of performance,” explains Vincent Héride, Product Manager of the new Peugeot E-208 GTi. “No exuberance, but a confident stance, poised on the road.”
+“From the bodywork to the wheel arches, the iconic red is omnipresent,” reads the breathless copy in the press release – and they’re not wrong. The retro
+rouge highlights are everywhere.
+A nod to the original 205 GTi’s ‘holey’ alloy wheels, the E-208 GTi’s rides on 18″ wheels with bold diamond-cut perforations and bright red GTi branding wrapped in sticky, Michelin Pilot Sport Cup 2 high performance tires. Inside, the red is immersive, surrounding the Peugeot’s lucky drivers and passengers with bright red carpets and floor mats, red-accented sports seats, and a tight Alcantara steering wheel – all directly inspired by the original 205 GTi.
+A lowered ride height, stiffened suspension, rear anti-roll bar, and unique steering geometry designed to boost responsiveness complete the GTi’s performance package, and ensure that the added hp and torque can be put to the ground effectively while making the GTi feel substantially different from behind the wheel than its more pedestrian “base” E-208 cousins.
+Peugeot is promising 217 miles of range from the GTi’s 54 kWh battery
+(the same found in the standard E-208), with pricing that starts at about £35K (approx., $46K USD, including VAT).
+The 30% federal solar tax credit is ending this year. If you’ve ever considered going solar, now’s the time to act. To make sure you find a trusted, reliable solar installer near you that offers competitive pricing, check out
+, a free service that makes it easy for you to go solar. It has hundreds of pre-vetted solar installers competing for your business, ensuring you get high-quality solutions and save 20-30% compared to going it alone. Plus, it’s free to use, and
+you won’t get sales calls
+until you select an installer and share your phone number with them.
+Your personalized solar quotes are easy to compare online and you’ll get access to unbiased Energy Advisors to help you every step of the way.
+Get started here
+Subscribe to Electrek on YouTube for exclusive videos
+and subscribe to the
+I’ve been in and around the auto industry for over thirty years, and have written for a number of well-known outlets like CleanTechnica, Popular Mechanics, the Truth About Cars, and more. You can catch me at Electrek Daily’s Quick Charge, The Heavy Equipment Podcast, or chasing my kids around Oak Park, IL
+Find a reliable home solar and battery installer and save 20-30% compared to going it alone.
+Qmerit makes electrification easy — connecting you with trusted pros who get it done right.",https://electrek.co/2026/06/13/electric-rally-car-revival-continues-with-new-280-hp-peugeot-e-208-gti/,Electrek,电池,EV,2026-06-13T18:56:12+00:00
+Super-sized slot cars: these HD electric machines NEVER need plugged in,2026-06-13,"| Jun 13 2026 - 6:48 am PT
+A Kalmar Ottawa T2 EV electric terminal tractor has been successfully deployed on an in-road charging system in Ljungby, Sweden, enabling continuous operation without ever needing to be plugged in.
+Developed by the unfortunately named Elonroad (
+which has nothing to do with Elon Musk
+), an electrically charged rail embedded in the road sends power up through a physical contact, slot car style, to Kalmar’s electric terminal trucks, forklifts, and material handlers. When combined with regenerative braking,
+the system delivers enough power to keep the trucks running continously
+“The ultimate goal is to offer Kalmar customers a worry-free charging solution that delivers effectively unlimited onboard energy for continuous operations,” Per-Erik Johansson, Technology Manager, Electrification, Kalmar. “We are excited to take the next step towards this goal, demonstrating that dynamic charging is not only possible but a promising path forward for the future of electric heavy-duty transport. Following this verification phase, which tests charging efficiency and uptime improvements on the electric road with Kalmar terminal tractor, the technology will be tested in a real-life port environment with pilot customers.”
+The joint Elonroad/Kalmar project is funded by the Swedish Energy Agency and aims to both further develop the dynamic electric road concept at port environments and identify suitable vehicles for conductive charging during operation.
+Terminal tractors are found in nearly every port
+container terminal
+, and distribution center across the globe – and with their low speeds, heavy loads, and repetitive routes, they are ideal candidates for electrification. Almost.
+I say “almost,” because busy ports often operate around the clock, and the need to plug in and charge electric terminal tractors is often identified (incorrectly) as the reason battery electric uptime can’t compete with diesel. The “big slot car” concept from Elonroad solves that, and with a lot less “slot” than you might think. Just 200 meters (about an eighth of a mile) of electrified road that can charge port vehicles both when they’re moving and standing still has been more than enough to keep things moving at the Ljungby port.
+“Today, the partnership is demonstrating real potential for transforming how electric industrial vehicles are powered,” reads a Kalmar press release, “and the industry is taking notice.”
+Here’s hoping all those companies taking notice start making purchases,
+and prove they’re serious about cleaning up their operations
+even as they make moves to
+We already know that in-ground charging – when it works – can be an absolute game-changer when it comes to vehicle electrification. That means my work here is mostly done, and the most important message I can leave you with is this: if you remember that commercial (above), it’s time to schedule that colonoscopy.
+If you’re considering going solar, it’s always a good idea to get quotes from a few installers. To make sure you find a trusted, reliable solar installer near you that offers competitive pricing, check out
+, a free service that makes it easy for you to go solar. It has hundreds of pre-vetted solar installers competing for your business, ensuring you get high-quality solutions and save 20-30% compared to going it alone. Plus, it’s free to use, and you won’t get sales calls until you select an installer and share your phone number with them.
+Your personalized solar quotes are easy to compare online and you’ll get access to unbiased Energy Advisors to help you every step of the way.
+Get started her
+Subscribe to Electrek on YouTube for exclusive videos
+and subscribe to the
+I’ve been in and around the auto industry for over thirty years, and have written for a number of well-known outlets like CleanTechnica, Popular Mechanics, the Truth About Cars, and more. You can catch me at Electrek Daily’s Quick Charge, The Heavy Equipment Podcast, or chasing my kids around Oak Park, IL
+Find a reliable home solar and battery installer and save 20-30% compared to going it alone.
+Qmerit makes electrification easy — connecting you with trusted pros who get it done right.",https://electrek.co/2026/06/13/super-sized-slot-cars-these-hd-electric-machines-never-need-plugged-in/,Electrek,电池,EV,2026-06-13T18:56:14+00:00
+Dig it: mine goes 155 consecutive hours on 100% renewable energy,2026-06-13,"| Jun 13 2026 - 5:38 am PT
+Last month, the Bellevue Gold mine did something that was previously unthinkable. For over 155 consecutive hours – a full six-and-a-half day work week – the mine operated on 100% renewable energy. The future is now, kids:
+Bellevue Gold’s 90 MW hybrid power station brought together a 27 MW
+solar panel array
+, 24 MW of wind turbines, and 15 MW (33 MWh) of battery energy storage to power the Australian mine’s operation. Originally designed to meet at least 80% of the site’s energy needs, the system recently proved that, in the right conditions, it can do much more.
+“We’ve put out a strategy that’s ahead of the market that will have us producing net zero carbon gold by 2026 and we couldn’t do it without renewable energy as a core part,” Bellevue Gold’s managing director Darren Stralow said, in a statement. “(It’s)
+a significant milestone
+, not only for the project, but for what is possible in the Australian energy sector.”
+Bellevue first announced its plans to become the first operational gold mine to get 80% of its power generated by renewable energy back in 2022,
+after signing up for the $252 million off-grid hybrid power with its partners
+, Zenith Energy.
+“(The project) achieves the holy grail of lower emissions and a direct cost reduction in power generation,”
+explains Bellevue’s Steve Parsons
+. “The combination of these metrics is expected to will position Bellevue as one of the most sustainable and financially successful Australian gold miners, maximizing returns for all stakeholders.
+The development of the sustainable mining project also advances the Tjiwarl Katu Power joint venture between Zenith Energy and Tjiwarl Contracting Services, which represents the Tjiwarl Aboriginal Corporation – the Traditional owners of the land where the Bellevue Gold project is located.
+A while back, we devoted an entire episode to the idea that the cleaner the mining industry tries to become, the more equipment it needs — and that equipment, in turn, drives even greater demand for the very mines supplying its raw materials. Battery-electric haul trucks are a clear example of that self-propagating feedback loop.
+If you’re considering going solar, it’s always a good idea to get quotes from a few installers. To make sure you find a trusted, reliable solar installer near you that offers competitive pricing, check out
+, a free service that makes it easy for you to go solar. It has hundreds of pre-vetted solar installers competing for your business, ensuring you get high-quality solutions and save 20-30% compared to going it alone. Plus, it’s free to use, and you won’t get sales calls until you select an installer and share your phone number with them.
+Your personalized solar quotes are easy to compare online and you’ll get access to unbiased Energy Advisors to help you every step of the way.
+Get started here
+Subscribe to Electrek on YouTube for exclusive videos
+and subscribe to the
+I’ve been in and around the auto industry for over thirty years, and have written for a number of well-known outlets like CleanTechnica, Popular Mechanics, the Truth About Cars, and more. You can catch me at Electrek Daily’s Quick Charge, The Heavy Equipment Podcast, or chasing my kids around Oak Park, IL
+Find a reliable home solar and battery installer and save 20-30% compared to going it alone.
+Qmerit makes electrification easy — connecting you with trusted pros who get it done right.",https://electrek.co/2026/06/13/dig-it-mine-goes-155-consecutive-hours-on-100-renewable-energy/,Electrek,电池,EV,2026-06-13T18:56:16+00:00
+This electric car company just produced its one millionth electric motorcycle,2026-06-13,"| Jun 13 2026 - 3:50 am PT
+When most people in North America or Europe hear the name VinFast, they probably think of the Vietnamese electric car company trying to break into international markets with a lineup of
+electric SUVs.
+What many don’t realize is that VinFast is already a giant in another corner of the EV industry: electric two-wheelers.
+The company has just announced that it rolled its one millionth electric motorcycle – or more accurately, electric scooter – off the production line, a milestone that highlights just how massive the Asian e-mobility market has become.
+The millionth vehicle was a red Feliz II electric scooter, produced at VinFast’s manufacturing complex in Hai Phong, according to
+. The model uses a removable battery system that can either be charged at home or swapped at dedicated battery exchange stations.
+That battery swapping strategy is one of the more interesting parts of VinFast’s approach. While much of the West remains focused on plug-in charging, battery swapping has gained traction in several Asian markets where dense urban populations and apartment living can make home charging less convenient.
+VinFast has spent years
+building out a network of charging and battery swap locations across Vietnam
+, and the company has also been working to bring that concept to other regional markets.
+VinFast launched its first electric scooter, the Klara, in late 2018. Less than eight years later, the company has built a lineup spanning nearly 15 different model families and more than 30 variants, ranging from affordable urban commuters to larger premium scooters. Some models feature fixed batteries, while others use one or even two removable battery packs.
+The numbers are impressive. VinFast says it sold more than 406,000 electric motorcycles in 2025 alone, supported by nearly 750 authorized dealerships and service centers throughout Vietnam.
+The company is also investing in expanded manufacturing capacity, including a new electric motorcycle factory in central Vietnam, while growing its presence in markets such as Indonesia, the Philippines, India, Thailand, and Malaysia.
+While Europe and North America continue debating the future of electric motorcycles, much of Asia has already embraced electric scooters as everyday transportation.
+And with integrated charging networks, battery swapping infrastructure, and a product strategy aimed at making electric transportation affordable, VinFast is quietly becoming one of the biggest electric two-wheeler success stories that many Western consumers have barely noticed.
+Subscribe to Electrek on YouTube for exclusive videos
+and subscribe to the
+Micah Toll is a personal electric vehicle enthusiast, battery nerd, and author of the Amazon #1 bestselling books
+DIY Lithium Batteries
+DIY Solar Power,
+The Ultimate DIY Ebike Guide
+The Electric Bike Manifesto
+The e-bikes that make up Micah’s current daily drivers are the
+$999 Lectric XP 2.0
+$1,095 Ride1Up Roadster V2
+$1,199 Rad Power Bikes RadMission
+$3,299 Priority Current
+. But it’s a pretty evolving list these days.
+Best $999 electric bike ever!
+Great e-bikes at great prices!",https://electrek.co/2026/06/13/this-electric-car-company-just-produced-its-one-millionth-electric-motorcycle/,Electrek,电池,EV,2026-06-13T18:56:17+00:00
+Anthropic restricts top-tier models after US cites security risk,2026-06-13,"AI giant Anthropic has been forced to suspend access to its most advanced artificial intelligence models for users outside the US after the Trump administration imposed sweeping new export restrictions on the technology. The decision effectively blocks foreign governments, businesses, researchers, and individuals, as well as foreign nationals residing in the US, from using the company’s latest AI systems.
+According to a US administration official, Commerce Secretary Howard Lutnick informed Anthropic CEO Dario Amodei in a letter sent on Friday that the company’s newly released Fable 5 and Mythos 5 models are now classified under export control rules.
+To comply with the directive, Anthropic has moved to disable
+for all affected users, reflecting Washington’s growing view that cutting-edge AI capabilities should be treated as
+strategically
+sensitive technologies.
+Anthropic said it chose to disable access to its two newest AI models entirely because the new US restrictions apply to a wide range of users, making selective enforcement impractical. The rules cover foreign governments, companies, and individuals, and even extend to some foreign-born Anthropic employees working in the country,
+the Wall Street Journal
+“The net effect of this order is that we must abruptly disable
+and Mythos 5 for all our customers to ensure compliance. Access to all other Claude models is not affected,” the company said in a
+on X, noting that they were “working to restore access as soon as possible”.
+also notes that the decision marks one of the clearest signs yet that Washington is willing to intervene directly in the global AI race, treating advanced models as strategic technologies rather than ordinary commercial products.
+For companies such as
+and its rivals, which are competing aggressively to release ever more capable systems ahead of highly anticipated public listings, regulatory hurdles and forced slowdowns can carry enormous financial consequences. Any disruption to product rollouts or access to international markets risks delaying growth plans and could ultimately cost the industry billions of dollars in lost revenue and valuation.
+The suspension of access to Mythos could have immediate consequences far beyond the AI sector, as governments and private organizations have increasingly relied on the model to detect and fix software vulnerabilities. A prolonged shutdown could disrupt ongoing
+cybersecurity
+operations and delay critical defensive work across a range of industries,
+Sectors such as finance, energy, and critical infrastructure have already integrated the technology into their security workflows. The development comes only days after Anthropic introduced Fable, a next-generation model built on the same advanced architecture as Mythos, making it available to the public with additional safeguards designed to limit potentially dangerous capabilities.
+Tensions between Anthropic and the Trump administration have been building for months over the rules governing how the Pentagon can deploy the company’s AI systems. At the center of the dispute are the safety guardrails and operational limits attached to Anthropic’s models.
+According to Washington DC-based AI columnist Ron Schmelzer, the biggest takeaway from the latest restrictions is that governments are increasingly treating advanced AI as a strategic technology, on par with nuclear capabilities or high-grade encryption.
+“While the US was focusing on preventing foreign users from accessing Anthropic’s most powerful models, Anthropic’s reaction of making it unavailable to everyone shows that there’s a tension here between the AI mega companies efforts to rapidly increase their market share and profitability and governments efforts to make sure that AI is used for their benefit. In this push and pull, who will win, multi-billion dollar companies (or even trillion-dollar) or powerful governments?” he tells
+Interesting Engineering (IE)
+The latest decision to impose new restrictions could further intensify that standoff, raising the stakes in an increasingly contentious debate over the
+use of advanced AI.
+Get the latest in engineering, tech, space & science - delivered daily to your inbox.
+Bojan Stojkovski is a freelance journalist based in Skopje, North Macedonia, covering foreign policy and technology for more than a decade. His work has appeared in Foreign Policy, ZDNet, and Nature.
+Solid-state battery cell hits 465 Wh/kg density, targets aerospace and defense applications
+Test facility for full-scale fusion power-plant blankets set to be developed in US
+US Navy’s nuclear-powered fast-attack submarine returns to fleet
+Iron-based catalyst helps zinc-air batteries power devices without precious metals
+Scientists forge 24,000-atom mini universe that generates time without a single clock
+More from AI and Robotics
+AI and Robotics
+AI got smarter and twice as expensive in 2026. Here’s which model is worth it
+AI and Robotics
+New research shows robot ‘personality’ in games hinges on timing and turn-taking
+AI and Robotics
+FIFA World Cup 2026 gets Boston Dynamics’ robot dogs for venue security patrols
+AI and Robotics
+Watch: Korean humanoid robot performs viral K-POP dance, learns by watching videos
+AI and Robotics
+Robot hand uses touch and vision to harvest ripe fruit with near-100% accuracy
+AI and Robotics
+AI got smarter and twice as expensive in 2026. Here’s which model is worth it
+AI and Robotics
+New research shows robot ‘personality’ in games hinges on timing and turn-taking
+AI and Robotics
+FIFA World Cup 2026 gets Boston Dynamics’ robot dogs for venue security patrols
+AI and Robotics
+Watch: Korean humanoid robot performs viral K-POP dance, learns by watching videos
+AI and Robotics
+Robot hand uses touch and vision to harvest ripe fruit with near-100% accuracy",https://interestingengineering.com/ai-robotics/anthropic-blocks-international-users,interesting engineering,综合科技,无,2026-06-13T18:56:39+00:00
+"Millipedes originated 460 million years ago, study rewrites timeline",2026-06-13,"A new study has established the first-ever evolutionary history of all living millipedes, one of the planet’s first land animals that pioneered its terrestrial ecosystems (as the first chemical weapon manufacturers, too).
+At a time when the Earth was bare, when there were no vertebrates, no trees, no leaves, no flowering plants, and no plants with seeds, millipedes were feeding on decaying mosses, decomposed slime, and primordial gunk.
+Though that sounds unappetizing, someone had to complete the “dirty work” necessary to pave the way for life. Though they perform an essential function as one of the first animals on Earth, science still hadn’t fully tracked their history until now.
+A new, groundbreaking study published in Current Biology addressed a 100-year-old gap in millipede science surrounding two rare groups of millipedes: Siphoniulida and Siphonocryptida.
+Scientists knew that they existed, but without specimens for DNA analysis, they couldn’t confirm where they belonged in the millipede family tree.
+But it was no easy feat to find them. One group spends its life underground, while the other survives in only a few known locations.
+Researchers traveled to Los Tuxtlas, Mexico, and Spain’s Canary Islands to collect Siphoniulus neotropicus and Hirudicryptus canariensis, two millipedes whose DNA had never before been included in an evolutionary analysis.
+“It took 10 people over a week to find one tiny 10-millimeter adult,” said Luisa “Fernanda” Vasquez-Valverde, the paper’s first author, in a press release.
+“Finding them in the field was hard because we were just seeing this little white nematode. We didn’t know for sure it was a millipede until we looked under the microscope.”
+After sequencing their DNA, comparing hundreds of genes across 82 millipede species, and combining those results with evidence from 29 fossils, researchers determined where the groups belonged in millipede history and when their lineages emerged.
+“Millipedes may have originated nearly 460 million years ago — roughly 35 million years before the oldest known millipede fossils and much earlier than previously believed,” according to the press release.
+Siphonocryptida turned out not to be a distinct order after all, but part of an existing lineage. Siphoniulida was finally placed among its closest relatives on the millipede evolution timeline.
+All in all, the analysis of the millipede species revealed that the ancient animals originated 460 million years ago, roughly 35 million years before the oldest known millipede fossils, which was “the biggest surprise” to researchers —
+“Just how ancient these lineages turned out to be.”
+The completed family tree also revealed one of the millipedes’ most important adaptations: they made the first chemical weapons. And it was these defenses that helped scientists trace their origins to about 260 million years ago.
+Although the new study brought new insights into one of the planet’s most significant animals, millipedes still hold secrets waiting to be discovered.
+Scientists have described more than 14,000 species worldwide, but experts believe that tens of thousands may still be out there undiscovered.
+These “unheralded heroes of the ecosystem” may be one of nature’s most important detritivores — because they break down decaying plant material and return nutrients to ecosystems — but scientists still haven’t fully penetrated this lineage, which is more ancient than the dinosaurs and paved the way on land for vertebrates.
+“It’s really kind of puzzling that they have such an important function in the ecosystem, and yet they’re so poorly known,” noted Paul Marek, the study’s lead investigator and associate professor in the College of Agriculture and Life Sciences’ Department of Entomology.
+beat vertebrates onto land by more than 80 million years,” continued Marek. “They really set the stage for
+on land, including humans and
+“There is all this potential for discovery,” a press release
+. “It keeps me wondering what else we’re going to find.”
+Get the latest in engineering, tech, space & science - delivered daily to your inbox.
+Originally from LA, Maria Mocerino has been published in Business Insider, The Irish Examiner, The Rogue Mag, Chacruna Institute for Psychedelic Plant Medicines, and now Interesting Engineering.
+Solid-state battery cell hits 465 Wh/kg density, targets aerospace and defense applications
+Test facility for full-scale fusion power-plant blankets set to be developed in US
+US Navy’s nuclear-powered fast-attack submarine returns to fleet
+Iron-based catalyst helps zinc-air batteries power devices without precious metals
+Scientists forge 24,000-atom mini universe that generates time without a single clock
+More from Science
+World’s first ‘three-lane’ optical fiber network in China boosts data transfer by 5x
+World’s first working nuclear clocks built with thorium nucleus after decades of effort
+Scientists forge 24,000-atom mini universe that generates time without a single clock
+Beyond rare earths: this new magnet material could reshape motors
+US scientists create highest-resolution 3D map yet of a particle shaping matter
+World’s first ‘three-lane’ optical fiber network in China boosts data transfer by 5x
+World’s first working nuclear clocks built with thorium nucleus after decades of effort
+Scientists forge 24,000-atom mini universe that generates time without a single clock
+Beyond rare earths: this new magnet material could reshape motors
+US scientists create highest-resolution 3D map yet of a particle shaping matter",https://interestingengineering.com/science/millipedes-originated-460-million-years-ago,interesting engineering,综合科技,无,2026-06-13T18:56:42+00:00
+"Solid-state battery cell hits 465 Wh/kg, passes extreme safety tests",2026-06-13,"European battery startup SOLiTHOR has produced its first 10 Ah demonstration cell, marking an increase in the physical scale of its solid-state lithium battery technology. The company intends for this larger format to show that its laboratory chemistry can transition into commercial production for industries requiring specialized power sources.
+Alongside the production of the larger cell, the company reported stack-level energy densities of 465 Wh/kg and 1400 Wh/L within a pouch design. Engineers reached these figures by introducing a high-loading cathode with an areal capacity of 8mAh/cm2 into the company’s proprietary Solid Composite Electrolyte.
+Unlike traditional lithium-ion systems or certain semi-solid designs, this chemistry uses a sol-gel process that functions without requiring any liquid electrolyte injections during assembly.
+Laboratory evaluations indicate specific performance characteristics under varied operational environments. When testing multilayer pouch cells at a temperature of 25°C, the cells sustained continuous discharge rates reaching 5C without experiencing major drops in capacity.
+The same units tolerated short 30-second power pulses up to 10C when held at a 50% state of charge. This specific energy discharge behavior is relevant for machinery that requires brief, intense
+energy outputs
+, such as unmanned aerial vehicles during departure and descent sequences.
+“SOLiTHOR has developed a chemistry that allows the industry to rethink the manufacturing of solid-state battery cells,” said Dr. Fanny Bardé, Co-Founder and Chief Technology Officer at SOLiTHOR.
+Long-term stability tests were conducted on smaller 1 Ah multilayer pouch cells. These units completed more than 500 full discharge cycles while maintaining over 80% of their original storage capacity, which provides an initial benchmark for the operational lifespan of the chemistry.
+During standardized safety protocols, the fully charged multilayer cells were subjected to intentional overcharging and direct nail penetration.
+“In safety assessments, SOLiTHOR’s technology successfully passed the overcharge and nail penetration tests on a 100% charge multilayer pouch cell with no smoke, leakage, thermal runaway, or fire,” highlighted the company in a press release.
+“These technical achievements not only prove that the chemistry works, but that it delivers the combination of energy density, power performance, and cycle life required for practical applications,” added Bardé.
+The manufacturing framework for the new chemistry relies on roll-to-roll processing systems already common in the battery sector. By removing the liquid filling stage entirely and accelerating the subsequent
+chemical formation
+and aging protocols, the production timeline for these steps is shortened by two-thirds.
+Because these specific phases normally represent one-quarter of total cell manufacturing expenditures, their reduction alters the overall processing economics.
+“Existing Li-ion facilities can be upgraded for solid-state production with no new equipment, limited switching costs, and reduced operational costs,” noted the
+press release
+The company is targeting initial applications for its battery cells within the aerospace, maritime, transport, and defense sectors.
+“With this major technical update, we are demonstrating that our technology can be realistically produced, satisfying the demands of high-performance and high-value applications within aerospace, dual-use, and mobility,” concluded Rodrigo P. Navarro, CEO at SOLiTHOR.
+Get the latest in engineering, tech, space & science - delivered daily to your inbox.
+An active and versatile journalist and news editor. He has covered regular and breaking news for several leading publications and news media, including The Hindu, Economic Times, Tomorrow Makers, and many more. Aman holds expertise in politics, travel, and tech news, especially in AI, advanced algorithms, and blockchain, with a strong curiosity about all things that fall under science and tech.
+Solid-state battery cell hits 465 Wh/kg density, targets aerospace and defense applications
+Test facility for full-scale fusion power-plant blankets set to be developed in US
+US Navy’s nuclear-powered fast-attack submarine returns to fleet
+Iron-based catalyst helps zinc-air batteries power devices without precious metals
+Scientists forge 24,000-atom mini universe that generates time without a single clock
+More from Energy
+China’s Xiaomi unveils robotic arm that enables remote, hands-free home EV charging
+Test facility for full-scale fusion power-plant blankets set to be developed in US
+Iron-based catalyst helps zinc-air batteries power devices without precious metals
+Halo nuclear microreactor utilizes high-fidelity simulation to speed first power
+US’ first vertically integrated solar factory starts production to power 1.3M homes
+China’s Xiaomi unveils robotic arm that enables remote, hands-free home EV charging
+Test facility for full-scale fusion power-plant blankets set to be developed in US
+Iron-based catalyst helps zinc-air batteries power devices without precious metals
+Halo nuclear microreactor utilizes high-fidelity simulation to speed first power
+US’ first vertically integrated solar factory starts production to power 1.3M homes",https://interestingengineering.com/energy/solid-state-battery-cell-aerospace-defense,interesting engineering,综合科技,无,2026-06-13T18:56:44+00:00
+World's first 'three-lane' optical fiber line boosts data transfer 5x,2026-06-13,"Chinese researchers have reportedly developed a new “three-lane highway” optical fiber system. The new system, the researchers explain, could dramatically expand the data-transfer capacity of future networks, notably those for artificial intelligence (AI).
+Put in simpler terms, the innovation effectively “squeezes” more traffic from fiber-optic cables without having to replace or lay new cabling. According to the team, they have been able to increase traffic by as much as five times while also increasing transmission capacity per core by nearly 50%.
+Today, most internet traffic travels through glass fibers using laser light. Importantly, each fiber doesn’t just carry one beam of light. It carries many wavelengths (colors) of light simultaneously, like multiple radio stations sharing the airwaves.
+Presently, most commercial systems use a mixture of C-band (the workhorse) and L-band wavelengths. The latter is used to extend capacity when needed.
+The team, they report, has managed to add a third, called
+; hence the “three-lane highway” analogy. The fiber itself isn’t necessarily wider; they’re simply using more of the available light spectrum.
+So, you might ask, why hasn’t S-band been used before? Well, in short, over long distances, optical signals tend to weaken. To overcome this, telecom companies use optical amplifiers placed along the route.
+The industry’s amplifiers were optimized for C-band (and later L-band). S-band signals were more difficult and expensive to amplify cleanly. To this end, the Chinese team claims to have solved enough of these engineering problems to make commercial deployment practical.
+But there is another trick up the team’s sleeve: multiple cores to the fibers. Normal optical fibers consist of a single core, but the team’s new ones reportedly actually contain four.
+To this end, each of these core acts like an independent fiber. So, unlike traditional fibers with a single core and two optical bands, the new fibers actually have four cores, with three optical bands working simultaneously.
+That’s a significant leap in capability. For applications like AI, this could prove to be very useful indeed, especially when it comes to removing data-transfer bottlenecks.
+At present, most large AI models tend to use thousands of graphics processing units (GPUs), constantly exchanging data at the speed of light. A modern AI cluster can move terabits per second between machines.
+Often, the bottleneck is not the GPU but getting data from one GPU cluster to another. So, if you can move five times more data through the same fiber infrastructure, you necessarily get faster training, larger distributed models, and lower network congestion.
+Looking at the bigger picture, this isn’t a breakthrough in terms of fiber optics; similar achievements have happened in
+, Europe, and the US. What is different is that this appears to have been commercially deployed, not just developed in a lab.
+According to reports, the new optic fibers have run over about 21.7 miles (35 km) of an existing telecoms network, combining the innovations mentioned. Looking ahead, the team suggests the new cables could be deployed internationally, perhaps even in submarine cables.
+It could also play a major role in China’s “
+Eastern Data
+, Western Computing strategy,” which seeks to shift data-intensive workloads from densely populated eastern regions to resource-rich western provinces, according to the developers.
+Get the latest in engineering, tech, space & science - delivered daily to your inbox.
+Christopher graduated from Cardiff University in 2004 with a Masters Degree in Geology. Since then, he has worked exclusively within the Built Environment, Occupational Health and Safety and Environmental Consultancy industries. He is a qualified and accredited Energy Consultant, Green Deal Assessor and Practitioner member of IEMA. Chris’s main interests range from Science and Engineering, Military and Ancient History to Politics and Philosophy.
+Solid-state battery cell hits 465 Wh/kg density, targets aerospace and defense applications
+Test facility for full-scale fusion power-plant blankets set to be developed in US
+US Navy’s nuclear-powered fast-attack submarine returns to fleet
+Iron-based catalyst helps zinc-air batteries power devices without precious metals
+Scientists forge 24,000-atom mini universe that generates time without a single clock
+More from Innovation
+First-ever: Four-legged robot dog successfully walks across treacherous Arctic ice floes
+Chinese military study outlines strategy to target US warships from 1,800 miles away
+World’s first working nuclear clocks built with thorium nucleus after decades of effort
+Beyond rare earths: this new magnet material could reshape motors
+US scientists’ new alloys cut truck engine weight by 15%, boost fuel efficiency by over 10%
+First-ever: Four-legged robot dog successfully walks across treacherous Arctic ice floes
+Chinese military study outlines strategy to target US warships from 1,800 miles away
+World’s first working nuclear clocks built with thorium nucleus after decades of effort
+Beyond rare earths: this new magnet material could reshape motors
+US scientists’ new alloys cut truck engine weight by 15%, boost fuel efficiency by over 10%",https://interestingengineering.com/innovation/worlds-first-three-lane-optical-fiber-network,interesting engineering,综合科技,无,2026-06-13T18:56:46+00:00
+China’s Xiaomi unveils a robotic arm for automated home EV charging,2026-06-13,"The Chinese tech giant, Xiaomi, has offered a closer look at its vision for the future of home EV charging, unveiling a robotic arm system that can automatically connect a vehicle to a charger without any driver intervention. The company says the technology is scheduled for commercial release in the fourth quarter of 2026.
+The automated charging arm is intended to work alongside smart parking functions, creating an integrated experience in which a vehicle parks itself and begins charging autonomously. According to Xiaomi, the goal is to remove the friction from everyday EV ownership by combining automation and AI into a single home
+The company also stressed that the demonstration video released with the announcement was recorded in a real-world environment rather than a controlled concept showcase. Xiaomi said the functions featured in the footage are already production-ready, suggesting that the technology is nearing commercial deployment.
+As part of the unveiling, Xiaomi outlined a range of everyday use cases designed to make home EV charging almost entirely hands-free. The company says the system is built around convenience, allowing drivers to interact with the charger as little as possible,
+CarNewsChina
+One of the key features is what Xiaomi describes as automatic charging. After the vehicle is parked, the robotic arm detects its position, connects the charging cable, and begins charging without requiring any manual input. Drivers can simply leave the vehicle and let the system handle the rest.
+The charging process is also designed to end automatically. Once the battery reaches full capacity or a user-defined charging limit, the
+arm disconnects the charging connector on its own, helping to streamline the entire experience.
+In addition, Xiaomi says owners will be able to start a charging session remotely through a smartphone app. As long as the vehicle is parked within the robotic arm’s operating range, users can trigger the process without having to return to the car or physically handle the charging cable.
+Competition in the field of autonomous EV charging is accelerating as Chinese automakers and technology companies look to redefine the home charging experience. Xiaomi is not alone in exploring robotic solutions, with several major industry players investing in similar technologies.
+Among them is
+, which has also been developing its own automated charging system. During the launch of the Li Auto i8 all-electric SUV last year, CEO Li Xiang revealed that the company was actively testing an automatic charging robot, highlighting a growing belief within the industry that future EV ecosystems will combine intelligent parking,
+driving features, and fully automated charging into a single seamless experience.
+Another example of the industry’s shift toward autonomous charging emerged last August, when the Harmony Intelligent Mobility Alliance demonstrated a robotic charging system integrated with the all-electric Aito M8. The setup allows drivers to activate an “off-vehicle parking” mode, enabling the car to maneuvre itself into a designated charging bay.
+Once in position, a smartphone app commands a robotic arm to open the charging port and automatically connect the charging cable. According to
+, the entire process is designed to be completed in just a few minutes, roughly the time it takes to enjoy a cup of coffee.
+Get the latest in engineering, tech, space & science - delivered daily to your inbox.
+Bojan Stojkovski is a freelance journalist based in Skopje, North Macedonia, covering foreign policy and technology for more than a decade. His work has appeared in Foreign Policy, ZDNet, and Nature.
+Solid-state battery cell hits 465 Wh/kg density, targets aerospace and defense applications
+Test facility for full-scale fusion power-plant blankets set to be developed in US
+US Navy’s nuclear-powered fast-attack submarine returns to fleet
+Iron-based catalyst helps zinc-air batteries power devices without precious metals
+Scientists forge 24,000-atom mini universe that generates time without a single clock
+More from Energy
+Solid-state battery cell hits 465 Wh/kg density, targets aerospace and defense applications
+Test facility for full-scale fusion power-plant blankets set to be developed in US
+Iron-based catalyst helps zinc-air batteries power devices without precious metals
+Halo nuclear microreactor utilizes high-fidelity simulation to speed first power
+US’ first vertically integrated solar factory starts production to power 1.3M homes
+Solid-state battery cell hits 465 Wh/kg density, targets aerospace and defense applications
+Test facility for full-scale fusion power-plant blankets set to be developed in US
+Iron-based catalyst helps zinc-air batteries power devices without precious metals
+Halo nuclear microreactor utilizes high-fidelity simulation to speed first power
+US’ first vertically integrated solar factory starts production to power 1.3M homes",https://interestingengineering.com/energy/chinas-xiaomi-unveils-robotic-arm-for-ev-charging,interesting engineering,综合科技,无,2026-06-13T18:56:49+00:00
+"Chinese military strategizes to target US warships from 1,800 miles away",2026-06-13,"Chinese military planners have reportedly devised a plan to target US carriers in places like Guam. The strategy, published in the Chinese journal
+Tactical Missile Technology
+, claims a combination of satellites, AI, and missiles could render carrier groups vulnerable, even at distances of over 1,620 nautical miles (3,000 km).
+At present, both the People’s Liberation Army (PLA) and the
+United States Navy
+know that the former can threaten critical assets like aircraft carriers close to China. To reduce that threat, the US Navy has increasingly positioned key assets farther from China’s coastline, relying on bases such as Guam and adopting more dispersed operating patterns across the Pacific.
+The Navy has also been dispersing deployed
+ships in the region
+to make them much harder to find, track, and potentially attack. Not keeping their eggs in one basket, as it were.
+However, as the
+South China Morning Post (SCMP)
+reports, the PLA has been working on a potential plan to threaten such ships even at great distances. Led by associate professor Gao Tianyun from the College of International Studies at the National University of Defence Technology in Nanjing, the proposal is very interesting indeed.
+The study, titled “Research on the effectiveness of anti‑ship missile swarm operation under distributed confrontation,” basically describes an innovative “kill-chain” solution rather than a new wonder weapon.
+The idea, in a nutshell, is to first find the group using a mixture of satellites, drones, radar aircraft, ships, submarines, signals intelligence, etc. Once done, the plan would rely on near-constant tracking for long-range missiles to be targeted and launched.
+With that achieved, the paper suggests firing many missiles (a mix of hypersonics and “pre-strike firepower packages”) at the target, not one or two.
+Once in flight, the plan would rely on the missiles cooperating by sharing target data, sorting real ships from decoys, assigning themselves to different targets, and attacking from different angles.
+According to the researchers, such a coordinated attack could overwhelm layers of US naval defense, including Aegis-equipped destroyers, interceptor missiles, electronic warfare systems, decoys, and close-in weapon systems.
+So, something of a coordinated, long-range missile swarm attack. The point is to make the US defence system run out of time, interceptors, radar capacity, or correct target choices.
+Sounds reasonable on the surface, but the plan comes with one major caveat. That being said, this is just a plan right now, not proof that China can actually do it tomorrow.
+Needless to say, hitting a moving carrier group at 1,620 nautical miles distant is not an easy task. Achieving it in reality would be brutally hard because the target moves, hides, jams, uses decoys, and fights back.
+The hardest part is not the missile range; it is maintaining accurate targeting data across the whole chain. While effectively just a wargame made public, the release of this information is likely intended to send a warning to the US, rather than actually boast about its technological prowess.
+In effect, they are saying that hiding and dispersing your ships won’t necessarily keep you safe. We (China) have the means to get them if we want to.
+Get the latest in engineering, tech, space & science - delivered daily to your inbox.
+Christopher graduated from Cardiff University in 2004 with a Masters Degree in Geology. Since then, he has worked exclusively within the Built Environment, Occupational Health and Safety and Environmental Consultancy industries. He is a qualified and accredited Energy Consultant, Green Deal Assessor and Practitioner member of IEMA. Chris’s main interests range from Science and Engineering, Military and Ancient History to Politics and Philosophy.
+Solid-state battery cell hits 465 Wh/kg density, targets aerospace and defense applications
+Test facility for full-scale fusion power-plant blankets set to be developed in US
+US Navy’s nuclear-powered fast-attack submarine returns to fleet
+Iron-based catalyst helps zinc-air batteries power devices without precious metals
+Scientists forge 24,000-atom mini universe that generates time without a single clock
+More from Innovation
+First-ever: Four-legged robot dog successfully walks across treacherous Arctic ice floes
+World’s first ‘three-lane’ optical fiber network in China boosts data transfer by 5x
+World’s first working nuclear clocks built with thorium nucleus after decades of effort
+Beyond rare earths: this new magnet material could reshape motors
+US scientists’ new alloys cut truck engine weight by 15%, boost fuel efficiency by over 10%
+First-ever: Four-legged robot dog successfully walks across treacherous Arctic ice floes
+World’s first ‘three-lane’ optical fiber network in China boosts data transfer by 5x
+World’s first working nuclear clocks built with thorium nucleus after decades of effort
+Beyond rare earths: this new magnet material could reshape motors
+US scientists’ new alloys cut truck engine weight by 15%, boost fuel efficiency by over 10%",https://interestingengineering.com/innovation/china-plan-to-strike-us-carrier-groups,interesting engineering,综合科技,无,2026-06-13T18:56:51+00:00
+World's first working nuclear clocks built after decades of effort,2026-06-13,"For decades, nuclear clocks have existed as one of physics’ most tempting promises. A device that could keep time even more accurately than today’s best atomic clocks. Now, two independent research teams have turned this idea into reality.
+Researchers in China and Europe have demonstrated working nuclear clocks based on the nucleus of
+, a rare isotope whose unique properties have long made it the leading candidate for next-generation timekeeping.
+The achievement represents much more than a new kind of clock. Since a nucleus is far better shielded from environmental disturbances than the electrons used in atomic clocks,
+nuclear clocks
+could eventually become the most precise timekeepers ever built.
+Plus, this breakthrough could improve navigation, gravitational sensing, and tests of the laws governing the universe.
+As the researchers note, “by making a laser-addressed atomic nucleus an operational clock reference, this work extends quantum metrology from electronic to nuclear transitions, and opens a new platform for compact clocks, solid-state nuclear quantum sensors and precision tests of fundamental physics.”
+Modern atomic clocks keep time by measuring the frequency of light absorbed or emitted when electrons jump between specific energy levels inside an atom.
+As these frequencies are extremely stable, counting their oscillations provides an exceptionally accurate way to measure time. Physicists have long envisioned building a clock using a nucleus instead of electrons. The idea is attractive because atomic nuclei are much smaller and more isolated from the outside world.
+Stray electric and magnetic fields that can slightly disturb electrons have far less influence on the nucleus. In principle, that should allow
+a nuclear clock
+to achieve even greater stability and precision.
+“Such a nuclear clock might rival or outperform current optical clocks based on electron-shell transitions in atoms or ions, is expected to be more robust against external perturbations, and provides enhanced sensitivity in clock-based tests of fundamental principles of physics,” the researchers explained.
+However, the problem is that almost all nuclear energy transitions are far too energetic to be controlled with lasers. They typically require high-energy gamma rays rather than ordinary laser light.
+Thorium-229 is a remarkable exception. Its nucleus possesses an unusually low-energy excited state that can be reached using ultraviolet laser light. For years, physicists recognized that this made thorium-229 the only known
+realistic candidate for a nuclear clock
+Even so, the task remained extraordinarily difficult. The required transition occurs at a wavelength of roughly 148 nanometers, deep in the vacuum ultraviolet region of the electromagnetic spectrum.
+Producing stable laser light at this wavelength and precisely matching it to the nuclear transition pushed existing technology to its limits.
+The two groups solved the problem using broadly similar strategies. One team, led by researchers at Tsinghua University, and another from the Vienna Center for Quantum Science and Technology, embedded thorium-229 atoms inside calcium fluoride crystals.
+“Here, we implement a thorium-229 nuclear clock by stabilizing a continuous-wave laser to the 148 nm nuclear transition with rapid feedback based on continuous absorption spectroscopy,” the researchers from the Vienna Center
+The crystal acts as a solid host that holds large numbers of thorium nuclei in place while allowing laser light to interact with them. Both groups then illuminated the crystals with highly specialized continuous-wave vacuum ultraviolet lasers tuned near the thorium nuclear transition.
+Although the overall concept was similar, the teams optimized different parts of the experiment. The Chinese researchers relied on a more
+powerful laser
+system to drive the nuclear transition. The European team instead used crystals containing a higher concentration of thorium nuclei, increasing the number of nuclei available for measurement.
+Once they had successfully excited the nuclei, the researchers needed to demonstrate that the system could function as a true clock rather than simply detecting the transition.
+The Chinese team locked the frequency of their vacuum ultraviolet laser directly to the nuclear resonance. In effect, the thorium nucleus became a frequency reference that continuously corrected the laser.
+The researchers reported a fractional frequency instability approaching one part in 10 trillion after a day of operation, showing that the nuclear transition could serve as a stable timekeeping signal.
+The European team chose a different test. Instead of focusing solely on clock performance, they used their nuclear clock as a scientific probe.
+The researchers searched for
+ultralight dark matter
+, a hypothetical form of matter that could subtly alter the energy levels inside atomic nuclei. If such particles existed, they might produce tiny periodic shifts in the thorium transition frequency.
+“We use the nuclear clock to constrain models of ultralight dark matter by searching for periodic fluctuations and slow drifts in the nuclear transition energy, on time scales between 20 sec and one day,” the Vienna team said.
+No evidence of dark matter was detected. However, the experiment demonstrated that the nuclear clock was sensitive enough to rival or exceed the capabilities of the world’s best atomic clocks when searching for such effects.
+Together, the two studies provide the strongest evidence yet that practical nuclear clocks are no longer a theoretical concept but an operational technology.
+While these first-generation devices are still laboratory systems, they mark the beginning of a new era in precision measurement.
+Future nuclear clocks could outperform today’s most advanced atomic clocks because the thorium nucleus is naturally protected from many sources of noise that limit current technologies.
+According to the researchers, such clocks could eventually improve satellite navigation, provide more precise gravitational measurements, and enable new tests of fundamental physics.
+The next major goal is to refine the technology, reduce its size and complexity, and compare multiple nuclear clocks against one another.
+You can read the studies
+Get the latest in engineering, tech, space & science - delivered daily to your inbox.
+Rupendra Brahambhatt is an experienced writer, researcher, journalist, and filmmaker. With a B.Sc (Hons.) in Science and PGJMC in Mass Communications, he has been actively working with some of the most innovative brands, news agencies, digital magazines, documentary filmmakers, and nonprofits from different parts of the globe. As an author, he works with a vision to bring forward the right information and encourage a constructive mindset among the masses.
+Solid-state battery cell hits 465 Wh/kg density, targets aerospace and defense applications
+Test facility for full-scale fusion power-plant blankets set to be developed in US
+US Navy’s nuclear-powered fast-attack submarine returns to fleet
+Iron-based catalyst helps zinc-air batteries power devices without precious metals
+Scientists forge 24,000-atom mini universe that generates time without a single clock
+More from Innovation
+First-ever: Four-legged robot dog successfully walks across treacherous Arctic ice floes
+World’s first ‘three-lane’ optical fiber network in China boosts data transfer by 5x
+Chinese military study outlines strategy to target US warships from 1,800 miles away
+Beyond rare earths: this new magnet material could reshape motors
+US scientists’ new alloys cut truck engine weight by 15%, boost fuel efficiency by over 10%
+First-ever: Four-legged robot dog successfully walks across treacherous Arctic ice floes
+World’s first ‘three-lane’ optical fiber network in China boosts data transfer by 5x
+Chinese military study outlines strategy to target US warships from 1,800 miles away
+Beyond rare earths: this new magnet material could reshape motors
+US scientists’ new alloys cut truck engine weight by 15%, boost fuel efficiency by over 10%",https://interestingengineering.com/innovation/first-nuclear-clock-thorium-229,interesting engineering,综合科技,无,2026-06-13T18:56:53+00:00
+Scientists Reveal the Hidden Way Caffeine Sabotages Sleep,2026-06-13,"EEG studies suggest caffeine can reduce deep, restorative sleep even when sleep duration appears normal. Its effects vary by individual, and relying on caffeine for energy may come at the cost of nighttime recovery.
+Evening coffee has long been debated. Some people can drink it and fall asleep with no trouble, while others struggle to sleep afterward. But a growing body of research suggests that focusing only on whether coffee delays sleep may miss a more important issue: what caffeine does to the brain during sleep.
+Researchers are increasingly using EEG, or electroencephalography, to study caffeine’s effects on sleep. This technique records the brain’s electrical activity, allowing scientists to examine not only how long people sleep or how often they wake up, but also the underlying quality of their sleep.
+“EEG allows us to see not only whether a person is sleeping but also how the brain is sleeping. Classical sleep assessment assesses sleep duration and its stages, whereas quantitative EEG analysis reveals more subtle changes, such as reduced slow-wave activity, which is an important marker of sleep depth and its restorative character,” explains Prof. Donata Kurpas from the Department of Nursing, Wroclaw Medical University.
+Slow waves are a defining feature of deep sleep, the stage that supports physical recovery, replenishes energy stores, and helps maintain healthy brain function.
+Studies show that caffeine’s effects do not always appear as shorter sleep or difficulty falling asleep. In many cases, the bigger impact is on the quality of sleep.
+“Caffeine may shorten sleep or make it more difficult to fall asleep; however, even when sleep duration appears normal, it may reduce slow-wave activity and shift the EEG pattern toward a more ‘wakeful’ brain,” says Prof. Kurpas.
+As a result, someone may spend eight hours in bed while their brain receives less of the restorative benefits of deep sleep. Many people may not realize this is happening.
+“The subjective feeling of having slept well does not always correspond to what we observe in neurophysiological recordings. A person may fall asleep without major difficulty and not remember awakenings, while the brain may display fewer features of deep sleep,” the expert adds.
+One of the clearest findings from sleep research is that people respond to caffeine very differently. Genetics, metabolism, age, stress, and chronic fatigue can all influence its effects.
+For some people, even a morning cup of coffee may affect sleep later that night.
+“It is not only about coffee consumed just before bedtime. For some people, the total amount of caffeine consumed during the day and whether the body has enough time to metabolize it before nightfall may also be important,” Prof. Kurpas emphasizes.
+This information is especially relevant for people who perform demanding mental work, athletes, and anyone who regularly uses caffeine to boost focus and performance.
+Caffeine increases alertness and helps reduce feelings of fatigue. However, experts note that this boost may sometimes come at the expense of overnight recovery.
+“If caffeine helps a person function during the day while simultaneously worsening the quality of nighttime recovery, a vicious circle may develop: greater fatigue, greater need for stimulation, and poorer sleep,” says Prof. Kurpas.
+Because of findings like these, sleep researchers are paying less attention to sleep duration alone and focusing more on how the brain functions during sleep.
+“Caffeine is neither ‘good’ nor ‘bad’. It is a biologically active substance whose effects depend on dose, time of day, age, lifestyle, sleep quality, stress burden, and individual sensitivity,” the expert concludes.
+Reference: “The Caffeinated Brain Part 2: The Effect of Caffeine on Sleep-Related Electroencephalography (EEG)—A Systematic and Mechanistic Review” by James Chmiel and Donata Kurpas, 12 April 2026,
+DOI: 10.3390/nu18081220
+Never miss a breakthrough:
+Join the SciTechDaily newsletter.
+Follow us on
+Cognitive Science
+Neuroscience
+Sleep Science
+Scientists Discover Caffeine Can Repair Key Memory Circuits After Sleep Loss
+A 45-Minute Nap Can Reset Your Brain for Better Learning
+Blocking HDAC2 Enzyme May Reverse Memory Loss Caused by Alzheimer’s Disease
+Yeast Protein Reveals Clues to How Alzheimer’s Forms
+MIT Scientists Use Optogenetics to Trigger REM Sleep
+Scientists Find No Correlation Between Moon Phases and Sleep
+Study Shows Caffeine Has a Positive Effect on Memory
+Disrupted Sleep Patterns Linked to Alzheimer’s
+Examining the Relationship Between Diabetes and Cognitive Decline",https://scitechdaily.com/scientists-reveal-the-hidden-way-caffeine-sabotages-sleep/,scitechdaily,综合科技,无,2026-06-13T18:57:01+00:00
+Your Gut Microbes May Decide How Many Calories You Really Absorb,2026-06-13,"Researchers have created a model that follows food beyond traditional calorie calculations, incorporating the role of gut microbes in digestion.
+Food labels make calorie counts look straightforward. The number listed per serving is calculated from the food’s fat, carbohydrate, and protein content.
+In reality, the digestive process is much more complex. As food moves through the body, it interacts with trillions of microbes in the gut that can affect how many calories are ultimately absorbed.
+Researchers at
+Arizona State University
+have developed a mathematical model called DAMM, short for digestion, absorption, and microbial metabolism, to better capture this process. The model tracks food as it moves through the digestive system, estimating what is absorbed by the body, what reaches the colon, and how gut microbes transform the remaining material into substances that are either absorbed or eliminated.
+The researchers say the model could improve understanding of obesity, diabetes, and other metabolic disorders by revealing how different diets influence both the body and the microbial communities living in the colon.
+With further development, DAMM could help health care providers create more personalized nutrition plans.
+“Digestion is not just a human process—it is a collaboration between our bodies and trillions of microbes living in the gut,” said Professor Rosa Krajmalnik-Brown. “DAMM gives us a powerful new way to quantify how those microbial partners contribute to human health and energy balance and also points at the importance of properly feeding our gut microbes.”
+Krajmalnik-Brown directs the Biodesign Center for Health Through Microbiomes and is a professor in ASU’s School of Sustainable Engineering and the Built Environment.
+The research team also included Professor Bruce Rittmann, director of the Biodesign Swette Center for Environmental Biotechnology and a Regents Professor of environmental engineering at ASU, along with lead author Taylor Davis, a graduate research assistant. The project was conducted in collaboration with the AdventHealth Translational Research Institute in Orlando, Florida.
+The findings were published in
+For more than 100 years, scientists have used Atwater factors to estimate how much energy people obtain from food. This method calculates calories by multiplying the amounts of protein, carbohydrates, and fat by their average metabolizable energy values.
+While widely used, the approach does not account for the role of gut microbes. It cannot capture how different diets influence microbial activity or how microbes convert fiber and other undigested material into compounds such as short-chain fatty acids in the colon.
+The new work builds on a
+controlled feeding study
+that explored the role of the gut microbiome in human energy balance. The gut microbiome consists of the bacteria and other microorganisms that live throughout the digestive tract.
+In that study, healthy adults followed one of two carefully designed diets. One was a microbiome-enhancer diet rich in fiber and resistant starch (less processed foods and foods with larger particle size). The other reflected a more typical Western diet with lower levels of those components (more processed foods and smaller particle size). Participants eating the Western diet absorbed about 116 more calories per day than those on the high-fiber diet, despite reporting no increase in hunger among the high-fiber group.
+“What is truly unique about the DAMM model is that it quantitatively links human metabolism to the metabolism of the microorganisms in the colon in a way that matches the results from the clinical study and provides fundamental insight into how the microbial community works in partnership with the human host,” Rittmann said.
+The model begins by breaking a diet into its protein, carbohydrate, and fat components. It then estimates how much usable energy from those nutrients is absorbed in the upper digestive tract.
+DAMM next tracks the remaining material into the colon, where gut microbes break down food that escaped earlier digestion. This process generates short-chain fatty acids that can be absorbed and used as an additional energy source. The model also includes methane production by microbes known as methanogens.
+Microbial activity contributed a meaningful share of total energy. According to the model, short-chain fatty acids absorbed from the colon provided about 140 calories per day on average, representing roughly 7.4% of total usable energy. About 85% of usable energy came from the upper gastrointestinal tract, while the remaining 15% came from the lower gastrointestinal tract, where microbes play a major role.
+When the researchers compared DAMM with data from the controlled diet study, the model estimated calorie absorption more accurately than the traditional Atwater method. The standard approach tended to underestimate absorbed calories, while DAMM more closely matched the measured results.
+The model also identified important differences between the high-fiber and lower-fiber diets. The microbiome-enhancer diet delivered more fermentable material to the colon, giving microbes additional fuel to produce short-chain fatty acids.
+DAMM projected greater short-chain fatty
+production on the microbiome-enhancer diet, matching the pattern observed in the clinical study, where higher levels of these compounds were detected in blood serum and fecal samples.
+Short-chain fatty acids are not simply byproducts of digestion. They are produced when gut microbes ferment fiber and other food components that escape earlier absorption. Some of these fatty acids are then absorbed by the body and contribute to its energy supply. Even so, they represent only one part of the overall calorie equation. Although the microbiome-enhancer diet increased microbial activity and short-chain fatty acid production, it still resulted in fewer calories being absorbed overall.
+DAMM allows researchers to separate these processes, distinguishing what the body absorbs directly, what gut microbes produce, and what is ultimately absorbed or excreted.
+“The DAMM model is more than just a tool for characterizing diet,” Davis said. “It’s a framework designed to evolve. As we discover more on how diet, metabolism, and the microbes interact, the new insights can be incorporated into the model, allowing it to grow with us as we learn.”
+Reference: “Modeling the microbial contribution to human energy balance using the Digestion, Absorption, and Microbial Metabolism (DAMM) model” by Taylor L. Davis, Blake Dirks, Elvis A. Carnero, Karen D. Corbin, Steven R. Smith, Andrew Marcus, Rosa Krajmalnik-Brown and Bruce E. Rittmann, 27 May 2026,
+DOI: 10.1371/journal.pone.0347668
+Never miss a breakthrough:
+Join the SciTechDaily newsletter.
+Follow us on
+Arizona State University
+The Surprising Diet Rule That Makes “Good” Parasites Work
+New Study Links Controversial Gut Organism to Reduced Body Fat
+New Study: Supplement Reduces Liver Triglycerides in People With Fatty Liver Disease
+Scientists Warn: Food Coloring Nanoparticles May Damage Human Gut
+Just a Teaspoon: Adding Herbs and Spices to Your Diet Could Improve Gut Health
+Choline: An Essential Brain-Boosting Nutrient That Most Americans Are Lacking
+Poor Gut Health May Drive Multiple Sclerosis — But a Better Diet May Ease It
+Could Eating Tomatoes Improve Your Gut Health?
+Scientists: Eat More of This Carb – Even Supplements Make a Big Difference",https://scitechdaily.com/your-gut-microbes-may-decide-how-many-calories-you-really-absorb/,scitechdaily,综合科技,无,2026-06-13T18:57:03+00:00
+Millions Take This Joint Supplement but Scientists Found a Concerning Alzheimer’s Link,2026-06-13,"Scientists found a concerning
+link involving glucosamine, a joint supplement used by millions.
+A widely used supplement marketed for joint pain relief may be linked to faster progression of Alzheimer’s disease, according to new research from
+University of Florida
+The study found that people with mild cognitive impairment (MCI) who reported taking glucosamine were more likely to develop dementia than those who did not use the supplement. The findings come from a large analysis of patient records, along with brain imaging studies in both human tissue and mouse models of Alzheimer’s disease.
+Although the research does not prove that glucosamine causes dementia and still needs to be confirmed in clinical trials, the results add to growing evidence that disruptions in metabolism may play an important role in neurodegenerative diseases. The study was published June 9 in
+Nature Metabolism
+“In the United States, there are about 7 million people living with Alzheimer’s and millions more with related dementias such as Lewy body or frontotemporal dementia,” said senior author Ramon Sun, Ph.D., director of the Center for Advanced Spatial Biomolecule Research and associate director for innovation of UF’s McKnight Brain Institute. “A lot of these people actively take an over-the-counter supplement that could be making their disease progression worse.”
+Because glucosamine is widely available and frequently used by older adults to support joint health, researchers wanted to determine whether it might influence Alzheimer’s disease and related dementias (ADRD).
+Working with collaborators Yi Guo, Ph.D., and Jiang Bian, Ph.D., the team used
+artificial intelligence
+to analyze deidentified UF Health medical records collected between 2012 and 2024. They focused on patients diagnosed with either ADRD or mild cognitive impairment.
+The review showed that glucosamine use was common among both groups. Nearly 1,900 patients with ADRD and 2,750 patients with MCI reported taking the supplement, representing about 8% of each group.
+After accounting for factors such as age, sex, and demographic differences, the researchers found that glucosamine use was associated with a 25% greater likelihood of progressing from mild cognitive impairment to dementia.
+The analysis also revealed that among patients already diagnosed with ADRD, glucosamine use was associated with a 25% increase in mortality risk, meaning a higher likelihood of death within a given period. No similar increase was observed in the MCI group, suggesting the supplement’s effects may be more pronounced once dementia is established.
+Beyond the patient data, the researchers identified a metabolic process that may help explain the findings. Their work points to an overactive pathway involved in attaching sugar molecules to proteins, a process that appears heightened in Alzheimer’s disease.
+According to Sun, this pathway could become a promising target for future treatments.
+“Our results suggest that altered metabolism is a significant contributor to Alzheimer’s progression and, in addition, addressing the metabolic defect could be an important complement to approaches focused on Alzheimer’s plaques and tangles,” Sun said.
+The discovery was made possible through advanced spatial analysis technology developed in Sun’s laboratory.
+“This technology allows us to examine thousands and thousands of molecules created when the body breaks down food or drugs and to uncover intricate pathways that otherwise would stay hidden,” Sun said.
+Researchers took a closer look at glucosamine because it is a naturally occurring sugar-related molecule capable of crossing the blood-brain barrier. Once in the brain, it can contribute to biological pathways that build complex sugar structures on proteins. Commercial glucosamine supplements are commonly produced from sources such as shellfish shells or corn.
+The findings suggest that glucosamine may not affect everyone in the same way. Instead, its impact may depend on the underlying biological environment, with the Alzheimer’s brain appearing especially vulnerable.
+“The electronic health record data are very provocative,” said Matt Gentry, Ph.D., chair of UF’s Department of Biochemistry and Molecular Biology and a study co-author. “While it’s an association and not proof of causality, it does raise an important clinical question that now deserves much more attention.”
+To further investigate the mechanism, the researchers conducted experiments in genetically modified mice. They found that glucosamine significantly increased the attachment of sugar residues to proteins inside cells.
+Mice receiving glucosamine also experienced worsening deficits in social memory, which refers to the ability to recognize familiar individuals. When scientists chemically reduced the sugar-attachment process, memory performance improved.
+The team then partnered with Stefan Prokop, M.D., to analyze brain samples from the UF Neuromedicine Brain and Tissue Bank. Compared with healthy control samples, Alzheimer’s brain tissue showed substantially higher levels of the same sugar-attachment activity.
+Taken together, the findings suggest that this metabolic abnormality may be more than just a byproduct of Alzheimer’s disease. Instead, it could be actively contributing to the progression of the disorder.
+“Proteins are the cell’s molecular machines, and many of them need sugar tags added in just the right way to fold correctly, travel to the right place and do their jobs,” Gentry said. “What we found in Alzheimer’s is that this sugar-tagging system appears to be overactive. The Alzheimer’s brain is adding too many of these sugar structures, and this seems to contribute to the disease rather than protect against it.”
+Reference: “Hyperglycosylation is a metabolic driver of Alzheimer’s disease” by Tara R. Hawkinson, Zizhen Liu, Roberto A. Ribas, Terrymar Medina, Rikke S. Nielsen, Harrison A. Clarke, Xin Ma, Angela C. Mueller, Adrielle F. Plasencia, Alexander L. Sheer, Samantha T. Simpson, Charles M. Soto, Jessica Sudderth, Feng Cai, Alex R. Cantrell, Matthieu G. Colpaert, Cameron J. Shedlock, Lei Wu, Lyndsay E. A. Young, Damon D. Kooser, Li Chen, Alison M. Ryan, Sadi Quinones, Jihye Son, Parastoo Azadi, Ralph J. Deberardinis, Stefan Prokop, Derek Allison, Shuang Yang, Hongyu Chen, Yu Huang, Xing He, Kimberly M. Alonge, Jingchuan Guo, Yi Guo, Jiang Bian, Craig W. Vander Kooi, Matthew S. Gentry and Ramon C. Sun, 9 June 2026,
+Nature Metabolism
+DOI: 10.1038/s42255-026-01538-4
+Never miss a breakthrough:
+Join the SciTechDaily newsletter.
+Follow us on
+University of Florida
+Simple & Easy: Daily Multivitamin May Improve Cognition and Protect Against Mental Decline
+Daily Multivitamin May Slow Cognitive Aging for Older Adults
+Authoritative New Analysis Links Omega-3 Supplements to Cardioprotection and Improved Heart Health
+Omega-3 From Eating Fish May Protect Our Brains From Toxic Effects of Air Pollution
+The Combination of Foods You Eat Together May Raise Dementia Risk
+Study Finds Fish Oil Supplements May Lower Risk of Heart Disease and Death
+Common Nutrient Supplement May Prevent Alzheimer’s Disease
+Study Shows Link between Muscle-Building Supplements and Cancer
+Nutritional Supplements Help Ease Clinical Depression",https://scitechdaily.com/?p=522298,scitechdaily,综合科技,无,2026-06-13T18:57:05+00:00
+"Scientists Uncover What Kept Humanity’s First Campfires Burning 780,000 Years Ago",2026-06-13,"Rare charcoal fragments from an ancient lakeshore campsite are offering new clues about fire use, resource management, and the environmental knowledge of some of humanity’s earliest fire users.
+Long before cities, farms, or written language existed, some of humanity’s ancestors had already discovered a resource that would transform the course of human evolution: fire. But controlling fire was only part of the challenge. Keeping it burning required a reliable supply of fuel, and new research suggests that access to firewood may have helped determine where people lived nearly 800,000 years ago.
+At the prehistoric site of Gesher Benot Ya’aqov (GBY) in northern Israel, scientists have uncovered rare clues preserved in ancient charcoal fragments. The findings reveal not only what fueled some of the world’s earliest known campfires, but also how these early humans organized their lives around a lakeshore environment rich in food, water, raw materials, and fuel.
+The study, published in Quaternary Science Reviews, analyzed one of the oldest and most extensive charcoal collections ever recovered from a prehistoric site. The international research team, which included scientists from Israel, Spain, and Germany, found evidence that the inhabitants of GBY used the landscape in surprisingly practical ways, taking advantage of natural resources that made long-term occupation possible.
+Around 780,000 years ago, the area looked very different from today. GBY sat on the edge of ancient Lake Hula, a freshwater ecosystem surrounded by wetlands, woodland, and abundant wildlife. For hunter-gatherers, it would have been an exceptionally attractive place to live.
+Archaeologists have identified more than 20 occupation layers at the site, showing that generations of Acheulian hominins repeatedly returned to the same location over thousands of years. Excavations led by Prof. Naama Goren-Inbar of the Hebrew University of Jerusalem have uncovered stone tools, plant foods, fish remains, and the bones of large animals, providing one of the most detailed records of early human life anywhere in the world.
+One of the site’s most remarkable discoveries is the remains of a straight-tusked elephant, an animal that could weigh several times more than a modern African elephant. The arrangement of the bones suggests it was butchered at the site, offering a rare glimpse into large-game hunting and processing during the Lower Paleolithic.
+While elephant bones and stone tools tend to attract attention, researchers turned their focus to something far less dramatic: charcoal.
+Charcoal rarely survives for hundreds of thousands of years, making the GBY collection extraordinary. Because wood reflects the plants growing in the surrounding environment, each fragment serves as a tiny record of the ancient landscape.
+The team examined 266 charcoal pieces under a microscope, identifying the
+The pomegranate finding represents the earliest known evidence of the fruit tree in the Levant, extending the documented history of pomegranate in the region by hundreds of thousands of years.
+Perhaps even more surprising was the diversity of the charcoal itself. The burned wood represented a wider range of plant species than other botanical remains found at the site, including seeds and fruits.
+The study challenges the idea that these early humans carefully selected particular tree species for fuel. Instead, the evidence points to a simpler and highly effective strategy.
+Much of the wood appears to have come from driftwood naturally deposited along the lake’s edge. Branches and logs carried by water would have accumulated on the shoreline, creating an easily accessible source of fuel that required little effort to collect.
+Researchers suggest that the constant availability of firewood may have been one reason why groups repeatedly returned to GBY. The site offered a rare combination of resources concentrated in a single location, reducing the energy needed to meet daily needs.
+The study also sheds light on how fire was used. Researchers found that concentrations of charcoal overlapped with clusters of fish remains, especially the teeth of large carp. This association provides strong evidence that fish were being cooked at the site nearly 800,000 years ago using controlled fire.
+The results support the idea that the GBY hominins possessed advanced cognitive abilities. They could manage fire, organize activities around it, and incorporate it into complex food-gathering and food-processing strategies. At the same time, while activities such as hunting and tool production likely required significant planning, collecting firewood appears to have been a simpler task driven mainly by what was readily available.
+Taken together, the evidence portrays a highly capable community that repeatedly returned to a resource-rich location that met many of its needs.
+The charcoal assemblage from GBY offers a rare opportunity to explore the connections between fire use, environmental conditions, and hominin behavior. The findings refine scientists’ understanding of early fire use and highlight the important role local resources played in shaping settlement and survival strategies during the Middle Pleistocene.
+Reference: “Paleoenvironmental and behavioral insights into firewood selection by early Middle Pleistocene hominins” by Ethel Allué, Naama Goren-Inbar, Yoel Melamed, Brigitte Urban and Nira Alperson-Afil, 3 April 2026,
+Quaternary Science Reviews
+DOI: 10.1016/j.quascirev.2026.109973
+Never miss a breakthrough:
+Join the SciTechDaily newsletter.
+Follow us on
+Anthropology
+The Hebrew University of Jerusalem
+This 15,000-Year-Old Discovery Changes What We Know About Early Human Creativity
+Rewriting the Story of Human Migration: Scientists Uncover Lost Land Bridge to Europe
+Oldest Known Bone Tools Challenge Our Understanding of Human Evolution
+New Research Shatters the Myth of Men As Hunters and Women As Gatherers
+Combat or Climate: The Real Cause of Small-Scale Societies’ Collapse
+Earliest Interbreeding Between Ancient Human Populations Discovered – Evolutionary Puzzle Solved
+New Evidence Shows Humans Mastered Fire Earlier Than Thought
+400,000 Year Old Fossil Helps Shed New Light on Human Evolution
+Million-Year-Old Ash in South African Cave Yields Evidence of Cooking",https://scitechdaily.com/scientists-uncover-what-kept-humanitys-first-campfires-burning-780000-years-ago/,scitechdaily,综合科技,无,2026-06-13T18:57:06+00:00
+Why Evolution Stalled for Millions of Years Before Suddenly Exploding,2026-06-13,"A new study suggests evolution stayed stuck for millions of years until sexual reproduction helped unleash a burst of biodiversity.
+New research suggests that the earliest animals on Earth may have unintentionally slowed the pace of evolution for millions of years. Scientists have found that their reliance on asexual reproduction limited competition and reduced the pressure to adapt, keeping biodiversity low until sexual reproduction emerged and helped drive a surge in evolutionary change.
+Researchers from the University of Cambridge analyzed fossils from some of the oldest known animals, dating back roughly 574 million years. Their findings, published in Nature Ecology and Evolution, offer a possible explanation for a long-standing mystery: why animal life first appeared on Earth but then remained relatively unchanged for millions of years before experiencing a dramatic increase in diversity.
+The Ediacaran period, which lasted from about 635 million to 539 million years ago, marked a major turning point in the history of life. After billions of years dominated by microscopic organisms, larger and more complex forms of life began to appear.
+Among these early creatures was Fractofusus, an organism that could reach up to 2 meters in height, although many Ediacaran animals were much smaller. Despite being considered animals, they looked more like plants or ferns than anything living today. Scientists have found no evidence that they possessed mouths, internal organs, or the ability to move. Instead, researchers believe they absorbed nutrients directly from the surrounding seawater.
+These unusual organisms vanished from the fossil record at the start of the Cambrian period around 540 million years ago, making it difficult for scientists to connect them to any modern group of animals.
+Previous studies showed that many Ediacaran animals reproduced asexually. Rather than producing offspring through sex, they spread by sending out stolons, or runners, much like modern strawberry plants. In the nutrient-rich oceans of the time, this strategy worked remarkably well.
+“Life was pretty nice during the Ediacaran, so the need for sex was rather limited,” said lead author Dr. Emily Mitchell from Cambridge’s Department of Zoology. “There was relatively little competition, so there was no real pressure to change anything.”
+To investigate why evolution appeared to slow during this period, Mitchell and co-author Professor Andrea Manica examined fossil communities from Mistaken Point in Newfoundland, one of the world’s most important Ediacaran fossil sites.
+The team combined laser scanning, spatial analysis, and
+artificial intelligence
+to study how these ancient communities were organized. They first demonstrated that stolon-based reproduction reduced competition among neighboring organisms. The researchers then created computer simulations to explore how early animal ecosystems might have developed under different reproductive strategies.
+Thousands of simulations were run, while a simple neural network identified which scenarios most closely matched patterns found in the fossil record. Using a method called Approximate Bayesian Computation, the researchers worked backward from real fossil data to estimate how far organisms spread and how intensely they competed for resources.
+Their results showed that limited dispersal caused by asexual reproduction could explain both the low number of
+present in early animal communities and the long period of evolutionary stagnation.
+Competition and environmental pressures have long been powerful forces shaping evolution. However, the runner-based reproduction used by many Ediacaran animals reduced the need for direct competition.
+“If you’re connected to your neighbor by these runners, then you’re sharing nutrients, and you don’t need to compete with them,” said Manica.
+Over time, conditions began to change. As life expanded from deeper waters into shallower marine environments, organisms encountered new challenges. Tides, storms, temperature fluctuations, and changing nutrient levels created a much less stable world.
+These harsher conditions increased competition and placed greater stress on early animals.
+“If you’re suddenly in an environment where you’re essentially getting killed a couple of times per year, then that changes everything,” said Mitchell. “Stress essentially leads to sexual reproduction, and when that happens, we can see a massive increase in dispersal distances as animals attempt to colonize new areas due to an increase in competition.”
+According to the researchers, this shift toward sexual reproduction allowed animals to spread farther, occupy new habitats, and compete more effectively. Those changes were accompanied by a sharp increase in biodiversity, creating what scientists describe as a second wave of Ediacaran evolution.
+As early animals adapted to new environments and adopted new reproductive strategies, diversification accelerated. This evolutionary momentum continued into the Cambrian period, when the emergence of mobile animals drove even more rapid change.
+The study suggests that sexual reproduction may have been one of the key innovations that helped transform life on Earth from relatively simple communities into the diverse animal ecosystems that followed.
+Reference: “The influence of reproductive mode on resource competition and diversity patterns in Ediacaran early animal communities” by Emily G. Mitchell, and Andrea Manica, 9 June 2026,
+Nature Ecology & Evolution
+DOI: 10.1038/s41559-026-03094-2
+The research was supported by the Natural Environment Research Council (NERC), part of UK Research and Innovation (UKRI). Emily Mitchell is a Fellow of Newnham College, Cambridge. Andrea Manica is a Fellow of Clare College, Cambridge.
+Never miss a breakthrough:
+Join the SciTechDaily newsletter.
+Follow us on
+Biodiversity
+Paleontology
+University of Cambridge
+Giant Anacondas Hit Maximum Size 12 Million Years Ago and Never Changed
+“One-of-a-Kind” Fossil Discovery Could Solve the Mystery of Modern Bird Intelligence
+New Fossil Ape Discovered in India Fills Major Gaps in the Primate Fossil Record
+Closeup at Last: First Complete Dinosaur Skeleton Ever Found Is Ready
+MIT’s New Evidence on Dinosaur Evolution
+New Twist to the Story of Human Ancestors From an Unusual Skullcap and Thousands of Clues
+“Wonderchicken” – Origin of Modern Birds Revealed by Fossil From the Age of Dinosaurs
+Remarkable Discovery of 1 Billion-Year-Old Green Seaweed Micro-Fossils in China
+What Came First, the Animal or the Embryo? New Research Has Answer",https://scitechdaily.com/why-evolution-stalled-for-millions-of-years-before-suddenly-exploding/,scitechdaily,综合科技,无,2026-06-13T18:57:08+00:00
+New Feathered Dinosaur May Have Solved a 120-Million-Year-Old Fossil Mystery,2026-06-13,"A newly discovered feathered dinosaur from China may help solve a long-standing mystery surrounding a fossil bed filled with ancient bird remains.
+For years, one fossil site in northwestern China has posed a mystery. The area contains hundreds of fossilized birds, many remarkably well preserved. Mixed among them are strange clusters of shattered bones compressed into pellet-like masses, much like the regurgitated remains left behind by modern birds of prey. Scientists suspected a predator was responsible, but the culprit was nowhere to be found.
+Now, researchers believe they have finally uncovered the missing piece of the puzzle.
+In a study published in the
+Annals of Carnegie Museum
+, paleontologists describe a newly identified dinosaur,
+Jian changmaensis
+, a feathered relative of
+Velociraptor
+. Although the fossil consists of only partial remains, the animal stands out as the only known non-avian carnivorous dinosaur recovered from the site. Its discovery offers the strongest evidence yet for the predator that may have hunted the ancient birds whose remains dominate the fossil bed.
+“Scientists have found these weird, broken-up clusters of bird bones at this site, and we didn’t know what made them. This new microraptor dinosaur,
+Jian changmaensis
+, is our best guess,” says Jingmai O’Connor, the associate curator of fossil reptiles at the Field Museum in Chicago and senior author of the paper describing the new
+. “It’s the only dinosaur found at this site that wasn’t a bird, it was a carnivore, and it was much bigger than everything else that we’ve found there.”
+Birds are the only dinosaurs that survived the aftermath of the asteroid impact that struck Earth 66 million years ago. Before that event, birds lived alongside many other dinosaur groups throughout the
+Among their closest relatives were dromaeosaurs, feathered dinosaurs that were generally small and agile. The
+Velociraptor
+made famous by Jurassic Park is one of the best-known members of this group, although real
+Velociraptor
+specimens were smaller and much more heavily feathered than their movie portrayals.
+The newly identified species,
+Jian changmaensis
+, belongs to a subgroup of dromaeosaurs known as microraptors. Most microraptors were relatively small, with some species reaching only about the size of a crow.
+is one of the biggest microraptor specimens that has ever been found,” says O’Connor. “The piece of its upper arm bone that we have is about 4 inches long, so the entire dinosaur probably had something like a four-foot wingspan, around the size of a barn owl.”
+Although researchers have recovered only part of
+arm, they think it likely resembled other microraptors, which had long feathers on both their arms and legs. This gave them the appearance of having four wings that may have helped them glide through the air.
+and the other microraptors probably weren’t capable of true, powered flight, but they could probably glide like a flying squirrel,” says O’Connor.
+Jian changmaensis
+reflects both the animal’s appearance and where it was discovered. Jian is a winged creature from Chinese mythology, while changmaensis refers to the Changma Basin in China’s Gansu Province, where the fossil was found.
+Jian changmaensis
+reveals that non-avian dinosaurs lived in what is now the Changma Basin, an area famous for its fossil birds,” says Matt Lamanna, corresponding author of the study and Carnegie Museum of Natural History’s Mary R. Dawson Curator of Vertebrate Paleontology and senior dinosaur researcher. “Our team has recovered more than a hundred bird fossils at Changma, but only this single non-avian dinosaur specimen.
+provides critical new insight into the biological history of the Changma region and the ecological context of the ancestors of today’s birds.”
+“You cannot understand life on the planet today without looking at its origins,” says O’Connor. “Birds are arguably the most successful group of land-dwelling vertebrate animals on Earth today. Learning about early birds and their close non-bird dinosaur relatives gives us a better understanding of what made the group of birds that survived so special.”
+“First Non-Avian Theropod (Dromaeosauridae, Microraptorinae) From the Bird-Bearing Lower Cretaceous Xiagou Formation of the Changma Basin, Gansu Province, Northwestern China”
+Annals of Carnegie Museum
+Never miss a breakthrough:
+Join the SciTechDaily newsletter.
+Follow us on
+Field Museum
+Paleontology
+Brawn Before Brains: Mammals Bulked Up To Survive Post-Dinosaur World
+Dense Bones Allowed Spinosaurus – The Biggest Carnivorous Dinosaur Ever Discovered – To Hunt Underwater
+“Baby Yingliang” – Exquisitely Preserved Dinosaur Embryo Discovered Inside Oviraptorosaur Egg
+Exquisitely Preserved Dinosaur Embryo Found Inside Fossilized Oviraptorosaur Egg
+Legendary Flying Reptile: Fleshing Out the Bones of Quetzalcoatlus, Earth’s Largest Flier Ever
+Incredible Dinosaur Treasure Trove in Italy Rewrites History, Geography, and Evolution
+Surprising Diversity of Cretaceous Reptiles at Argentina Fossil Site – Revealed by Discovery of Ancient Teeth
+Growth Rings From Fossil Bones Reveals T. rex Had Huge Growth Spurts, but Other Dinosaurs Grew “Slow and Steady”
+MIT’s New Evidence on Dinosaur Evolution",https://scitechdaily.com/new-feathered-dinosaur-may-have-solved-a-120-million-year-old-fossil-mystery/,scitechdaily,综合科技,无,2026-06-13T18:57:10+00:00
+Breakthrough Ultrasound Patch Tracks Blood Flow and Fetal Health in Real Time,2026-06-13,"A new soft ultrasound patch is designed to provide long-term, hands-free monitoring of fetal health in real time.
+Engineers at the
+University of California, San Diego
+, have developed a soft, wearable ultrasound patch that can continuously monitor a fetus for hours at a time while maintaining reliable performance even as the fetus and umbilical cord move throughout pregnancy.
+The device could help physicians identify complications earlier in high-risk pregnancies. During clinical testing, the patch detected prolonged abnormal fetal signals in one case, prompting an early Cesarean delivery. Researchers said the intervention may have helped save the baby’s life. The technology could also improve access to prenatal care in low-resource regions where trained ultrasound specialists and continuous monitoring are often unavailable.
+The findings were published in
+Nature Biotechnology
+“Wearable ultrasound technology has the potential to enable continuous prenatal monitoring and improve pregnancy outcomes in ways that were previously not possible,” said study co-first author Geonho (Tom) Park, a chemical and nanoengineering PhD student at the UC San Diego Jacobs School of Engineering. Park co-led the study with fellow UC San Diego Jacobs School of Engineering co-first authors Yizhou Bian, Hao Huang, and Sai Zhou.
+Most prenatal ultrasounds provide only a brief look at fetal health and require trained sonographers to operate the equipment. In contrast, the new patch is designed to remain on the body and continuously monitor a baby’s anatomy and blood flow in real time without the need to manually position an ultrasound probe.
+“To comprehensively monitor mothers and babies over the amount of time needed to catch complications like preeclampsia, you need a system that can work continuously and largely on its own,” Bian said. “That is why the sensing depth, functional capabilities, and autonomy of this ultrasound technology are critical.”
+One of the biggest obstacles to long-term fetal monitoring is the constant movement of both the fetus and the umbilical cord. To solve this problem, the researchers created autonomous tracking algorithms that can automatically locate and follow the umbilical cord as it moves. This allows the patch to collect consistent measurements even when the mother or fetus changes position.
+“With continuous monitoring, we were able to observe dynamic fluctuations in blood flow that would likely be missed with conventional ultrasound exams,” Huang said.
+“Our system even detected an abnormality during one of our clinical visits,” Park added. “That pregnancy later resulted in a delivery at 29 weeks, and it demonstrated how continuous monitoring could help identify complications much earlier than we can today.”
+The study builds on more than a decade of wearable ultrasound research in the laboratory of chemical and nanoengineering professor Sheng Xu at UC San Diego. Xu’s team has previously developed wearable ultrasound systems for applications including
+noninvasive central blood pressure monitoring
+mobile heart monitoring
+gesture-based control of robotic devices
+. The work was carried out in the Aiiso Yufeng Li Family Department of Chemical and Nano Engineering at the UC San Diego Jacobs School of Engineering.
+For the new study, researchers tested the patch in a multicenter clinical trial conducted at Jacobs Medical Center at UC San Diego Health and the John Radcliffe Hospital at the
+University of Oxford
+. The patch produced measurements that closely matched those collected using standard handheld ultrasound devices.
+The researchers gathered continuous monitoring data over periods of several hours from 62 pregnancies. The group included both healthy pregnancies and pregnancies affected by gestational diabetes, preeclampsia, high blood pressure, and abnormal fetal growth.
+The team now aims to integrate the patch into a compact electronic platform that could eventually enable fully wireless operation.
+Reference: “Fetal monitoring for high-risk pregnancies using a wearable ultrasound patch” by Geonho Park, Yizhou Bian, Hao Huang, Sai Zhou, Siyu Qin, Muyang Lin, Xinyi Yang, Aaron Lee, Anand Ramkumar, Mariana Tome, Jayne Lander, Xiangjun Chen, Shenghan Wang, Pranavi Bheemreddy, Liam Stanton, Ren Sheng, Guihuan Guo, Mabel Shehada, Ruotao Wang, Alexa Roa, Chengchangfeng Lu, Wentong Yue, Ray S. Wu, Xiaoxiang Gao, Hongjie Hu, Amer Yaghi, Mark Liu, Lawrence Impey, Sally L. Collins, Aris T. Papageorghiou, Louise C. Laurent, Keith A. Wear, Antoniya Georgieva and Sheng Xu, 26 May 2026,
+Nature Biotechnology
+DOI: 10.1038/s41587-026-03140-1
+This work was supported by Wellcome Leap (HER01430), the
+National Institutes of Health
+(1R01EB033464-01 and 1R01HL171652-01), and Accelerating Innovation to Market at UC San Diego.
+Never miss a breakthrough:
+Join the SciTechDaily newsletter.
+Follow us on
+University of San Diego
+Scientists Have Now Analyzed Ultrasounds for Birth Defects Associated With COVID-19 Vaccines
+Marijuana Study Finds 63 Percent of Breast Milk Samples Have THC Up to Six Days After Use
+Coffee Consumption During Pregnancy Linked to Child Obesity
+High Glucose Levels During Pregnancy Affects the Baby’s Heart
+Exposure to BPA During Pregnancy May Cause Health Problems for Offspring
+Study Reveals High-Fat Diet Harms Stem Cells in Developing Fetus
+Study Shows Low level Drinking Not Associated With Higher Risk of Poor Birth Outcomes
+New Study Questions the Benefits of Mammograms
+Children Exposed to Nicotine in Utero Have Lower Reading Scores",https://scitechdaily.com/breakthrough-ultrasound-patch-tracks-blood-flow-and-fetal-health-in-real-time/,scitechdaily,综合科技,无,2026-06-13T18:57:11+00:00
+New Discovery Reveals Vitamin K’s Surprising Role in Preventing Bone Loss,2026-06-13,"A newly identified vitamin K-dependent signaling pathway appears to help coordinate communication between key bone cells.
+Bones may seem like lifeless structures, but they are constantly being torn down and rebuilt. Every day, specialized cells remove old bone while others replace it with new material, a process that keeps the skeleton strong and adaptable throughout life. When this delicate balance shifts too far in one direction, bones can gradually weaken, raising the risk of fractures and diseases such as osteoporosis.
+For decades, vitamin K has been recognized as an important nutrient for bone health. Yet scientists have struggled to explain exactly how it helps maintain the skeleton. Now, researchers have uncovered an unexpected communication system inside bone that may provide an answer. Their findings suggest that vitamin K does far more than support bone mineralization. It also helps control how bone cells coordinate the breakdown and renewal of skeletal tissue.
+A team led by Dr. Mathieu Ferron, Director of the Molecular Physiology Research Unit at the Montreal Clinical Research Institute (IRCM) in Canada, investigated how vitamin K-dependent γ-carboxylation influences interactions between osteoblasts (bone-forming cells) and osteoclasts (bone-resorbing cells). Using genetically engineered mice, cell culture experiments, molecular analyses, histology, and microcomputed tomography imaging, the researchers identified a previously unknown pathway that helps regulate bone resorption. Their study was published in
+Bone Research
+The researchers began by studying the enzymes involved in vitamin K-dependent γ-carboxylation. They found that γ-glutamyl carboxylase and vitamin K oxidoreductase were expressed mainly in osteoblasts rather than osteoclasts, suggesting that vitamin K signaling primarily acts through bone-forming cells.
+To test this idea, the team removed γ-glutamyl carboxylase specifically from osteoblasts in male mice. By 6 months of age, the animals had developed substantially greater bone mass, along with denser and more interconnected bone structures.
+Further investigation showed that the increase in bone mass was largely the result of reduced bone breakdown rather than increased bone formation. Mice lacking γ-glutamyl carboxylase in osteoblasts had fewer osteoclasts and less osteoclast surface area. Blood markers associated with bone resorption were also lower. In co-culture experiments, osteoblasts without γ-glutamyl carboxylase were much less capable of supporting osteoclast development.
+The team then searched for a γ-carboxylated protein that could connect osteoblast activity to osteoclast development. Their analysis identified growth arrest-specific 6 (GAS6), a signaling protein released by osteoblasts that activates the TAM family receptors AXL and MerTK on pre-osteoclasts.
+Laboratory experiments showed that recombinant γ-carboxylated GAS6 strongly stimulated osteoclast formation and increased the number of nuclei within each osteoclast, creating larger multinucleated cells with greater bone-resorbing capacity. Blocking AXL and MerTK with drugs significantly reduced osteoclast production, confirming the central role of the GAS6-TAM signaling pathway.
+“Our findings reveal an unexpected mechanism through which osteoblasts actively regulate osteoclast maturation,” says Dr. Ferron. “Vitamin K-dependent γ-carboxylation not only affects bone mineralization. It also controls how osteoblasts communicate with osteoclast precursors through GAS6 signaling.”
+To determine whether higher GAS6 levels could directly influence bone remodeling in vivo, the researchers studied transgenic mice with elevated circulating GAS6. These mice showed the opposite pattern, with lower bone density, more osteoclasts, and increased bone resorption.
+Additional experiments revealed that GAS6 primarily promotes the fusion of pre-osteoclasts into mature multinucleated osteoclasts rather than affecting the earlier process of osteoclast differentiation.
+“The study provides a new framework for understanding how vitamin K influences skeletal biology,” Dr. Ferron explains. “Targeting GAS6 or TAM receptor signaling could eventually help modulate excessive bone resorption while preserving normal bone remodeling.”
+The findings could have important medical implications. Over time, a better understanding of the GAS6-TAM signaling axis may help support the development of treatments for osteoporosis and other diseases driven by excessive osteoclast activity.
+Overall, the study uncovers a previously unknown vitamin K-dependent mechanism that allows osteoblasts to regulate osteoclast maturation and bone resorption. By identifying GAS6 as a key signaling link between these two cell types, the research provides new insight into how bone balance is maintained and points to potential new strategies for treating bone fragility and metabolic bone disorders.
+Reference: “Vitamin K-dependent carboxylation in osteoblasts regulates bone resorption through GAS6 in male mice” by Monica Pata, Diep Ngoc Thi Pham, Julie Lacombe, B. Ashok Reddy, Young Woong Kim, Abeer Gamal Ali Ahmed, Monzur Murshed and Mathieu Ferron, 28 April 2026,
+Bone Research
+DOI: 10.1038/s41413-026-00528-2
+Never miss a breakthrough:
+Join the SciTechDaily newsletter.
+Follow us on
+Molecular Biology
+Osteoporosis
+Could Getting Enough Sleep Help Prevent Osteoporosis?
+A Simple Pinch May Predict Spinal Fractures: Arm Fat’s Surprising Role in Bone Quality and Strength
+Tiny Changes, Big Benefits: Simple Lifestyle Changes Are Vital for Preventing Hip Fractures
+Space-Age Solution: Preventing Astronaut Bone Loss With Innovative Compound
+Obstructive Sleep Apnea Tied to Weaker Bones and Teeth in Adults
+New Pill Replicates Exercise and Strengthens Muscle
+New Treatment Target Could Counter Bone Loss
+Study Finds Vitamin D Supplements Do Not Reduce Risk of Broken Bones
+Sweet Coating for Sour Bones: Bridge-Burning Coating for Bone Implants",https://scitechdaily.com/new-discovery-reveals-vitamin-ks-surprising-role-in-preventing-bone-loss/,scitechdaily,综合科技,无,2026-06-13T18:57:13+00:00
+Ozempic and Similar Drugs Linked to Dramatic Drop in Addiction Rates,2026-06-13,"Researchers identified a strong association between GLP-1 medications and reduced rates of multiple substance use disorders, raising new questions about how these drugs may affect the brain’s reward system.
+What if some of the world’s most popular weight loss drugs are affecting more than appetite?
+A new study suggests that GLP-1 medications, a class of drugs that includes Ozempic, may be linked to substantially lower rates of several substance use disorders. The findings add to growing interest in the possibility that these medications influence the brain’s reward system, an effect that could extend beyond eating behavior.
+Researchers at The University of Texas at El Paso analyzed health data from more than 142,000 people with type 2 diabetes or obesity. Roughly 20,000 of those patients had been prescribed a GLP-1 medication. The team compared them with similar individuals who were not taking the drugs to determine whether rates of substance use disorders differed between the groups.
+Their findings, published in
+Frontiers in Psychiatry
+, revealed a consistent pattern: GLP-1 users were significantly less likely to be diagnosed with alcohol, opioid, nicotine, or cocaine use disorders.
+“Our findings add to growing evidence that GLP-1 medications may influence more than appetite and blood sugar regulation,” said lead author Abegaz. “These medications appear to affect brain pathways involved in reward and craving, which could help explain the lower rates of substance use disorders observed in our study.”
+Compared with similar patients who were not taking GLP-1 medications, users showed:
+The researchers stressed that the findings show an association, not proof that GLP-1 medications prevent substance misuse or addiction.
+“We do not support prescribing these medications for addiction treatment at this time, Frietze said. “Because this was an observational study in a specific clinical population, randomized clinical trials are needed before GLP-1 medications can be recommended for treating addiction.”
+The team said the results are encouraging and plans to further investigate how GLP-1 medications may influence substance use disorders.
+“Our next goal is to conduct prospective research that follows individuals initiating GLP-1 therapy over time,” Abegaz said. “We aim to evaluate whether changes in the substance use behaviors occur after treatment begins and whether these changes related to improvements in mental health and quality of life.
+He added, “Ultimately, this work will help inform whether GLP-1 medications could become part of future treatment strategies for substance use disorders.”
+Reference: “Association between GLP-1 receptor agonist use and substance use disorders among individuals with type 2 diabetes or obesity: a nested case-control study in the All of Us research program” by Tadesse M. Melaku Abegaz, Muktar Ahmed, Akshaya Srikanth S Bhagavathula and Gabriel Frietze, 18 February 2026,
+Frontiers in Psychiatry
+DOI: 10.3389/fpsyt.2026.1766770
+Patient data for this study was provided by the
+National Institutes of Health
+All of Us Research program, one of the nation’s largest and most diverse health databases.
+Never miss a breakthrough:
+Join the SciTechDaily newsletter.
+Follow us on
+Public Health
+University of Texas
+This Popular Diabetes Drug Could Reduce Cravings for Alcohol and Drugs
+Scientists Discover Amazing New Benefit of Ozempic: Reducing Alcohol and Opioid Addiction
+Wastewater Analyzed to Map International Drug Use – Here Are the Shocking Results
+Financial Incentives Influence Doctors Alcohol Advice to Patients
+A Lethal Dose for $1 – Fentanyl’s Risk on the ‘Darknet’
+Stemming the Opioid Crisis: New Addiction Treatments Hold Promise
+Young, White, Daily Opioid Users More Likely to Prefer Fentanyl
+Medications Can Help As Opioid Treatment for Teens
+Teens Abusing Opioids May Benefit From Medication Treatment",https://scitechdaily.com/?p=522252,scitechdaily,综合科技,无,2026-06-13T18:57:15+00:00
+Astronomers Find Strongest Evidence Yet for Magnetic Fields on Alien Worlds,2026-06-13,"Astronomers studying the atmospheres of several intensely heated exoplanets uncovered an unexpected pattern that may reveal a hidden property of these distant worlds.
+Astronomers have uncovered the clearest evidence so far that some planets beyond our Solar System possess magnetic fields. By measuring atmospheric winds on seven extremely hot gas giants, researchers found signs that magnetism is shaping conditions on these distant worlds.
+The study used observations from the European Southern Observatory’s
+Very Large Telescope
+’s VLT) and the Gemini North telescope. The results suggest that magnetic fields are controlling the planets’ powerful winds, providing the first reliable measurements of magnetic field strength on exoplanets.
+“This breakthrough opens a completely new window on
+research. It’s the first time we can compare the magnetic environments of other worlds — a key step toward ultimately understanding which planets can stay alive, keep their water, and perhaps even, one day, host life as we know it,” says Julia Seidel, an astronomer at the Laboratoire Lagrange, Observatoire de la Côte d’Azur, France and lead author of the study published today in
+Nature Astronomy
+Magnetic fields play an important role in shaping planetary environments. On Earth, the magnetic field interacts with the atmosphere and helps protect the planet from harmful charged particles. Other planets in our Solar System, including
+, also have magnetic fields.
+Despite years of research, scientists had not been able to directly determine the strength of magnetic fields on exoplanets. That challenge has remained unsolved for about 15 years.
+Interestingly, the researchers were not originally searching for magnetic fields. Their goal was to study winds in the atmospheres of seven giant planets orbiting different stars. These worlds resemble Jupiter but orbit much closer to their stars and are tidally locked, meaning one side constantly faces the star.
+Like the Moon always showing the same face to Earth, these planets have permanent day and night sides. One hemisphere is intensely heated while the other remains much colder. The extreme temperature contrast creates unusual weather patterns and exceptionally powerful winds.
+The team measured winds ranging from about 7,200 km/h (4,475 mph) to more than 25,000 km/h (15,535 mph). By comparison, Jupiter’s fastest known winds reach roughly 1,500 km/h (930 mph).
+“In the beginning we set out to check if the atmospheric winds behaved the same way for all hot planets,” explains Seidel, who was previously an astronomer at ESO in Chile.
+The researchers analyzed data from the ESPRESSO instrument on ESO’s VLT in Chile’s Atacama Desert and a similar instrument on the Gemini North telescope in Hawaiʻi, USA. (The VLT is an ESO telescope while Gemini North is one half of the International Gemini Observatory, partly funded by the U.S. National Science Foundation (NSF) and operated by NSF
+As they compared wind speeds with planetary temperatures, an unexpected trend appeared. Instead of moving faster, winds slowed down as temperatures increased.
+“This is totally counterintuitive because, all things being equal, hot planets have more energy to accelerate the winds! Something must happen that slows down the wind speeds for hotter objects,” says study co-author Vivien Parmentier, a professor at the Laboratoire Lagrange.
+The researchers concluded that the most likely explanation is the presence of global magnetic fields. These fields can interact with charged particles in a planet’s atmosphere, reducing their motion and effectively slowing atmospheric circulation.
+Using this effect, the team estimated the magnetic field strength of each planet. The results indicate magnetic fields comparable to those found on giant planets in our own Solar System, with strengths roughly four times greater than Saturn’s or about half that of Jupiter’s.
+The findings also suggest that magnetic fields could influence much more than atmospheric winds.
+“Here on Earth, we know the beauty of the northern and southern lights, where particles from the Sun hit our magnetic field and are guided toward the poles, colliding with gases in the atmosphere to produce colorful displays of green, pink, and purple,” explains study co-author Bibiana Prinoth, a former PhD student at Lund University, Sweden, now an astronomer at ESO in Garching, Germany.
+On these exoplanets, auroras powered by magnetic activity could be even more spectacular.
+Looking ahead, scientists are eager to use ESO’s Extremely Large Telescope to study both giant and Earth-sized exoplanets in greater detail. The observatory may even be able to identify atmospheric gases linked to auroral activity on distant worlds.
+Prinoth says: “I like to imagine that some of these worlds have a sky filled not only with stars, but with vast curtains of colorful light dancing across a planet that’s half in perpetual day and half in endless night.”
+Reference: “Magnetic field strengths of hot giant exoplanets consistent with Solar System values” by Julia V. Seidel, Vivien Parmentier, Bibiana Prinoth, Thea Hood, Nishil Mehta, Valentin De Lia, Konstantin Batygin, Tristan Guillot, Ragnar Van den Broeck, Hayley Beltz, Brian Thorsbro, Florian Debras, Daniel D. B. Koll, Thaddeus D. Komacek, Emily Rauscher, Lorenzo Pino, Matteo Brogi, Joost P. Wardenier, Jacob L. Bean, Björn Benneke, Jean-Michel L. B. Désert, Pablo Drake, Siddharth Gandhi, Mark Hammond, David Kasper, Michael R. Line, Elspeth K. H. Lee, Stefan Pelletier, Andreas Seifahrt, Adrien Simonnin, Peter C. B. Smith and Kevin B. Stevenson, 2 June 2026,
+Nature Astronomy
+DOI: 10.1038/s41550-026-02870-1
+Never miss a breakthrough:
+Join the SciTechDaily newsletter.
+Follow us on
+Astrophysics
+European Southern Observatory
+Magnetic Fields
+Planetary Science
+Hidden Oceans of Magma Could Be Protecting Alien Life
+Astronomers Discover a “Jupiter Twin” Around a Sun-Like Star
+ALMA Reveals Double Star with Wildly Misaligned Planet-Forming Discs
+Astronomers Measure the Length of an Exoplanet Day
+ALMA Reveals Unexpected Gas Clump in Debris Disc Around Beta Pictoris
+HARPS Discovers First Exoplanet Orbiting a Solar Twin in a Star Cluster
+Three Super-Earths Discovered in Habitable Zone of Nearby Star GJ 677C
+ALMA “Dust Trap” Observations Solve Planet Formation Mystery
+Astronomers Discover a Probable Free-Floating Planet, CFBDSIR2149",https://scitechdaily.com/astronomers-find-strongest-evidence-yet-for-magnetic-fields-on-alien-worlds/,scitechdaily,综合科技,无,2026-06-13T18:57:17+00:00
+Astronomers Unveil Record-Breaking Haul of 161 New Black Hole Collisions,2026-06-13,"A new gravitational-wave catalogue reports 161 additional
+mergers, bringing the total to 390 detections.
+Scientists at the
+University of Glasgow
+’s Institute for Gravitational Research
+are celebrating the release of a major new collection of gravitational wave discoveries, a milestone that highlights the rapid growth of gravitational astronomy.
+The latest Gravitational Wave Transient Catalogue (GWTC-5) was published online alongside scientific papers submitted to
+Astrophysical Journal
+Astrophysical Journal Letters
+The catalog adds 161 newly identified signals from colliding black holes detected between April 2024 and January 2025 by the
+observatories in the United States, the Virgo detector in Italy, and the KAGRA detector in Japan. Together, these facilities make up the LVK Collaboration. With these additions, the total number of gravitational wave detections has risen to 390.
+Among the most notable results are evidence for second-generation black holes, the most accurate sky location ever determined for a gravitational wave source, and the first successful measurement of three vibrational modes from a black hole.
+Researchers at the University of Glasgow have been involved in gravitational wave science since the 1970s. They helped develop the highly sensitive mirror suspension systems used in the National Science Foundation’s Laser Interferometer Gravitational-wave Observatory (NSF LIGO), which are essential for detecting these tiny disturbances in space-time.
+Since the first direct observation of
+gravitational waves
+in September 2015, Glasgow scientists have continued working with international LVK partners to improve both detector performance and data analysis techniques. As detector sensitivity has increased, discoveries have become more frequent.
+During observing periods, the network now detects roughly three to four gravitational wave events each week, and that rate is expected to grow as instruments continue to improve.
+The collaboration alternates between observation campaigns and periods dedicated to upgrades and testing. As a result, the gravitational wave catalog, including verified detections and detailed information about their sources, is updated and released to the scientific community about every six months.
+Dr. Daniel Williams, a research fellow at the Institute for Gravitational Research, is co-chair of the LSC’s Compact Binary Science Working Group. He said: “This bumper update has once again broadened and deepened our knowledge of the universe and given us many more glimpses of its most elusive objects: colliding black holes.
+“Just ten years ago, we made the first detection of gravitational waves from one of these events, and it’s a real testament to the work of hundreds of scientists around the world that we’re now detecting and analyzing hundreds of them.
+“At Glasgow, we’ve been at the forefront of developing new technology to make the detectors more sensitive, allowing us to see more of these signals more clearly and from collisions much further away than we could a decade ago. We also lead the development of critical analyses that allow us to extract so much information from each signal: decoding the properties of black holes colliding billions of light-years away from Earth, all from a measurement which shifts our detectors by a fraction of the size of an atomic nucleus.
+Beyond the sheer number of new detections, the catalog includes several observations that set new records in gravitational wave astronomy. These include the most precise source localization ever achieved, the strongest gravitational wave signal yet detected, and additional evidence supporting the existence of second-generation black holes.
+One event, designated GW240615, was detected by both LIGO observatories in the United States and the Virgo detector in Italy on June 15, 2024. It achieved the most accurate sky localization of any gravitational wave source observed so far, narrowing its origin to an area of only 6 square degrees.
+The event was produced when two black holes with masses of about 26 and 30 suns merged more than 3 billion light-years from Earth.
+Alex Papadopoulos, a postgraduate researcher at the Institute for Gravitational Research, said, “The updated GWTC-5.0 catalogue gives us a much larger collection of gravitational-wave signals to help answer one of the biggest questions in cosmology: how fast is the Universe expanding?
+“The rate of this expansion is described by a value called the Hubble constant. Gravitational waves allow us to measure this by estimating how far away merging objects are, either directly from the signal itself or by identifying the galaxy where the merger took place.
+“One of the major improvements in GWTC-5.0 compared to previous catalogues is the inclusion of observations from the Virgo detector, which returned after not participating in the previous observing run. With this additional detector, we can pinpoint the location of gravitational-wave signals on the sky much more accurately, making it easier to identify the host galaxy of each merger. Our expanded library of detections also meant we could use 236 signals, almost double the previous number, in our analyses. Each event contributes a small amount of information, so together these additional signals significantly improve our results.
+“Together, these improvements help us measure the Hubble constant more precisely than ever before using gravitational waves, bringing us closer to understanding one of modern physics’ most important open questions.
+“In Glasgow, we developed and tested software that allows this analysis to run more than a thousand times faster than before, even with the growing number of gravitational-wave signals in the catalogue. This speed-up meant we could test many more possible scenarios and check that our results were as robust and reliable as possible, with the coordination of this effort led by our Institute for Gravitational Research.”
+Finding gravitational waves involves more than detecting a signal. Scientists must separate genuine events from background noise within the instruments. To measure how clearly a signal stands out, researchers use a value called the signal-to-noise ratio (SNR). GWTC-5 includes the strongest gravitational wave signal recorded so far, with an SNR of 76.9.
+The event, known as GW250114, reached Earth on January 14, 2025. It originated from the merger of two black holes with masses of 32 and 34 Suns, located more than 1 billion light-years away. Because the signal was exceptionally clear, scientists were able to carry out the most precise test of general relativity to date and confirm Stephen Hawking’s black hole area theorem.
+Dr. John Veitch, an academic at the University of Glasgow who analyzes black hole signals, said, “With the loudness of GW250114, we are able to compare the warped space-time before and after the black holes merged and found that the total area of the event horizons (the surface of ‘no return’) increased in accordance with Hawking’s laws of black hole mechanics.
+“After the merger the final black hole rings like a bell, giving off gravitational waves instead of sound. Analyzing these waves confirmed that although energy is given off in gravitational waves during the merger, the total entropy of the black holes increases in accordance with the second law of thermodynamics. This shows that even for black holes the laws of thermodynamics still apply, but unlike normal objects, the more energy they hold, the colder they become.”
+Researchers also identified two particularly unusual black hole mergers, GW241011 and GW241110, detected one month apart in October and November 2024. These events occurred about 700 million and 2.4 billion light-years from Earth, respectively.
+The spin properties of the black holes involved suggest they may be second-generation black holes, meaning they were created through earlier black hole mergers. Such objects are thought to form in dense environments such as star clusters, where repeated collisions are more likely.
+The growing number of detections is also helping scientists better understand the different populations of black holes found throughout the universe.
+Storm Colloms, a postgraduate researcher at the Institute for Gravitational Research, said, “I’ve been part of the team understanding the processes that create merging black holes and neutron stars with the latest set of observations. We studied 267 sources, including 104 new observations. This set of hundreds of observations allows us to confidently measure the masses, spins, and distances of binary black holes and probe the correlations between these properties. In particular, we find that black holes with different mass ranges have different spins, indicating that there are distinct formation pathways that create unique groups of systems.
+“This trend was hinted at by previously published observations, GW241011 and GW241110, pairs of black holes with clearly measured high spins and unequal masses. These two observations showed characteristic signs that the larger black hole in each pair was formed not directly from a massive star, but from a previous merger of two black holes. The signatures of black holes formed from previous mergers persist in the population as a whole, indicating that GW241011 and GW241110 are not one-of-a-kind, but trace an underlying trend. Now, we have growing evidence that there are ways that the Universe creates merging black holes in addition to those that come from massive binary stars.
+“The latest measurements of the population of gravitational wave sources continue to bring us closer to painting a clear picture of the origins of binary black holes and neutron stars. With upcoming observing runs and more sensitive detectors, we will get more precise measurements of individual sources and increase the number of sources in our catalogues, allowing us to probe more and more detailed astrophysics of compact object formation.”
+Dr. Williams added, “We’re now detecting so many of these signals that we’re not just learning about individual collisions; it’s the astronomical equivalent of uncovering an ancient civilization. Today’s new results are like finding a previously undiscovered hoard, revealing not just individual lives but the structure of an entire lost world.”
+“GWTC-5.0: Population Properties of Merging Compact Binaries”
+The University of Glasgow’s research is supported by funding from UKRI’s Science and Technology Facilities Council (STFC), as are other gravitational research groups across the UK including the Universities of Birmingham, Cambridge, Cardiff, Kings College London, Nottingham, Portsmouth, Sheffield, Strathclyde, University College London, Queen Mary University, and the University of the West of Scotland.
+Never miss a breakthrough:
+Join the SciTechDaily newsletter.
+Follow us on
+Astrophysics
+Gravitational Waves
+University of Glasgow
+Ripples in Space-Time Detected – Caused by the Death Spiral of a Neutron Star and a Black Hole
+Leveraging Einstein’s General Theory of Relativity, Astrophysicists Calculate How Many Stars Will Eventually Collide as Black Holes
+Using Gravitational Wave Astronomy to Observe a ‘Black Hole Symphony’ [Video]
+Gravitational Wave Detector Breakthrough Dampens Quantum Noise for Precise Measurements
+LIGO and Virgo Detect Gravitational Waves from Binary Black Hole Merger
+Researchers Reveal That Hidden Dimensions Could Influence Gravitational Waves
+LIGO Detects Merging Ripples in Space and Time
+LIGO Detects Gravitational Waves Again
+New Research Shows LIGO’s Twin Black Holes Might Have Been Born Inside a Single Star",https://scitechdaily.com/astronomers-unveil-record-breaking-haul-of-161-new-black-hole-collisions/,scitechdaily,综合科技,无,2026-06-13T18:57:18+00:00
+Ancient Meteorite Reveals a Forgotten Planet That Existed 4.5 Billion Years Ago,2026-06-13,"A rare meteorite recovered from the Sahara Desert has revealed compelling evidence for a long-lost world that existed during the solar system’s earliest days.
+About 4.5 billion years ago, a large planetary body, potentially as large as the Moon or even
+, orbited the Sun before colliding with another object and breaking apart.
+Now, researchers reporting in
+Earth and Planetary Science Letters
+say they have found the first direct evidence that this lost protoplanet once existed. The discovery suggests that some early worlds formed and evolved in ways very different from Earth and other rocky planets.
+“It’s incredible to think there was once a world this large,” said Aaron Bell, an assistant research professor in the Department of Earth Science at the University of Colorado Boulder. “We only know it existed because a few fragments of it happened to land on Earth. These meteorites preserved evidence of a completely different pathway through which early planets developed.”
+The evidence comes from a meteorite found in the Sahara Desert called Northwest Africa (NWA) 12774, an extremely rare type of meteorite known as an angrite.
+Angrites are among the oldest volcanic rocks in the solar system. They formed just a few million years after the solar system emerged about 4.56 billion years ago. They are also remarkably uncommon. Of the more than 80,000 meteorites discovered on Earth, only 68 have been identified as angrites.
+Scientists have long been puzzled by their chemistry. Unlike Earth, Mars, and other rocky planets, angrites contain very little silicon dioxide, or silica, a major component of nearly all known terrestrial planets.
+Because of that unusual composition, researchers previously believed angrites originated from relatively small asteroids with radii of less than 200 kilometers (124 miles).
+While analyzing NWA 12774, Bell and his team found clinopyroxene, a mineral commonly present in Earth’s crust and mantle. What stood out was its unusually high aluminum content, which indicates the mineral formed under intense pressure deep inside a planetary body.
+The researchers modeled the conditions required to produce the meteorite’s mineral composition.
+Their results showed that the aluminum rich clinopyroxene could only have formed at pressures of at least 17.5 kilobars. By comparison, pressure at the bottom of the Mariana Trench, Earth’s deepest ocean location, is about 1 kilobar.
+Such pressures would be impossible inside a small asteroid. Instead, the calculations indicate that the angrite parent body had a radius of at least 1,000 kilometers (621 miles).
+Additional evidence suggested the source body may have been even larger. Crystals within NWA 12774 retained sharp edges and subtle chemical patterns that likely would not have survived if they had formed deep below the surface.
+That finding suggests the crystals developed at relatively shallow depths, meaning the parent body would have needed to be significantly larger to generate the required pressures.
+Under this interpretation, the angrite parent body may have exceeded 1,800 kilometers (1,118 miles) in radius. That would make it comparable in size to the Moon and possibly approaching Mars, which has a radius of 3,300 kilometers (2,050 miles).
+“There are many meteorites sitting in drawers that haven’t been thoroughly studied, so there were likely more of these protoplanets we don’t know about,” Bell said.
+Researchers still do not know what ultimately happened to the ancient world. One possibility is that it was destroyed in a major collision early in solar system history, with its fragments later becoming part of other rocky planets, including Earth.
+“The materials that formed the angrite parent body are fundamentally different from the ingredients of Earth and Mars. It points to a distinct and separate evolutionary path in planetary formation in the early history of our solar system,” Bell said.
+Reference: “High-pressure clinopyroxene in Northwest Africa 12774 and new geobarometric evidence for a planetary embryo-sized angrite parent body” by Aaron S. Bell, Laura Waters and Mark Ghiorso, 10 April 2026,
+Earth and Planetary Science Letters
+DOI: 10.1016/j.epsl.2026.120029
+Never miss a breakthrough:
+Join the SciTechDaily newsletter.
+Follow us on
+Earth Science
+Planetary Science
+University of Colorado at Boulder
+Jupiter’s Gravity May Explain a 4.5-Billion-Year-Old Meteorite Mystery
+Scientists Have Uncovered When Jupiter Was Born, Solving a Longstanding Mystery
+Geochemical Meteorite Data Reveal How Mars Lost Its Water
+Researchers Discover Sample of Ancient Martian Crust
+NASA Probes Reveal Source of Particle Acceleration in Van Allen Radiation Belts
+NASA’s Lunar Program Detects Bright Explosion on the Moon
+Cassini Observes Meteors Colliding With Saturn’s Rings
+Nakhla Fragment Shows First Evidence of Water Dissolving the Surface of Mars
+Diogenites Provide Clues of the Earliest Days of Our Solar System",https://scitechdaily.com/ancient-meteorite-reveals-a-forgotten-planet-that-existed-4-5-billion-years-ago/,scitechdaily,综合科技,无,2026-06-13T18:57:20+00:00
+AI’s Blithe Spending and Crusoe’s Stargate Woes,2026-06-13,Subscribe to unlock,https://www.theinformation.com/newsletters/the-weekend/ais-blithe-spending-crusoes-stargate-woes,the information,综合科技,科技金融,2026-06-13T19:00:12+00:00
+Longevity Startups Have a Conundrum: Can They Sell Longevity Drugs?,2026-06-13,Subscribe to unlock,https://www.theinformation.com/articles/longevity-startups-conundrum-can-sell-longevity-drugs,the information,综合科技,科技金融,2026-06-13T19:00:14+00:00
+How One Silicon Valley Congressman is Trying Get AI Mega Money Out of Politics,2026-06-13,Subscribe to unlock,https://www.theinformation.com/articles/one-silicon-valley-congressman-trying-get-ai-mega-money-politics,the information,综合科技,科技金融,2026-06-13T19:00:16+00:00
+Anthropic Suspends Customers’ Access to Latest Models After Government Order,2026-06-13,"Anthropic Suspends Customers’ Access to Latest Models After Government Order — The Information
+Read this briefing for free",https://www.theinformation.com/briefings/anthropic-suspends-customers-access-latest-models-government-order,the information,综合科技,科技金融,2026-06-13T19:00:18+00:00
+OpenAI Investigated by State Attorneys General on User Interaction,2026-06-13,"OpenAI Investigated by State Attorneys General on User Interaction — The Information
+Read this briefing for free",https://www.theinformation.com/briefings/openai-investigated-state-attorneys-general-user-interaction,the information,综合科技,科技金融,2026-06-13T19:00:19+00:00
+Roku in Discussions to be Acquired,2026-06-13,"Roku in Discussions to be Acquired — The Information
+Read this briefing for free",https://www.theinformation.com/briefings/roku-discussions-acquired,the information,综合科技,科技金融,2026-06-13T19:00:21+00:00
+"Binance, Bybit Cancel SpaceX IPO Allocations After Shortfall",2026-06-13,"Binance, Bybit Cancel SpaceX IPO Allocations After Shortfall — The Information
+Read this briefing for free",https://www.theinformation.com/briefings/binance-bybit-cancel-spacex-ipo-allocations-shortfall,the information,综合科技,科技金融,2026-06-13T19:00:23+00:00
+How Musk Kept Bankers Guessing in Sprint to SpaceX IPO,2026-06-13,Subscribe to unlock,https://www.theinformation.com/articles/musk-kept-bankers-guessing-sprint-spacex-ipo,the information,综合科技,科技金融,2026-06-13T19:00:25+00:00
+Tokenminimizing: Meta Moves to Curb Employee AI Usage as AI Costs Reach Billions,2026-06-13,Subscribe to unlock,https://www.theinformation.com/articles/tokenminimizing-meta-moves-curb-employee-ai-usage-ai-costs-reach-billions,the information,综合科技,科技金融,2026-06-13T19:00:27+00:00
+"Microsoft Has Considered Spinning Out Xbox, Plans New ‘Halo,’ ‘Fallout’ Games",2026-06-13,Subscribe to unlock,https://www.theinformation.com/articles/microsoft-considered-spinning-xbox-plans-new-halo-fallout-games,the information,综合科技,科技金融,2026-06-13T19:00:29+00:00
+SpaceX Shares Jump 19% in First Day of Trading,2026-06-13,"SpaceX Shares Jump 19% in First Day of Trading — The Information
+Read this briefing for free",https://www.theinformation.com/briefings/spacex-shares-open-150-per-share,the information,综合科技,科技金融,2026-06-13T19:00:31+00:00
+"Inside Tech’s Feverish Demand for Retatrutide, a Supposed Super Peptide",2026-06-13,Subscribe to unlock,https://www.theinformation.com/articles/inside-techs-feverish-demand-retatrutide-supposed-super-peptide,the information,综合科技,科技金融,2026-06-13T19:00:33+00:00
+科技领袖纷纷开启“反思模式”，修正此前“AI 会带来就业末日”论调,2026-06-13,"6 月 13 日消息，据《商业内幕》13 日（今天）报道，AI 公司 CEO 和科技行业领袖正在重新拿捏谈论就业市场的方式。过去那种笼统宣称白领岗位将被大规模淘汰的说法，正在越来越多地被收回或修正。
+OpenAI CEO 萨姆 · 奥尔特曼最近在澳大利亚联邦银行主办的一场活动上表示：“我很高兴自己
+。我原本以为，到现在为止，入门级白领岗位受到的冲击
+奥尔特曼表示，他的想法开始改变，源于一次短暂尝试。他曾让 AI 替自己写邮件和 Slack 消息，但观看整个过程让他感到“去人性化”。“岗位中属于人的部分，让我从正反两方面都更新了看法，也让我意识到，
+就业图景很可能会和我们原本想象的很不一样
+。我不认为会出现某些同行公司主张或谈论的那种就业末日。”
+除此之外，微软 AI CEO 穆斯塔法 · 苏莱曼也表示：“我认为人们之所以害怕，是因为这个问题定义不清，而且经常被描述成
+一片不可避免、充满威胁的灰云
+据IT之家了解，今年 2 月，苏莱曼曾放言：“坐在电脑前完成的白领工作，不管是律师、会计、项目经理还是营销人员，这些工作中的大多数任务，都会
+在未来 12 到 18 个月内被 AI 完全自动化
+对此，苏莱曼后续澄清说，那段话遭到了误解，他并不是在改变立场：当时说的是阅读邮件等
+，而非律师这类职业本身。“发送电子邮件、和同事沟通、制作 PowerPoint，这些子任务会越来越多地被数字化和自动化，我们也基本可以生成越来越多这类内容。但这并不一定意味着整个岗位会消失。”
+AI 行业正面对一个刺眼现实：科技公司称 AI 是
+人类历史上最重大的进步之一
+。《经济学人》-YouGov 5 月民调显示，71% 的美国人认为 AI 发展速度太快。
+微软总裁布拉德 · 史密斯表示，多所知名大学毕业典礼上，谈到 AI 的演讲者遭到嘘声，对科技行业来说是“有力的警醒”。他坦诚，AI“会取代一些工作”，但部分预测给出的时间线过于紧凑，与以往类似技术突破的扩散过程并不相同。
+Anthropic CEO 达里奥 · 阿莫迪已经成为行业内谈论 AI 冲击就业最鲜明的人物。去年他曾警告称，未来 1 到 5 年内，AI 可能
+消灭多达一半的入门级白领岗位
+。阿莫迪解释说，自己不断发出警告并非空穴来风。“我在采访和文章中警告岗位流失，是因为我希望政策制定者和私营部门
+都能获得最佳机会去适应和应对
+，而不是因为我想当‘末日预言者’。”
+不过，阿莫迪同时表示，“AI 将带来许多新的经济机会。我曾预测，AI 将让个人创造十亿美元公司成为可能。现在，我们已经看到
+只有几个人组成的团队，打造出营收数亿美元的企业",https://www.ithome.com/0/963/990.htm,IT之家,综合媒体,科技新闻,2026-06-13T19:24:20+00:00
+《命运 2》最终大型更新“凯旋纪念碑”上线：付费内容打包卖 102.09 元，原价 859.35 元,2026-06-13,"6 月 13 日消息，由索尼 PlayStation 旗下独立工作室 Bungie 制作并运营的大型科幻在线动作游戏《命运 2》于 2026 年 6 月 10 日正式迎来了最后一次大型内容更新 ——“凯旋纪念碑”。
+这款从 2017 年与玩家见面的射击刷宝游戏，至此宣布停止后续的新内容开发，进入了常规维护阶段。Bungie 的工作重心将全面转向新项目的孵化与开发。
+在此次更新推出的同一天，Bungie 也同步发售了《命运 2：典藏版》。该版本旨在为玩家提供一个一劳永逸的游戏体验。
+典藏版整合了《命运 2》运营近九年来所有可用的扩展内容与组合包，其中不仅包含了《终焉之形》《光陨之秋》《邪姬魅影》等主要资料片，还囊括了对应的十款地城与七款突袭副本的完整密钥。
+《命运 2：典藏版》Steam 国区价格为 102.09 元（原价为 859.35 元），折扣幅度达到了 88%，优惠暂时没有截止时间。
+“凯旋纪念碑”免费向所有守护者开放，被官方形容为一场回顾整个游戏历程的庆典。此次更新包含内容相当丰富的调整与新增玩法，例如备受期待的竞速活动“快雀联赛”将永久回归，玩家们可以再度体验在赛道中竞速的乐趣；难度挑战模式“万神殿 2.0”变为常驻模式，并带来了全新的首领阵容。
+同时，针对游戏内全境突袭与地城的武器和护甲，Bungie 也依据当前标准进行了全面修订，为老装备赋予了新的生命力，包括为锻造武器新增了从一阶到五阶的升级路径。
+此外，为了给玩家们一个美好的告别体验，Bungie 不仅重新设计了部分用户界面，还为那些热衷于挖掘故事细节的玩家提供了寻找彩蛋与角色支线结局的机会。
+据 SteamDB 数据显示，在“凯旋纪念碑”更新上线当天，《命运 2》在 Steam 平台上取得了令人瞩目的数据 ——24 小时最高同时在线玩家数达到了 167867 人，是游戏自《终焉之形》资料片发布后迎来的最大一次玩家热潮。
+IT之家此前报道，Bungie 在 2026 年 5 月 22 日发布公告。公告中提到，Bungie 认为在《终焉之形》之后，是时候让《命运》这个宇宙超越《命运 2》本身而继续存在，工作室的未来将迎来全新的开端。尽管停止了内容开发，但 Bungie 承诺会确保游戏服务器保持开放，就像初代《命运》那样供玩家随时回归。
+你是一名守护者，是在充满危险和神秘的太阳系中守护人类圣城的保护者。三种独特职业任你选择，深入《命运 2》的冒险剧情，以单人或组队形式体验惊险刺激的射击动作、不可思议的技能和令人难忘的科幻旅程。《命运 2：典藏版》解锁所有可用的扩展和内容包，包括：
+宿命边缘 +2 张奖励通票
+*《命运 2》凌光之刻和暗影要塞战役面向所有玩家开放，因此不包含在本组合包中。
+** 地牢权限通过地牢钥匙提供。
+***《命运 2》中的所有玩家均可体验玻璃拱顶突袭、克洛塔的末日突袭、国王的陨落突袭和预言地牢。
+对于符合条件的用户，根据你之前已拥有的扩展和内容包，你可能无需额外付费，即可通过 Steam 的补全套装价格获得该产品。在这种情况下，即使你之前未拥有过地牢钥匙，所包含的地牢钥匙也会随产品一同附送。",https://www.ithome.com/0/963/989.htm,IT之家,综合媒体,科技新闻,2026-06-13T19:24:21+00:00
+全球首条百万片级体全息光波导自动化产线在天津投产，消费级 AR 核心显示技术重大量产突破,2026-06-13,"6 月 13 日消息，据天津高新区官方消息，6 月 13 日，由天津企业尼卡光学设计建设的
+全球首条百万片级体全息光波导自动化产线
+在天津滨海高新区华苑科技园正式投产。
+这条年产能达 100 万片的产线，标志着
+我国在消费级 AR（增强现实）核心显示技术领域实现了重大规模化量产突破
+，解锁了高性价比 AR 眼镜和车载 AR-HUD 走向大众市场的“最后一公里”。
+据介绍，AR 眼镜作为新一代 AI 智能终端，长期面临镜片厚重、漏光明显、价格高企等推广难点。体全息光栅波导（Volume Holographic Grating，VHG）凭借不泄露显示信息、接近普通镜片、超高通透性、结构轻薄等物理特性，被公认为消费级 AR 设备的重要技术路线。
+长期以来，AR 光波导核心的高性能材料与高精设备面临国外“卡脖子”风险。IT之家获悉，此次投产的天津产线，拥有 1500 平方米千级洁净车间及精密环控系统，全线采用独家定制的全息光刻设备及工艺平台，
+目前，尼卡方案已广泛应用于消费级 AR 眼镜及车载 AR-HUD 等领域，与多家消费电子、汽车制造头部厂商开展深入合作。",https://www.ithome.com/0/963/988.htm,IT之家,综合媒体,科技新闻,2026-06-13T19:24:23+00:00
+中国科学家突破量子速度极限：非厄米体系实现纠缠加速,2026-06-13,"6 月 13 日消息，量子纠缠作为量子计算、量子通信和量子传感领域的核心资源，其制备速度长期受限于传统厄米量子系统中量子比特间的耦合强度。能否突破这一限制、实现更快的量子操控，一直是量子信息科学领域的前沿热点。
+中国科学院精密测量科学与技术创新研究院冯芒研究团队与郑州大学等单位合作，在囚禁离子实验平台中首次实现了非厄米体系中纠缠生成的加速，成功超越传统厄米量子速度极限。
+研究团队利用两枚 40Ca+ 离子构建线性 Paul 阱系统，量子比特编码在 40Ca+ 离子的基态与亚稳态能级上，通过 729 nm 激光驱动量子比特相干跃迁，854 nm 激光将 | 1 > 态耦合到短寿命激发态并引入可调耗散通道，同时利用双色激光场实现两离子之间的有效相互作用。
+在仅有相干相互作用时，耦合强度为 J = 2π×625 Hz，对应的 Bell 态制备门时间为 200 微秒；在固定相干耦合强度的条件下选取三组逐步接近例外点的参数后，纠缠制备时间依次缩短为 177 微秒、155 微秒和 132 微秒，速度提升约 1.52 倍。
+通常情况下，耗散效应被认为是破坏量子相干性的不利因素，但可控的耗散能将系统参数调至奇异点（例外点）附近，导致希尔伯特空间发生几何畸变，从而为量子态演化提供“捷径”。利用这一机制，产生最大纠缠态的速度比传统厄米方案有了显著提升。
+不过值得注意的是，非厄米加速并非毫无代价 —— 理论分析和实验工作点均表明，纠缠产生越快，布居泄漏到计算子空间之外的概率也越大，因此成功概率相应降低。
+研究团队在实验中选取了兼顾加速效率与成功概率的工作点，并通过宇称振荡测量验证了所制备纠缠态仍具有高保真度，从而成功展示了非厄米加速在实际应用中的可行性。
+相关研究成果已于 2026 年 5 月 28 日在线发表于《物理评论快报》，这项成果首次在可编程量子系统中实验证实了非厄米体系能够突破传统公认的量子速度极限，也证明了经过精确设计的耗散不仅可以成为加速量子态制备的可控资源，更打破了长期以来将耗散单纯视为有害因素的固有认知。
+https://journals.aps.org/prl/abstract/10.1103/g8v5-rbq7",https://www.ithome.com/0/963/987.htm,IT之家,综合媒体,科技新闻,2026-06-13T19:24:25+00:00
+知名会计师事务所毕马威 AI 行业报告被指是“AI 写的”：充斥幻觉、错误百出,2026-06-13,"6 月 13 日消息，去年 10 月，毕马威曾发布《总体体验：在智能体 AI 时代重新定义卓越》报告，讨论企业如何利用 AI 满足客户需求。然而据英国《金融时报》12 日报道，这份报告后来被“抓包”充斥 AI 幻觉：报告列举的多个智能体 AI 案例，
+要么并不存在，要么并不具备毕马威所描述的能力
+AI 内容检测工具开发商 GPTZero 的调查人员在报告中发现大量错误信息和虚假脚注，这一结论也得到了《金融时报》的证实。
+IT之家注：毕马威是全球四大专业服务和会计师事务所之一，另外三家是德勤、普华永道和安永。
+共有 45 条引文，只有 5 条准确对应真实来源
+。另有 28 条引文对真实来源标题进行了改写，或在真实来源中添加并不存在的内容；剩下 12 条引文表述过于模糊，无法确认是否确有其来源。
+除了引文造假或不准确，毕马威报告中
+约一半主张本身也存在问题
+，要么内容虚假，要么来源归属错误。GPTZero 分析称，这些问题很可能源于 AI 研究工具
+，在被要求寻找现实世界中的智能体 AI 案例时，
+例如，毕马威声称阿联酋航空推出名为 Sara 的移动聊天机器人，可以与乘客对话并替乘客更改航班。但 Sara 只是阿联酋航空 2023 年推出的移动助手，
+，也不能替乘客修改预订。
+毕马威还声称，瑞银已在投资咨询、风险管理和合规监控中
+”。另一个例子涉及瑞士联邦铁路 SBB：毕马威声称其拥有 AI 智能体，可以根据乘客偏好、实时状况和碳排放影响，帮助乘客规划、预订并优化行程。SBB 发言人表示，这一说法“不准确”。
+GPTZero CEO 爱德华 · 田表示，如果“四大”发布充满错误的报告，可能会“污染信息源”，并进一步引发二手 AI 幻觉。毕马威发言人则回应称，公司严肃对待所发布内容的准确性和完整性。
+目前，毕马威撤下了这份报告，并开始“审查报告发布前后的情况”。",https://www.ithome.com/0/963/986.htm,IT之家,综合媒体,科技新闻,2026-06-13T19:24:26+00:00
+智谱 AI 编程工具 ZCode 3.0 版本发布：切换自研 ZCode Agent 内核，深度适配 GLM-5.2,2026-06-13,"6 月 13 日消息，智谱今日发布了 AI 编程工具
+深度适配 GLM-5.2
+官方表示，ZCode 3.0 全面
+切换自研 ZCode Agent 内核
+。针对满血 GLM 深度优化长程推理、工具调用和大型工程执行链路，整体任务完成效果已显著优于第三方 Agent；
+后续版本将聚焦自研 Agent 体验，不再内置或维护其他 Agent 适配
+此外，升级或已订阅 GLM Coding Plan 用户应用内相比 API 调用专享 150% 配额。
+智谱今日还宣布 GLM-5.2 将面向 GLM Coding Plan 全量用户开放，智谱称
+GLM-5.2 是智谱迄今能力最强的开源模型
+，支持真正可用的 1M 上下文，并在长程任务中继续保持领先。
+IT之家附 ZCode 3.0 其他更新内容如下：
+全新分组式任务工作区，支持拖拽折叠、跨区迁移、批量管理，高效管控多 Agent 并发任务
+Zread 智能项目知识库，自动生成结构化项目文档，支持目录浏览、进度监测、一键重生成、随时终止构建
+可视化 Git 分支图谱，直观呈现分支拓扑关系，支持快捷切分支、AI 自动生成标准化提交注释
+可定制化聊天交互体验，自由开关流式渲染、思考过程展示、性能模式，兼容高低配设备
+全方位状态监控看板，聚合聊天摘要、任务进度、模型用量图表、上下文占用提醒
+多类型附件智能适配，支持图片、文件路径、白板截图上传，优化代码批注、会话内容插入等交互操作
+全新一体化视觉体系，适配深浅双主题，重构启动、登录、欢迎页面，全面升级界面视觉与操作体验",https://www.ithome.com/0/963/985.htm,IT之家,综合媒体,科技新闻,2026-06-13T19:24:28+00:00
+英特尔开源版图持续收缩：AI 加速开源项目 BigDL 被砍，本月底正式归档,2026-06-13,"6 月 13 日消息，英特尔正在持续推进其开源项目的收缩。Phoronix 发现，英特尔已经将其 AI 加速开源项目 BigDL 列入终止清单。
+这是一个专注于在英特尔全系 XPU 上低延迟运行 AI 大语言模型的开源框架。本周早些时候，该项目仓库已挂出“不再由英特尔维护”的常规归档说明。随后，英特尔周五宣布将其最终归档日期定为 2026 年 6 月 30 日，给现有用户留出约半个月的迁移时间。
+英特尔近年来已经在 BigDL 项目上投入了大量开发工作，并将其定位为“将数据分析与 AI 应用从笔记本无缝扩展到云端”，集成了 TensorFlow、Keras、PyTorch、Apache Spark / Flink 等主流框架，同时支持 CPU 和 GPU 加速，并可借助英特尔 SGX 和 TDX 技术保护大数据与 AI 安全。其适用范围覆盖了从酷睿 Ultra 笔记本、独立 GPU 到云端及数据中心硬件等多种英特尔计算平台。
+过去一年间，随着开源策略转向、企业重组和成本削减，英特尔已终止了多个此前维护的开源项目，其中不少项目近几个月的维护活跃度已经不高。但考虑到当前市场对 AI 和 LLM 的旺盛需求，BigDL 这一仍在定期提交代码的开源项目被宣告终结，仍颇为令人意外。",https://www.ithome.com/0/963/984.htm,IT之家,综合媒体,科技新闻,2026-06-13T19:24:30+00:00
+不再停留于纸面阶段：俄罗斯开始研制超音速客机原型机,2026-06-13,"6 月 13 日消息，据塔斯社报道，俄罗斯联合航空制造公司（UAC）CEO 瓦季姆 · 巴杰哈 6 月 3 日在圣彼得堡国际经济论坛前接受专访时透露，俄罗斯正在研制超音速客机原型机，相关工作已进入硬件制造阶段。
+巴杰哈表示：“是的，这项研制工作正在茹科夫斯基研究中心进行，我们正积极提供协助。工作已不再停留于纸面 —— 已经进入了硬件制造阶段。这款飞机的原型机正在研制中，我们相信茹科夫斯基研究中心将圆满完成这项工作。”
+IT之家查询获悉，UAC 隶属于俄罗斯国家技术集团（Rostec）。今年 4 月，茹科夫斯基研究所已为一种未来超音速客机设计方案申请了专利，该设计能够在进行超音速飞行的同时降低音爆响度并减少机场周边噪声水平。
+研制方认为，高端客运市场存在对高速飞行的需求，尤其看重节省时间和优质出行体验的旅客是主要潜在用户。此前该研究所曾透露，已有航空公司对俄制超音速客机表达兴趣，未来机队规模可能达到数十架，主要需求预计来自目前乘坐商务舱和头等舱的旅客。
+该项目的目标在于打造一款具备商业可行性的超音速客机，在超过音速的同时满足现代安全与环保标准。报道称，此次尝试通过融合更高速度、更高效率与更低噪声，力求突破此前几代超音速客机的局限。尽管商业运营仍是远期目标，原型机的推进标志着俄罗斯意图在现代超音速民航领域重新占据一席之地。该项目尚未公布商业部署时间表，其进展将受到全球航空业的关注。
+俄罗斯图-454 概念飞机首度亮相：对标波音 787、空客 A350 级别
+俄罗斯：已准备好向中国供应宽体飞机零部件，包括复合材料机翼和重型发动机",https://www.ithome.com/0/963/983.htm,IT之家,综合媒体,科技新闻,2026-06-13T19:24:31+00:00
+中国产林肯冒险家将返销美国“老家”，且配置比美版更豪华,2026-06-13,"6 月 13 日消息，外媒《Car & Driver》12 日公布的一份美国国家公路交通安全管理局文件确认，2027 款冒险家已经在规划中。新车将在
+生产，提供 Premiere 和 Reserve 两种配置。
+IT之家注：2025 年，福特曾宣布将在美停产翼虎、林肯冒险家车型，为全新电动汽车让路。
+文件显示，2027 款冒险家将
+，并搭载一套以 2.0 升涡轮增压发动机为核心的混动系统。作为对比，中国版冒险家目前提供最大功率 190 千瓦的 2.0 升涡轮增压发动机，也提供由 1.5 升涡轮增压四缸发动机组成的混动版本。
+该媒体分析称，由于上述两套动力都无法完全对应文件描述，美规版冒险家预计会与尺寸更大的航海家混动版共享动力。航海家混动版搭载 2.0 升涡轮增压四缸发动机，系统综合功率为 213 千瓦。
+目前，2027 款冒险家的更多细节仍然有限。中国版冒险家的豪华感将高于此前美国市场销售的版本。中国版冒险家内饰更强调科技感，配备
+12.3 英寸数字仪表盘和 27 英寸全景显示屏
+，27 英寸屏幕由中控信息娱乐系统和副驾屏组成。
+配置方面，中国版冒险家还提供
+24 向电动调节半苯胺真皮前排座椅
+，支持加热、通风和按摩；后排座椅支持加热，靠背最大可向后调节 12 度。此外，新车还配备氛围灯和 14 扬声器 Revel 音响系统。",https://www.ithome.com/0/963/982.htm,IT之家,综合媒体,科技新闻,2026-06-13T19:24:33+00:00
+我国汽车运输船需求持续攀升，有企业手持船用钢材订单已排到后年,2026-06-13,"6 月 13 日消息，据央视财经 13 日（今天）报道，近年来，我国汽车出口快速增长，汽车运输船需求持续攀升，这类高端船型对钢材精度要求更高，需使用超薄板材，以严格控制船舶重心，保障航行稳定。南京某钢铁企业负责人透露，今年生产的包括止裂钢、邮轮用宽薄板、高强船板和极地低温船板等在内的船用钢材
+总量预计超过 200 万吨
+IT之家从报道中获悉，下游需求旺盛推动高端钢材价格走高，船板市场均价已从
+每吨 4100 元涨到 4300 元左右
+。为规避原材料价格波动，造船企业多采用锁价模式，高端钢材用量大，附加值高，但利润空间依然可观。
+报道援引专业人士的话说，近年来，我国钢铁企业研发出多款不同用途钢材，
+钢材稳定性、均匀性、厚度公差等质量指标，均达到国际领先水平
+，助力我国船舶装备的转型升级。",https://www.ithome.com/0/963/981.htm,IT之家,综合媒体,科技新闻,2026-06-13T19:24:35+00:00
+北汽集团与中国长安汽车达成战略合作，围绕前瞻技术与新兴产业等领域开展合作协同,2026-06-13,"6 月 13 日消息，北汽集团与中国长安汽车集团今日
+IT之家获悉，双方将聚焦
+前瞻技术与新兴产业、绿色低碳发展、产业链、供应链、海外市场
+等关键领域开展合作协同。
+官方表示，北汽集团与中国长安汽车同为中国汽车产业中坚力量，肩负做强做大民族汽车品牌、推动民族汽车产业转型升级、构建新发展格局的共同使命。",https://www.ithome.com/0/963/980.htm,IT之家,综合媒体,科技新闻,2026-06-13T19:24:36+00:00
+消息称三星首款“阔折叠”智能手机 UTG 玻璃盖板更厚：折痕可更浅,2026-06-13,"6 月 13 日消息，据韩媒 ZDNET Korea 当地时间昨日消息，三星电子已将其预计 2026H2 推出的首款“阔折叠”形态智能手机
+（IT之家注：可能被称为 Galaxy Z Fold8 或 Galaxy Z Fold8 Wide）
+的 OLED 屏幕 UTG 玻璃盖板厚度从此前尝试的 30μm 上调至 60μm。
+IT之家了解到，更大的 UTG 玻璃厚度
+折叠时破裂的风险会更高一些
+韩媒提到，在三星 2024 年产品线中，“大折叠”Fold6 标准版的 UTG 厚度为 30μm、FE 版为 45μm；2025 年的 Galaxy Z 7 系列中，“大折叠”Fold7 的 UTG 厚度为 45μm、“小折叠”Flip7 为 50μm；而今年 Galaxy Z Fold8“大折叠”UTG 厚度则会维持 45μm 不变。
+消息称三星 Galaxy Z 8 系列折叠屏手机今年出货目标降至 500~600 万部
+消息称三星 Galaxy Z Fold 8 Wide 折叠屏手机将配备 432 PPI 外屏、403 PPI 内屏
+三星 Galaxy Z Fold8 Ultra 折叠手机实拍视频和系统壁纸曝光
+三星 Galaxy Z Fold8 Ultra 等 3 款折叠手机机模曝光",https://www.ithome.com/0/963/979.htm,IT之家,综合媒体,科技新闻,2026-06-13T19:24:38+00:00
+英伟达 RTX PRO 6000 Blackwell 全线涨价，较去年首发价高出 55%,2026-06-13,"6 月 13 日消息，受全球显存供应紧张以及 AI 需求持续增长影响，专业显卡市场价格继续攀升。
+Tom's Hardware 发现，英伟达已悄然上调旗下 RTX PRO 6000 Blackwell 官方售价，目前价格达到 13250 美元（IT之家注：现汇率约合 89789 元人民币），较其一年前发布时的 8565 美元上涨约 55%。
+RTX PRO 6000 Blackwell 是英伟达 Blackwell 专业显卡系列中的旗舰产品。该系列目前包含面向专业工作站市场的 RTX PRO 6000 Blackwell Workstation Edition、功耗优化版 RTX PRO 6000 Blackwell Max-Q Workstation Edition，以及针对数据中心和企业用户推出的 RTX PRO 6000 Blackwell Server Edition。
+英伟达于 2025 年 3 月正式发布 RTX PRO 6000 Blackwell 与 PRO Pro 6000 Blackwell Max-Q，两款产品上市时建议零售价均为 8565 美元。凭借面向 AI、渲染、科学计算和专业内容创作等场景的高性能表现，该系列产品在专业市场受到广泛关注。
+最新数据显示，RTX PRO 6000 Blackwell 在英伟达官方商城中的标价已升至 13250 美元。与此同时，由合作伙伴生产的“非公版”价格也同步上涨。例如，PNY 推出的 RTX PRO 6000 Blackwell 在英伟达商城中的价格为 11359.99 美元，虽然低于公版型号，但仍明显涨价。
+不同销售渠道之间的价格差异依然存在。以美国零售商 Newegg 为例，目前 RTX PRO 6000 Blackwell 售价约为 12099.99 美元，低于英伟达官方商城价格。不过在部分型号上，英伟达官方渠道的价格反而低于第三方零售商。
+面向服务器市场的 RTX PRO 6000 Blackwell Server Edition 目前并未通过英伟达官方商城直接面向普通消费者销售，但在 Newegg 等渠道中已有相关产品上架，售价高达 14999 美元（现汇率约合 10.2 万元人民币）。
+另外，部分销售页面中的产品来自第三方卖家，也有部分属于 OEM 版本。OEM 产品通常面向系统集成商或企业客户批量销售，因此一般不会配备零售包装。
+自 Blackwell 架构发布以来，英伟达数据中心和 AI 产品需求持续增长，专业图形市场也受到相关供应链变化影响。RTX PRO 6000 Blackwell 此次价格调整，进一步反映出当前高端 GPU 市场在 AI 热潮带动下的供需变化趋势。",https://www.ithome.com/0/963/977.htm,IT之家,综合媒体,科技新闻,2026-06-13T19:24:40+00:00
+新能源汽车“越造越重”引道路损耗争议，业内人士透露“养路费”等税费改革正在研究,2026-06-13,"6 月 13 日消息，新能源车因大容量电池等配置车重攀升，2 至 3 吨成主流，部分车重近 4 吨，引发道路损耗和“养路费”争议。
+据每日经济新闻今日报道，多位业内人士透露，目前，
+相关部门已经在研究相关政策
+还将涉及更多汽车产业相关的税费体制
+，以实现制度“与时俱进”，适配新的产业格局。
+6 月 12 日，中国汽车工业协会总工程师叶盛基接受采访时表示：“经过多年努力，当前国内汽车产业已经发生翻天覆地变化，
+而现行汽车行业整体税费标准大多沿用上世纪的政策，已经难以适配当下的产业发展实际
+。当然，汽车整体税费改革无法一蹴而就，需充分调研、多方统筹、充分论证后出台新政策。”
+在新能源汽车税费层面，叶盛基提到，此前为扶持新能源汽车产业化发展，行业享有多项税费减免政策，目前相关优惠已逐步退坡，例如车辆购置税减半政策的调整。
+未来随着新能源汽车市场逐步成熟，相关税费政策或将进一步调整和优化
+IT之家注意到，面对汽车越来越重的问题，《电动汽车能量消耗量限值第 1 部分：乘用车》国家标准已于今年 1 月 1 日起实施。这项标准通过更严格且系统的指标设计，迫使车企作出实质性技术升级、限制能耗水平，遏制电动汽车日益“肥胖”的趋势。
+此外，2026 年实施的购置税技术标准规定，
+整备质量超 2710 公斤的纯电车型，想要享受购置税减半优惠，CLTC 百公里耗电量不能高于 19.1 度
+，这也在一定程度上抑制了车企无限制增重。",https://www.ithome.com/0/963/976.htm,IT之家,综合媒体,科技新闻,2026-06-13T19:24:41+00:00
+理想汽车回应全新 L8 为何六座变五座：希望做“体验不妥协”的旗舰 SUV,2026-06-13,"Autumn_Dream
+6 月 13 日消息，理想汽车官微今晚发布关于全新理想 L8 的“答网友问”。关于理想 L8 为什么从豪华六座 SUV 改成旗舰五座 SUV，理想汽车方面回应称，“因为我们希望为五座需求的用户，做一台不需要在体验上做任何妥协的旗舰 SUV。”
+因为我们希望为五座需求的用户，做一台
+不需要在体验上做任何妥协
+五座用户如果想买一台足够旗舰的 SUV，常常要在一些体验上做取舍：
+想要更好的二排舒适性，就需要牺牲操控；
+想要更大的后备容纳空间，就需要牺牲座椅位置；
+有些五座车型则是基于六座车身调整而来，外观姿态和空间体验都很难真正围绕五座用户重新设计。
+全新理想 L8 想做的，就是改变这件事。它不是一台六座 SUV 的五座版本，而是我们从一开始就围绕五座用户打造的旗舰 SUV。它既有原生五座带来的舒适二排和实用后备厢，也有更年轻、更动感的外观姿态；同时，它没有因为是五座就降低旗舰标准，72.7kWh 5C 超充大电池、第三代双腔双阀空气悬架、线控转向、后轮转向、旗舰影音和马赫智能辅助驾驶全部标配，我们希望让五座用户也能拥有看齐 9 系旗舰 SUV 的完整体验。
+理想汽车表示，全新 L8 从白车身研发和空间布局的第一天起，就
+完全围绕“旗舰级两排五座”的方向
+独立设计，而不是在六座车型上拆掉第三排而改出来的妥协产物。原生五座架构带来的好处，则包括
+二排空间更充分、二排乘客上下车更从容、后备厢空间更完整
+此外，全新 L8 搭载理想首创的联排双零重力座椅，二排靠背躺角可以达到 55°；一排主驾和副驾也都配备了零重力座椅，在短暂停车、临时休息或充电时，可以快速进入舒展放松的状态。
+据IT之家此前报道，全新 L8 将于
+正式上市，提供 Ultra、Livis 两个版本。
+全新理想 L8 官宣 6 月 23 日上市，官方发布配置一图看懂",https://www.ithome.com/0/963/975.htm,IT之家,综合媒体,科技新闻,2026-06-13T19:24:43+00:00
+绿联推出 NAS 新品 DXP 6800/8800 Ultra：双万兆双雷电 4，PCIe 扩展,2026-06-13,"6 月 13 日消息，绿联 (UGREEN) 近日在电商平台上架了两款高定位 NAS —— DXP6800 Ultra 和 DXP8800 Ultra。这一对新品均提供包括
+双 10GbE RJ45
+PCIe Gen4 ×4 插槽
+DXP6800 Ultra 和 DXP8800 Ultra 采用一体成型 3.5mm 金属机身，内置 250W“小 1U”电源；预装 8GB DDR5 SO-DIMM 内存和 128GB SSD 系统盘存储；还提供 2 个 USB-A 10Gbps、2 个 USB-A 480Mbps、1 个 HDMI 2.1、1 个 SD 4.0 UHS-II 读卡器。
+DXP6800 Ultra 采用 6+2 盘位设计
+，基于英特尔酷睿 5 处理器 120U，拥有双 90mm 风扇散热，售价 7599 元；
+DXP8800 Ultra 采用 8+2 盘位设计
+，基于英特尔酷睿 7 处理器 150U，拥有双 120mm 风扇散热，售价 10999 元。
+京东 618 无门槛红包
+面额至高 26618 元，每天抽 3 次：
+淘宝 618 无门槛红包
+面额至高 26888 元，每天抽 1 次：",https://www.ithome.com/0/963/974.htm,IT之家,综合媒体,科技新闻,2026-06-13T19:24:45+00:00
+LGA 1700 回归：英特尔被曝将推 Raptor Lake Next 处理器，2027 年重返 DDR4 市场,2026-06-13,"6 月 13 日消息，据 Tom's Hardware 今日报道，英特尔计划在 2027 年上半年推出代号“Raptor Lake Next”的新一代 DDR4 处理器，这将是 Raptor Lake 系列的第三次“更新”，继续使用 LGA 1700 平台。
+IT之家注：目前该系列处理器的正式命名尚未确定，仅以“Raptor Lake Next”指代。Tom's Hardware 表示已从多个来源验证了 Raptor Lake Next 存在，但尚不确定是否会是一个全新处理器系列。
+至少两家主板厂商向 Tom's Hardware 确认，由于 DDR4 需求上升，他们正计划增加 AM4 和 LGA 1700 平台的 DDR4 主板产量。这一时间点与此前 4 月流传的英特尔计划重新推出 Raptor Lake 处理器的传闻相吻合。英特尔高管 Robert Hallock 也曾表示，Raptor Lake 将在市场上“供应充足”。
+英特尔前不久刚推出了面向嵌入式和工业应用的 Bartlett Lake 处理器，该系列采用纯 P 核设计，采用 LGA 1700 插槽，其旗舰型号酷睿 9 273PQE 拥有 12 颗 P 核，比 i9-14900K 多出 4 颗。
+Bartlett Lake 在物理层面兼容 Raptor Lake 平台，但软件层面未获官方支持。尽管如此，已有发烧友成功在消费级 600 系和 700 系主板上点亮该处理器。
+除英特尔外，AMD 也重新推出了 R7 5800X3D 处理器，回归 DDR4 市场，其国行售价暂未公布。
+AMD 锐龙 7 5800X3D 十周年纪念版采用与原版不同的台积电 SoIC 键合工艺
+AMD 发布锐龙 7 5800X3D 十周年纪念版与锐龙 7 7700X3D 处理器
+""Bartlett Lake 12P"" 进入服务器：英特尔推出至强 6377P 处理器
+英特尔正式推出酷睿（第二代）性能核 ""Bartlett Lake 12P"" 处理器
+英特尔 Bartlett Lake-S 系列处理器阵容曝光：全大核、睿频最高 5.9GHz，普通消费者无缘
+消息称英特尔原本计划在 FCLGA1851 插槽推出四代台式机处理器",https://www.ithome.com/0/963/973.htm,IT之家,综合媒体,科技新闻,2026-06-13T19:24:46+00:00
+张雪谈国产摩托与国际一线水平差距：核心在数十年的积累，制造工艺已基本追平,2026-06-13,"6 月 13 日消息，据《中国经营报》13 日（今天）报道，在中国摩托车产业高质量发展圆桌会议上，张雪机车董事长张雪谈到了“国产摩托车与国际一线水平到底还差在哪儿”。“核心差距体现在
+、整车调校经验、工况数据积累上，国产中大排量高端车型起步晚，仍需时间打磨沉淀。”
+已基本追平国际一线品牌，零部件供应链成熟，
+将是促成中国高端摩托车产品技术快速成熟的关键性优势。
+据IT之家了解，张雪还在此次会议上谈到了“张雪机车是否有登陆资本市场的相关规划”：“
+张雪回应张雪机车是否有上市计划：顺其自然",https://www.ithome.com/0/963/972.htm,IT之家,综合媒体,科技新闻,2026-06-13T19:24:48+00:00
+众泰汽车：与债权人达成债务和解，涉及金额约 1.7 亿元,2026-06-13,"6 月 13 日消息，众泰汽车于 2026 年 6 月 12 日发布公告称，公司近日与重庆两山建设投资集团有限公司、重庆两山建设开发有限公司达成和解，并签订了《债务和解协议》。
+IT之家从公告获悉，经各方初步估算，
+和解总债务约为 1.7 亿元
+，其中部分债务（约 1.14 亿元）等额分期 7 年偿付。
+关于对公司的影响，众泰汽车表示，本次债务和解的达成有利于恢复公司信用体系，同时公司可取回之前被法院强执拆除的总装生产线及设备，该部分资产
+有助于永康基地的复工复产
+众泰汽车称协议中涉及的相关债务已经在以前年度全额计提，本次和解预计将对公司本期净利润和净资产产生积极影响。同时，相关和解款项的分期偿付，有利于缓解公司短期资金压力。",https://www.ithome.com/0/963/971.htm,IT之家,综合媒体,科技新闻,2026-06-13T19:24:50+00:00
+滨口直树：《最终幻想 7》重制三部曲结局方向已定，自己很有信心,2026-06-13,"6 月 13 日消息，据外媒 VGC 今天（13 日）报道，《最终幻想 7：启示录》总监滨口直树表示，《最终幻想 7》重制三部曲的结局从开发早期就已经确定方向，他对最终收束方式
+滨口直树在接受 VGC 采访时透露，原版《最终幻想 7》导演兼编剧北濑佳范也参与了重制三部曲结局的构思。
+滨口直树表示：“显然，我不能透露故事结局的具体内容。但从我们对结局的设想来看，团队确实很早就知道最后想达成什么效果。因此，从开发早期开始，我们就已经有了大致方向。制作人北濑佳范也是如此。他也有自己的构想，其中一部分已经融入了《最终幻想 7：启示录》的结局。坦白说，
+我们对目前呈现出来的结果很有信心，也很满意
+。我们非常期待看到粉丝会如何回应这个故事的结局。”
+IT之家获悉，在采访后半部分，滨口直树还谈到玩家反馈应在多大程度上影响开发。如果过度迎合玩家情绪，游戏体验反而
+。此外，他愿意为《最终幻想 7：启示录》中的重大设计选择负责。
+滨口直树解释说：“我这么想有自己的逻辑，而且我认为这种逻辑也
+，像是电影、电视剧。当你查看所有评论、批评和负面反馈，试图找出最普遍的批评是什么、普通用户到底在说什么，并据此调整产品时，
+这种做法是否真的会让产品变得更好，其实是值得怀疑的
+“如果你试图回应所有负面反馈，甚至连正面反馈也全部纳入考虑，有时看到的其实只是
+。把这些意见全部塞进产品里，最后可能只会得到一个没有个性的作品。作品会变成一张空白画布，失去真正鲜明的吸引力。”",https://www.ithome.com/0/963/970.htm,IT之家,综合媒体,科技新闻,2026-06-13T19:24:51+00:00
