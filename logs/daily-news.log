@@ -11857,3 +11857,523 @@
 2026-06-13 19:24:52,057 INFO Run complete. New articles: 59
 2026-06-13 19:24:52,057 INFO Skipped sources: [('batteries news', '备注包含“无法访问”'), ('Battery Council International', '备注包含“需邮箱订阅”'), ('中粉固态电池', '备注包含“公众号”'), ('起点钠电', '备注包含“公众号”'), ('能源学人', '备注包含“公众号”'), ('钙钛矿工厂', '备注包含“公众号”'), ('钙钛矿学习xx平台', '备注包含“公众号”'), ('风电世界', '链接为空'), ('ESPLAZA长时储能网', '备注包含“公众号”'), ('地热能在线', '备注包含“公众号”')]
 2026-06-13 19:24:52,058 INFO Failed sources: []
+2026-06-14 18:52:19,665 INFO Starting daily news spider
+2026-06-14 18:52:19,665 INFO Source file: sources.xlsx
+2026-06-14 18:52:19,665 INFO Date filter: today, target date=2026-06-14
+2026-06-14 18:52:19,794 INFO Processing source: electrive <https://www.electrive.com/category/battery-fuel-cell/>
+2026-06-14 18:52:19,794 INFO Using configured RSS for electrive: https://www.electrive.com/category/battery-fuel-cell/feed/
+2026-06-14 18:52:21,552 INFO Source complete: electrive, new articles=0
+2026-06-14 18:52:21,552 INFO Processing source: Batteries International <https://www.batteriesinternational.com/>
+2026-06-14 18:52:29,382 INFO RSS discovered for https://www.batteriesinternational.com/: https://www.batteriesinternational.com/feed (10 entries)
+2026-06-14 18:52:30,917 INFO Source complete: Batteries International, new articles=0
+2026-06-14 18:52:30,917 INFO Processing source: Volta Foundation <https://volta.foundation/battery-news>
+2026-06-14 18:52:36,218 WARNING TODO scraper needed for Volta Foundation: unable to identify article links from listing page. Please provide article-list CSS selectors or API details.
+2026-06-14 18:52:36,218 INFO Source complete: Volta Foundation, new articles=0
+2026-06-14 18:52:36,218 INFO Skip source: batteries news (备注包含“无法访问”)
+2026-06-14 18:52:36,218 INFO Processing source: Battery Tech Online <https://www.batterytechonline.com/>
+2026-06-14 18:52:40,078 WARNING Fetch failed: https://www.batterytechonline.com/feed (404 Client Error: Not Found for url: https://www.batterytechonline.com/feed)
+2026-06-14 18:52:43,656 WARNING Fetch failed: https://www.batterytechonline.com/atom.xml (404 Client Error: Not Found for url: https://www.batterytechonline.com/atom.xml)
+2026-06-14 18:52:45,549 WARNING Fetch failed: https://www.batterytechonline.com/feed.xml (404 Client Error: Not Found for url: https://www.batterytechonline.com/feed.xml)
+2026-06-14 18:52:47,705 INFO RSS discovered for https://www.batterytechonline.com/: https://www.batterytechonline.com/rss.xml (50 entries)
+2026-06-14 18:52:49,611 INFO Skip non-target-date RSS entry: https://www.batterytechonline.com/automotive-mobility/lexus-es-sedan-adopts-austere-interior-in-shift-to-hybrid-and-electric-powertrains (Fri, 29 May 2026 20:06:56 GMT)
+2026-06-14 18:52:49,612 INFO Skip non-target-date RSS entry: https://www.batterytechonline.com/ev-batteries/byds-second-gen-blade-battery-pack-features-integrated-controls-and-refrigerant-cooling (Thu, 28 May 2026 20:19:17 GMT)
+2026-06-14 18:52:49,612 INFO Skip non-target-date RSS entry: https://www.batterytechonline.com/automotive-mobility/ferrari-unveils-luce-ev-with-1035-hp-and-645k-price (Wed, 27 May 2026 19:21:47 GMT)
+2026-06-14 18:52:49,612 INFO Source complete: Battery Tech Online, new articles=0
+2026-06-14 18:52:49,612 INFO Processing source: Supply Chain Digital <https://supplychaindigital.com/news>
+2026-06-14 18:52:53,591 WARNING Fetch failed: https://supplychaindigital.com/feed (404 Client Error: Not Found for url: https://supplychaindigital.com/feed)
+2026-06-14 18:52:55,431 WARNING Fetch failed: https://supplychaindigital.com/rss (404 Client Error: Not Found for url: https://supplychaindigital.com/rss)
+2026-06-14 18:52:57,345 WARNING Fetch failed: https://supplychaindigital.com/atom.xml (404 Client Error: Not Found for url: https://supplychaindigital.com/atom.xml)
+2026-06-14 18:52:59,112 WARNING Fetch failed: https://supplychaindigital.com/feed.xml (404 Client Error: Not Found for url: https://supplychaindigital.com/feed.xml)
+2026-06-14 18:53:00,625 WARNING Fetch failed: https://supplychaindigital.com/rss.xml (404 Client Error: Not Found for url: https://supplychaindigital.com/rss.xml)
+2026-06-14 18:53:02,518 WARNING Fetch failed: https://supplychaindigital.com/index.xml (404 Client Error: Not Found for url: https://supplychaindigital.com/index.xml)
+2026-06-14 18:53:04,534 WARNING Fetch failed: https://supplychaindigital.com/news/feed (404 Client Error: Not Found for url: https://supplychaindigital.com/news/feed)
+2026-06-14 18:53:06,445 WARNING Fetch failed: https://supplychaindigital.com/news/rss (404 Client Error: Not Found for url: https://supplychaindigital.com/news/rss)
+2026-06-14 18:53:08,376 WARNING Fetch failed: https://supplychaindigital.com/news/atom.xml (404 Client Error: Not Found for url: https://supplychaindigital.com/news/atom.xml)
+2026-06-14 18:53:10,298 WARNING Fetch failed: https://supplychaindigital.com/news/feed.xml (404 Client Error: Not Found for url: https://supplychaindigital.com/news/feed.xml)
+2026-06-14 18:53:12,168 WARNING Fetch failed: https://supplychaindigital.com/news/rss.xml (404 Client Error: Not Found for url: https://supplychaindigital.com/news/rss.xml)
+2026-06-14 18:53:14,037 WARNING Fetch failed: https://supplychaindigital.com/news/index.xml (404 Client Error: Not Found for url: https://supplychaindigital.com/news/index.xml)
+2026-06-14 18:53:14,037 INFO No RSS discovered for https://supplychaindigital.com/news
+2026-06-14 18:53:59,209 INFO Source complete: Supply Chain Digital, new articles=1
+2026-06-14 18:53:59,209 INFO Skip source: Battery Council International (备注包含“需邮箱订阅”)
+2026-06-14 18:53:59,209 INFO Processing source: Electrek <https://electrek.co/>
+2026-06-14 18:53:59,209 INFO Using configured RSS for Electrek: https://electrek.co/feed/
+2026-06-14 18:54:00,814 INFO Skip non-target-date RSS entry: https://electrek.co/2026/06/14/survey-sunday-do-you-still-believe-in-elon-musk/ (Sun, 14 Jun 2026 18:30:00 +0000)
+2026-06-14 18:54:02,431 INFO Skip non-target-date article: https://electrek.co/2026/06/13/why-pushback-is-growing-against-new-jerseys-crazy-e-bike-law/ (2026-06-13)
+2026-06-14 18:54:04,090 INFO Skip non-target-date article: https://electrek.co/2026/06/13/buried-in-negative-equity-these-ev-deals-can-help-get-you-out-of-that-gas-guzzler/ (2026-06-13)
+2026-06-14 18:54:04,090 INFO Skip non-target-date RSS entry: https://electrek.co/2026/06/12/shell-could-walk-away-from-offshore-wind-in-1-billion-sell-off/ (Fri, 12 Jun 2026 22:03:49 +0000)
+2026-06-14 18:54:04,090 INFO Skip non-target-date RSS entry: https://electrek.co/2026/06/12/chevy-equinox-ev-more-expensive-lease-bolt-cheaper/ (Fri, 12 Jun 2026 22:02:57 +0000)
+2026-06-14 18:54:04,090 INFO Skip non-target-date RSS entry: https://electrek.co/2026/06/12/toyota-opens-orders-first-body-on-frame-ev-under-60000/ (Fri, 12 Jun 2026 21:00:00 +0000)
+2026-06-14 18:54:04,091 INFO Skip non-target-date RSS entry: https://electrek.co/2026/06/12/podcast-rivian-r2-first-drive-byd-goes-nuts-on-flash-charging-donut-labs-miracle-battery-is-dead-and-more/ (Fri, 12 Jun 2026 19:52:09 +0000)
+2026-06-14 18:54:04,091 INFO Skip non-target-date RSS entry: https://electrek.co/2026/06/12/bmw-new-ix3-drove-500-miles/ (Fri, 12 Jun 2026 18:20:32 +0000)
+2026-06-14 18:54:04,091 INFO Skip non-target-date RSS entry: https://electrek.co/2026/06/12/anker-solix-6144wh-f3000-power-station-heybike-ranger-3-0-pro-e-bike-villain-dirt-bike-lows-more/ (Fri, 12 Jun 2026 18:00:00 +0000)
+2026-06-14 18:54:04,091 INFO Skip non-target-date RSS entry: https://electrek.co/2026/06/12/byd-launch-luxury-ev-sedan-with-1000-km-range/ (Fri, 12 Jun 2026 16:43:45 +0000)
+2026-06-14 18:54:04,091 INFO Skip non-target-date RSS entry: https://electrek.co/2026/06/11/solid-state-batteries-now-powering-evs-in-real-world/ (Fri, 12 Jun 2026 00:38:04 +0000)
+2026-06-14 18:54:04,091 INFO Skip non-target-date RSS entry: https://electrek.co/2026/06/11/gummys-go-green-as-haribo-turns-to-electric-semi-trucks/ (Thu, 11 Jun 2026 21:04:01 +0000)
+2026-06-14 18:54:04,091 INFO Skip non-target-date RSS entry: https://electrek.co/2026/06/11/georgia-is-about-to-have-the-biggest-solar-cell-factory-in-us-history/ (Thu, 11 Jun 2026 20:54:01 +0000)
+2026-06-14 18:54:04,092 INFO Source complete: Electrek, new articles=0
+2026-06-14 18:54:04,092 INFO Skip source: 中粉固态电池 (备注包含“公众号”)
+2026-06-14 18:54:04,092 INFO Skip source: 起点钠电 (备注包含“公众号”)
+2026-06-14 18:54:04,092 INFO Skip source: 能源学人 (备注包含“公众号”)
+2026-06-14 18:54:04,092 INFO Skip source: 钙钛矿工厂 (备注包含“公众号”)
+2026-06-14 18:54:04,092 INFO Skip source: 钙钛矿学习xx平台 (备注包含“公众号”)
+2026-06-14 18:54:04,092 INFO Processing source: pv magazine <https://www.pv-magazine.com/>
+2026-06-14 18:54:08,043 INFO RSS discovered for https://www.pv-magazine.com/: https://www.pv-magazine.com/feed/ (10 entries)
+2026-06-14 18:54:09,683 INFO Source complete: pv magazine, new articles=0
+2026-06-14 18:54:09,683 INFO Processing source: interesting engineering <https://interestingengineering.com/news>
+2026-06-14 18:54:09,683 INFO Using configured RSS for interesting engineering: https://interestingengineering.com/feed
+2026-06-14 18:54:12,416 INFO Skip non-target-date RSS entry: https://interestingengineering.com/science/ucla-3d-projection-multi-layer-imaging (Sun, 14 Jun 2026 18:47:34 +0000)
+2026-06-14 18:54:12,417 INFO Skip non-target-date RSS entry: https://interestingengineering.com/science/ghost-particles-reveal-bomb-making-material (Sun, 14 Jun 2026 16:48:51 +0000)
+2026-06-14 18:54:31,466 INFO Source complete: interesting engineering, new articles=7
+2026-06-14 18:54:31,467 INFO Processing source: scitechdaily <https://scitechdaily.com/>
+2026-06-14 18:54:31,467 INFO Using configured RSS for scitechdaily: https://scitechdaily.com/feed/
+2026-06-14 18:54:34,361 INFO Skip non-target-date RSS entry: https://scitechdaily.com/scientists-mapped-every-neuron-in-a-fruit-fly-and-the-brain-wasnt-running-the-show/ (Sun, 14 Jun 2026 16:45:24 +0000)
+2026-06-14 18:54:34,361 INFO Skip non-target-date RSS entry: https://scitechdaily.com/stanford-scientists-discover-explosive-new-type-of-immune-cell/ (Sun, 14 Jun 2026 16:10:22 +0000)
+2026-06-14 18:54:51,726 INFO Skip non-target-date RSS entry: https://scitechdaily.com/millions-take-this-joint-supplement-but-scientists-found-a-concerning-alzheimers-link/ (Sat, 13 Jun 2026 14:21:38 +0000)
+2026-06-14 18:54:51,727 INFO Source complete: scitechdaily, new articles=10
+2026-06-14 18:54:51,727 INFO Processing source: perovskite-info <https://www.perovskite-info.com/perovskite-solar>
+2026-06-14 18:54:51,727 INFO Using configured RSS for perovskite-info: https://news.google.com/rss/search?q=site:perovskite-info.com&hl=en&gl=US&ceid=US:en
+2026-06-14 18:54:51,749 WARNING Blocked by robots.txt: https://news.google.com/rss/search?q=site:perovskite-info.com&hl=en&gl=US&ceid=US:en
+2026-06-14 18:54:51,750 INFO Source complete: perovskite-info, new articles=0
+2026-06-14 18:54:51,750 INFO Processing source: 索比光伏 <https://news.solarbe.com/technology>
+2026-06-14 18:54:56,234 WARNING Fetch failed: https://news.solarbe.com/feed (404 Client Error: Not Found for url: https://news.solarbe.com/feed)
+2026-06-14 18:54:57,961 WARNING Fetch failed: https://news.solarbe.com/rss (404 Client Error: Not Found for url: https://news.solarbe.com/rss)
+2026-06-14 18:54:59,689 WARNING Fetch failed: https://news.solarbe.com/atom.xml (404 Client Error: Not Found for url: https://news.solarbe.com/atom.xml)
+2026-06-14 18:55:01,419 WARNING Fetch failed: https://news.solarbe.com/feed.xml (404 Client Error: Not Found for url: https://news.solarbe.com/feed.xml)
+2026-06-14 18:55:03,145 WARNING Fetch failed: https://news.solarbe.com/rss.xml (404 Client Error: Not Found for url: https://news.solarbe.com/rss.xml)
+2026-06-14 18:55:04,886 WARNING Fetch failed: https://news.solarbe.com/index.xml (404 Client Error: Not Found for url: https://news.solarbe.com/index.xml)
+2026-06-14 18:55:06,613 WARNING Fetch failed: https://news.solarbe.com/technology/feed (404 Client Error: Not Found for url: https://news.solarbe.com/technology/feed)
+2026-06-14 18:55:08,342 WARNING Fetch failed: https://news.solarbe.com/technology/rss (404 Client Error: Not Found for url: https://news.solarbe.com/technology/rss)
+2026-06-14 18:55:10,069 WARNING Fetch failed: https://news.solarbe.com/technology/atom.xml (404 Client Error: Not Found for url: https://news.solarbe.com/technology/atom.xml)
+2026-06-14 18:55:11,798 WARNING Fetch failed: https://news.solarbe.com/technology/feed.xml (404 Client Error: Not Found for url: https://news.solarbe.com/technology/feed.xml)
+2026-06-14 18:55:13,524 WARNING Fetch failed: https://news.solarbe.com/technology/rss.xml (404 Client Error: Not Found for url: https://news.solarbe.com/technology/rss.xml)
+2026-06-14 18:55:15,251 WARNING Fetch failed: https://news.solarbe.com/technology/index.xml (404 Client Error: Not Found for url: https://news.solarbe.com/technology/index.xml)
+2026-06-14 18:55:15,251 INFO No RSS discovered for https://news.solarbe.com/technology
+2026-06-14 18:55:45,886 INFO Skip non-target-date article: https://news.solarbe.com/202605/27/50023533.html (2026-05-27)
+2026-06-14 18:55:45,887 INFO Source complete: 索比光伏, new articles=0
+2026-06-14 18:55:45,887 INFO Skip source: 风电世界 (链接为空)
+2026-06-14 18:55:45,887 INFO Processing source: 4C Offshore <https://www.tgs4c.com/news/>
+2026-06-14 18:55:50,720 WARNING Fetch failed: https://www.tgs4c.com/feed (404 Client Error: Not Found for url: https://www.tgs4c.com/feed)
+2026-06-14 18:55:52,399 WARNING Fetch failed: https://www.tgs4c.com/rss (403 Client Error: Forbidden for url: https://www.tgs4c.com/rss/)
+2026-06-14 18:55:53,996 WARNING Fetch failed: https://www.tgs4c.com/atom.xml (404 Client Error: Not Found for url: https://www.tgs4c.com/atom.xml)
+2026-06-14 18:55:55,591 WARNING Fetch failed: https://www.tgs4c.com/feed.xml (404 Client Error: Not Found for url: https://www.tgs4c.com/feed.xml)
+2026-06-14 18:55:57,185 WARNING Fetch failed: https://www.tgs4c.com/rss.xml (404 Client Error: Not Found for url: https://www.tgs4c.com/rss.xml)
+2026-06-14 18:55:58,780 WARNING Fetch failed: https://www.tgs4c.com/index.xml (404 Client Error: Not Found for url: https://www.tgs4c.com/index.xml)
+2026-06-14 18:56:00,376 WARNING Fetch failed: https://www.tgs4c.com/news/feed (404 Client Error: Not Found for url: https://www.tgs4c.com/news/feed)
+2026-06-14 18:56:01,972 WARNING Fetch failed: https://www.tgs4c.com/news/rss (404 Client Error: Not Found for url: https://www.tgs4c.com/news/rss)
+2026-06-14 18:56:03,571 WARNING Fetch failed: https://www.tgs4c.com/news/atom.xml (404 Client Error: Not Found for url: https://www.tgs4c.com/news/atom.xml)
+2026-06-14 18:56:05,171 WARNING Fetch failed: https://www.tgs4c.com/news/feed.xml (404 Client Error: Not Found for url: https://www.tgs4c.com/news/feed.xml)
+2026-06-14 18:56:06,767 WARNING Fetch failed: https://www.tgs4c.com/news/rss.xml (404 Client Error: Not Found for url: https://www.tgs4c.com/news/rss.xml)
+2026-06-14 18:56:08,371 WARNING Fetch failed: https://www.tgs4c.com/news/index.xml (404 Client Error: Not Found for url: https://www.tgs4c.com/news/index.xml)
+2026-06-14 18:56:08,371 INFO No RSS discovered for https://www.tgs4c.com/news/
+2026-06-14 18:56:58,979 INFO Skip non-target-date article: https://www.tgs4c.com/news/france-launches-10gw-offshore-wind-tender-round-for-new-projects0d0a-nid32947.html ()
+2026-06-14 18:56:58,979 INFO Skip non-target-date article: https://www.tgs4c.com/news/rwe-completes-installation-of-100-turbines-at-sofia-wind-farm-nid32946.html ()
+2026-06-14 18:56:58,979 INFO Skip non-target-date article: https://www.tgs4c.com/news/offshore-wind-farms-in-rudong-undergo-maintenance-to-support-peak-demand-nid32945.html ()
+2026-06-14 18:56:58,979 INFO Skip non-target-date article: https://www.tgs4c.com/news/first-turbine-installed-at-rwe92s-nordseecluster-a-offshore-wind-farm-nid32944.html ()
+2026-06-14 18:56:58,979 INFO Skip non-target-date article: https://www.tgs4c.com/news/mukran-port-invests-8025-million-to-upgrade-offshore-wind-terminal-nid32943.html ()
+2026-06-14 18:56:58,979 INFO Skip non-target-date article: https://www.tgs4c.com/news/ørsted-deploys-blue-bond-to-support-offshore-wind-and-ocean-health0d0a-nid32942.html ()
+2026-06-14 18:56:58,979 INFO Skip non-target-date article: https://www.tgs4c.com/news/oes-group-secures-iccp-contract-for-nordlicht-2-foundations-nid32941.html ()
+2026-06-14 18:56:58,979 INFO Skip non-target-date article: https://www.tgs4c.com/news/taihan-partners-with-jan-de-nul-and-boskalis-on-hvdc-cables0d0a-nid32940.html ()
+2026-06-14 18:56:58,979 INFO Skip non-target-date article: https://www.tgs4c.com/news/windanker-turbines-prepared-for-shipment-from-mukran-port-nid32939.html ()
+2026-06-14 18:56:58,979 INFO Skip non-target-date article: https://www.tgs4c.com/news/gwec-calls-for-faster-offshore-wind-rollout-to-boost-energy-security-nid32938.html ()
+2026-06-14 18:56:58,979 INFO Skip non-target-date article: https://www.tgs4c.com/news/norwegian-parliament-backs-review-of-floating-offshore-wind-investment-programme-nid32937.html ()
+2026-06-14 18:56:58,979 INFO Skip non-target-date article: https://www.tgs4c.com/news/ecowende-delivers-ijmuiden-base-to-support-offshore-wind-operations0d0a-nid32936.html ()
+2026-06-14 18:56:58,979 INFO Skip non-target-date article: https://www.tgs4c.com/news/liebherr-cranes-to-support-tennet-offshore-wind-grid-projects-nid32935.html ()
+2026-06-14 18:56:58,979 INFO Skip non-target-date article: https://www.tgs4c.com/news/baltic-power-signs-initial-operations-contracts-for-offshore-wind-farm-nid32934.html ()
+2026-06-14 18:56:58,980 INFO Skip non-target-date article: https://www.tgs4c.com/news/aurora-report-links-scottish-onshore-wind-to-lower-offshore-costs-nid32933.html ()
+2026-06-14 18:56:58,980 INFO Skip non-target-date article: https://www.tgs4c.com/news/crown-estate-to-relaunch-1.5gw-morgan-offshore-wind-site-tender-nid32932.html ()
+2026-06-14 18:56:58,980 INFO Skip non-target-date article: https://www.tgs4c.com/news/dutch-study-launches-for-309650mw-offshore-green-hydrogen-concept-nid32931.html ()
+2026-06-14 18:56:58,980 INFO Skip non-target-date article: https://www.tgs4c.com/news/tgs-secures-offshore-wind-site-characterisation-contract-in-europe-nid32930.html ()
+2026-06-14 18:56:58,980 INFO Skip non-target-date article: https://www.tgs4c.com/news/asian-development-bank-joins-the-global-offshore-wind-alliance-to-support-growth-nid32928.html ()
+2026-06-14 18:56:58,980 INFO Skip non-target-date article: https://www.tgs4c.com/news/pressure-grows-ahead-of-utsira-nord-parliament-vote-nid32927.html ()
+2026-06-14 18:56:58,980 INFO Source complete: 4C Offshore, new articles=0
+2026-06-14 18:56:58,980 INFO Processing source: 全球风电网 <http://wp.china-nengyuan.com/tech/>
+2026-06-14 18:57:03,602 WARNING Fetch failed: http://wp.china-nengyuan.com/feed (404 Client Error: Not Found for url: http://wp.china-nengyuan.com/feed)
+2026-06-14 18:57:05,303 WARNING Fetch failed: http://wp.china-nengyuan.com/rss (404 Client Error: Not Found for url: http://wp.china-nengyuan.com/rss)
+2026-06-14 18:57:07,004 WARNING Fetch failed: http://wp.china-nengyuan.com/atom.xml (404 Client Error: Not Found for url: http://wp.china-nengyuan.com/atom.xml)
+2026-06-14 18:57:08,705 WARNING Fetch failed: http://wp.china-nengyuan.com/feed.xml (404 Client Error: Not Found for url: http://wp.china-nengyuan.com/feed.xml)
+2026-06-14 18:57:10,408 WARNING Fetch failed: http://wp.china-nengyuan.com/rss.xml (404 Client Error: Not Found for url: http://wp.china-nengyuan.com/rss.xml)
+2026-06-14 18:57:12,111 WARNING Fetch failed: http://wp.china-nengyuan.com/index.xml (404 Client Error: Not Found for url: http://wp.china-nengyuan.com/index.xml)
+2026-06-14 18:57:13,812 WARNING Fetch failed: http://wp.china-nengyuan.com/tech/feed (404 Client Error: Not Found for url: http://wp.china-nengyuan.com/tech/feed)
+2026-06-14 18:57:15,513 WARNING Fetch failed: http://wp.china-nengyuan.com/tech/rss (404 Client Error: Not Found for url: http://wp.china-nengyuan.com/tech/rss)
+2026-06-14 18:57:17,214 WARNING Fetch failed: http://wp.china-nengyuan.com/tech/atom.xml (404 Client Error: Not Found for url: http://wp.china-nengyuan.com/tech/atom.xml)
+2026-06-14 18:57:18,918 WARNING Fetch failed: http://wp.china-nengyuan.com/tech/feed.xml (404 Client Error: Not Found for url: http://wp.china-nengyuan.com/tech/feed.xml)
+2026-06-14 18:57:20,618 WARNING Fetch failed: http://wp.china-nengyuan.com/tech/rss.xml (404 Client Error: Not Found for url: http://wp.china-nengyuan.com/tech/rss.xml)
+2026-06-14 18:57:22,320 WARNING Fetch failed: http://wp.china-nengyuan.com/tech/index.xml (404 Client Error: Not Found for url: http://wp.china-nengyuan.com/tech/index.xml)
+2026-06-14 18:57:22,320 INFO No RSS discovered for http://wp.china-nengyuan.com/tech/
+2026-06-14 18:57:24,025 WARNING TODO scraper needed for 全球风电网: unable to identify article links from listing page. Please provide article-list CSS selectors or API details.
+2026-06-14 18:57:24,025 INFO Source complete: 全球风电网, new articles=0
+2026-06-14 18:57:24,026 INFO Processing source: 新能源网 <http://www.china-nengyuan.com/tech/tech_list_10.html>
+2026-06-14 18:57:27,416 WARNING Fetch failed: http://www.china-nengyuan.com/tech/tech_list_10.html (404 Client Error: Not Found for url: http://www.china-nengyuan.com/tech/tech_list_10.html)
+2026-06-14 18:57:29,120 WARNING Fetch failed: http://www.china-nengyuan.com/feed (404 Client Error: Not Found for url: http://www.china-nengyuan.com/feed)
+2026-06-14 18:57:30,824 WARNING Fetch failed: http://www.china-nengyuan.com/rss (404 Client Error: Not Found for url: http://www.china-nengyuan.com/rss)
+2026-06-14 18:57:32,528 WARNING Fetch failed: http://www.china-nengyuan.com/atom.xml (404 Client Error: Not Found for url: http://www.china-nengyuan.com/atom.xml)
+2026-06-14 18:57:34,232 WARNING Fetch failed: http://www.china-nengyuan.com/feed.xml (404 Client Error: Not Found for url: http://www.china-nengyuan.com/feed.xml)
+2026-06-14 18:57:35,936 WARNING Fetch failed: http://www.china-nengyuan.com/rss.xml (404 Client Error: Not Found for url: http://www.china-nengyuan.com/rss.xml)
+2026-06-14 18:57:37,660 WARNING Fetch failed: http://www.china-nengyuan.com/index.xml (404 Client Error: Not Found for url: http://www.china-nengyuan.com/index.xml)
+2026-06-14 18:57:37,660 INFO No RSS discovered for http://www.china-nengyuan.com/tech/tech_list_10.html
+2026-06-14 18:57:39,364 WARNING Fetch failed: http://www.china-nengyuan.com/tech/tech_list_10.html (404 Client Error: Not Found for url: http://www.china-nengyuan.com/tech/tech_list_10.html)
+2026-06-14 18:57:39,365 WARNING TODO scraper needed for 新能源网: unable to identify article links from listing page. Please provide article-list CSS selectors or API details.
+2026-06-14 18:57:39,365 INFO Source complete: 新能源网, new articles=0
+2026-06-14 18:57:39,365 INFO Processing source: the information <https://www.theinformation.com/>
+2026-06-14 18:57:42,976 INFO RSS discovered for https://www.theinformation.com/: https://www.theinformation.com/feed (20 entries)
+2026-06-14 18:57:50,140 INFO Skip non-target-date RSS entry: https://www.theinformation.com/articles/ais-blithe-spending-crusoes-stargate-woes (2026-06-13T15:09:15Z)
+2026-06-14 18:57:50,140 INFO Skip non-target-date RSS entry: https://www.theinformation.com/articles/microsofts-gaming-glitch (2026-06-12T00:00:56Z)
+2026-06-14 18:57:50,140 INFO Skip non-target-date RSS entry: https://www.theinformation.com/articles/sierra-space-axiom-plot-ipos-spacex-feeds-frenzy (2026-06-11T23:15:34Z)
+2026-06-14 18:57:50,140 INFO Source complete: the information, new articles=3
+2026-06-14 18:57:50,140 INFO Processing source: MIT Technology Review <https://www.technologyreview.com/>
+2026-06-14 18:57:53,328 INFO RSS discovered for https://www.technologyreview.com/: https://www.technologyreview.com/feed (10 entries)
+2026-06-14 18:57:54,875 INFO Source complete: MIT Technology Review, new articles=0
+2026-06-14 18:57:54,875 INFO Skip source: ESPLAZA长时储能网 (备注包含“公众号”)
+2026-06-14 18:57:54,875 INFO Skip source: 地热能在线 (备注包含“公众号”)
+2026-06-14 18:57:54,875 INFO Processing source: Informationsdienst Wissenschaft-idw <https://nachrichten.idw-online.de/groups/technologie>
+2026-06-14 18:57:58,931 WARNING Fetch failed: https://nachrichten.idw-online.de/feed (404 Client Error: Not Found for url: https://nachrichten.idw-online.de/feed)
+2026-06-14 18:58:00,570 WARNING Fetch failed: https://nachrichten.idw-online.de/rss (404 Client Error: Not Found for url: https://nachrichten.idw-online.de/rss)
+2026-06-14 18:58:02,201 WARNING Fetch failed: https://nachrichten.idw-online.de/atom.xml (404 Client Error: Not Found for url: https://nachrichten.idw-online.de/atom.xml)
+2026-06-14 18:58:03,843 WARNING Fetch failed: https://nachrichten.idw-online.de/feed.xml (404 Client Error: Not Found for url: https://nachrichten.idw-online.de/feed.xml)
+2026-06-14 18:58:05,469 WARNING Fetch failed: https://nachrichten.idw-online.de/rss.xml (404 Client Error: Not Found for url: https://nachrichten.idw-online.de/rss.xml)
+2026-06-14 18:58:07,100 WARNING Fetch failed: https://nachrichten.idw-online.de/index.xml (404 Client Error: Not Found for url: https://nachrichten.idw-online.de/index.xml)
+2026-06-14 18:58:08,721 WARNING Fetch failed: https://nachrichten.idw-online.de/groups/technologie/feed (404 Client Error: Not Found for url: https://nachrichten.idw-online.de/groups/technologie/feed)
+2026-06-14 18:58:10,354 WARNING Fetch failed: https://nachrichten.idw-online.de/groups/technologie/rss (404 Client Error: Not Found for url: https://nachrichten.idw-online.de/groups/technologie/rss)
+2026-06-14 18:58:11,987 WARNING Fetch failed: https://nachrichten.idw-online.de/groups/technologie/atom.xml (404 Client Error: Not Found for url: https://nachrichten.idw-online.de/groups/technologie/atom.xml)
+2026-06-14 18:58:13,622 WARNING Fetch failed: https://nachrichten.idw-online.de/groups/technologie/feed.xml (404 Client Error: Not Found for url: https://nachrichten.idw-online.de/groups/technologie/feed.xml)
+2026-06-14 18:58:15,253 WARNING Fetch failed: https://nachrichten.idw-online.de/groups/technologie/rss.xml (404 Client Error: Not Found for url: https://nachrichten.idw-online.de/groups/technologie/rss.xml)
+2026-06-14 18:58:16,890 WARNING Fetch failed: https://nachrichten.idw-online.de/groups/technologie/index.xml (404 Client Error: Not Found for url: https://nachrichten.idw-online.de/groups/technologie/index.xml)
+2026-06-14 18:58:16,890 INFO No RSS discovered for https://nachrichten.idw-online.de/groups/technologie
+2026-06-14 18:58:43,925 WARNING Retrying (Retry(total=2, connect=3, read=2, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='nachrichten.idw-online.de', port=443): Read timed out. (read timeout=20)")': /2026/06/12/kit-medieneinladung-flexibles-automatisiertes-modulares-fahrzeugkonzept-abschlussveranstaltung-u-shift-ii?groupcolor=1
+2026-06-14 18:59:06,206 WARNING Retrying (Retry(total=1, connect=2, read=2, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6200e63350>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/12/kit-medieneinladung-flexibles-automatisiertes-modulares-fahrzeugkonzept-abschlussveranstaltung-u-shift-ii?groupcolor=1
+2026-06-14 18:59:30,607 WARNING Retrying (Retry(total=0, connect=1, read=2, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6200e61390>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/12/kit-medieneinladung-flexibles-automatisiertes-modulares-fahrzeugkonzept-abschlussveranstaltung-u-shift-ii?groupcolor=1
+2026-06-14 18:59:50,801 WARNING Fetch failed: https://nachrichten.idw-online.de/2026/06/12/kit-medieneinladung-flexibles-automatisiertes-modulares-fahrzeugkonzept-abschlussveranstaltung-u-shift-ii?groupcolor=1 (HTTPSConnectionPool(host='nachrichten.idw-online.de', port=443): Max retries exceeded with url: /2026/06/12/kit-medieneinladung-flexibles-automatisiertes-modulares-fahrzeugkonzept-abschlussveranstaltung-u-shift-ii?groupcolor=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6200e61b90>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')))
+2026-06-14 19:00:12,421 WARNING Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6200e62a90>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/oberflaechenvorbehandlung-barrierebeschichtung-automatisierte-bearbeitung-und-montage-kryogener-cfk-wasserstofftanks?groupcolor=1
+2026-06-14 19:00:34,731 WARNING Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6201318110>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/oberflaechenvorbehandlung-barrierebeschichtung-automatisierte-bearbeitung-und-montage-kryogener-cfk-wasserstofftanks?groupcolor=1
+2026-06-14 19:00:58,941 WARNING Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f620131b890>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/oberflaechenvorbehandlung-barrierebeschichtung-automatisierte-bearbeitung-und-montage-kryogener-cfk-wasserstofftanks?groupcolor=1
+2026-06-14 19:01:19,157 WARNING Fetch failed: https://nachrichten.idw-online.de/2026/06/11/oberflaechenvorbehandlung-barrierebeschichtung-automatisierte-bearbeitung-und-montage-kryogener-cfk-wasserstofftanks?groupcolor=1 (HTTPSConnectionPool(host='nachrichten.idw-online.de', port=443): Max retries exceeded with url: /2026/06/11/oberflaechenvorbehandlung-barrierebeschichtung-automatisierte-bearbeitung-und-montage-kryogener-cfk-wasserstofftanks?groupcolor=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6201318550>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')))
+2026-06-14 19:01:40,878 WARNING Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6201318310>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/den-fehlenden-wasserstoffatomen-auf-der-spur?groupcolor=1
+2026-06-14 19:02:02,903 WARNING Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6201318690>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/den-fehlenden-wasserstoffatomen-auf-der-spur?groupcolor=1
+2026-06-14 19:02:27,049 WARNING Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f620131b150>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/den-fehlenden-wasserstoffatomen-auf-der-spur?groupcolor=1
+2026-06-14 19:02:47,528 WARNING Fetch failed: https://nachrichten.idw-online.de/2026/06/11/den-fehlenden-wasserstoffatomen-auf-der-spur?groupcolor=1 (HTTPSConnectionPool(host='nachrichten.idw-online.de', port=443): Max retries exceeded with url: /2026/06/11/den-fehlenden-wasserstoffatomen-auf-der-spur?groupcolor=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f62016ad5d0>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')))
+2026-06-14 19:03:09,052 WARNING Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f62016aec90>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/forschungsprojekt-zu-neuartigen-hochleistungs-kupferlegierungen-aus-dem-3d-drucker-gestartet?groupcolor=1
+2026-06-14 19:03:31,263 WARNING Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6201318e90>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/forschungsprojekt-zu-neuartigen-hochleistungs-kupferlegierungen-aus-dem-3d-drucker-gestartet?groupcolor=1
+2026-06-14 19:03:55,467 WARNING Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f620131a150>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/forschungsprojekt-zu-neuartigen-hochleistungs-kupferlegierungen-aus-dem-3d-drucker-gestartet?groupcolor=1
+2026-06-14 19:04:15,686 WARNING Fetch failed: https://nachrichten.idw-online.de/2026/06/11/forschungsprojekt-zu-neuartigen-hochleistungs-kupferlegierungen-aus-dem-3d-drucker-gestartet?groupcolor=1 (HTTPSConnectionPool(host='nachrichten.idw-online.de', port=443): Max retries exceeded with url: /2026/06/11/forschungsprojekt-zu-neuartigen-hochleistungs-kupferlegierungen-aus-dem-3d-drucker-gestartet?groupcolor=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f620131bb50>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')))
+2026-06-14 19:04:37,211 WARNING Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f62013189d0>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/wie-menschen-mit-ki-im-oeffentlichen-raum-interagieren?groupcolor=1
+2026-06-14 19:04:59,432 WARNING Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f620131b350>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/wie-menschen-mit-ki-im-oeffentlichen-raum-interagieren?groupcolor=1
+2026-06-14 19:05:23,461 WARNING Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f620131b5d0>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/wie-menschen-mit-ki-im-oeffentlichen-raum-interagieren?groupcolor=1
+2026-06-14 19:05:43,486 WARNING Fetch failed: https://nachrichten.idw-online.de/2026/06/11/wie-menschen-mit-ki-im-oeffentlichen-raum-interagieren?groupcolor=1 (HTTPSConnectionPool(host='nachrichten.idw-online.de', port=443): Max retries exceeded with url: /2026/06/11/wie-menschen-mit-ki-im-oeffentlichen-raum-interagieren?groupcolor=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f620131bf50>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')))
+2026-06-14 19:06:05,305 WARNING Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6200e637d0>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/unabsichtlich-ki-generierte-kinder-und-jugendpornografie?groupcolor=1
+2026-06-14 19:06:27,417 WARNING Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6200e603d0>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/unabsichtlich-ki-generierte-kinder-und-jugendpornografie?groupcolor=1
+2026-06-14 19:06:51,549 WARNING Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6200e627d0>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/unabsichtlich-ki-generierte-kinder-und-jugendpornografie?groupcolor=1
+2026-06-14 19:07:11,866 WARNING Fetch failed: https://nachrichten.idw-online.de/2026/06/11/unabsichtlich-ki-generierte-kinder-und-jugendpornografie?groupcolor=1 (HTTPSConnectionPool(host='nachrichten.idw-online.de', port=443): Max retries exceeded with url: /2026/06/11/unabsichtlich-ki-generierte-kinder-und-jugendpornografie?groupcolor=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6200e62350>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')))
+2026-06-14 19:07:33,489 WARNING Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f62016ac1d0>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/sieben-start-ups-der-h-da-erhalten-exist-gruendungsstipendium?groupcolor=1
+2026-06-14 19:07:55,709 WARNING Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f62016ad250>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/sieben-start-ups-der-h-da-erhalten-exist-gruendungsstipendium?groupcolor=1
+2026-06-14 19:08:19,930 WARNING Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f62012168d0>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/sieben-start-ups-der-h-da-erhalten-exist-gruendungsstipendium?groupcolor=1
+2026-06-14 19:08:40,048 WARNING Fetch failed: https://nachrichten.idw-online.de/2026/06/11/sieben-start-ups-der-h-da-erhalten-exist-gruendungsstipendium?groupcolor=1 (HTTPSConnectionPool(host='nachrichten.idw-online.de', port=443): Max retries exceeded with url: /2026/06/11/sieben-start-ups-der-h-da-erhalten-exist-gruendungsstipendium?groupcolor=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6201215dd0>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')))
+2026-06-14 19:09:01,668 WARNING Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6200e61f90>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/neues-3d-druck-labor-an-der-htwk-leipzig-eingeweiht?groupcolor=1
+2026-06-14 19:09:23,888 WARNING Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6200e60350>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/neues-3d-druck-labor-an-der-htwk-leipzig-eingeweiht?groupcolor=1
+2026-06-14 19:09:48,011 WARNING Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6200e627d0>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/neues-3d-druck-labor-an-der-htwk-leipzig-eingeweiht?groupcolor=1
+2026-06-14 19:10:08,132 WARNING Fetch failed: https://nachrichten.idw-online.de/2026/06/11/neues-3d-druck-labor-an-der-htwk-leipzig-eingeweiht?groupcolor=1 (HTTPSConnectionPool(host='nachrichten.idw-online.de', port=443): Max retries exceeded with url: /2026/06/11/neues-3d-druck-labor-an-der-htwk-leipzig-eingeweiht?groupcolor=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6200e62790>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')))
+2026-06-14 19:10:29,955 WARNING Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6200e63690>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/westfaelische-hochschule-eroeffnet-westfaelisches-hochschulzentrum-fuer-angewandte-kuenstliche-intelligenz?groupcolor=1
+2026-06-14 19:10:52,246 WARNING Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6200e632d0>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/westfaelische-hochschule-eroeffnet-westfaelisches-hochschulzentrum-fuer-angewandte-kuenstliche-intelligenz?groupcolor=1
+2026-06-14 19:11:16,467 WARNING Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6203189110>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/westfaelische-hochschule-eroeffnet-westfaelisches-hochschulzentrum-fuer-angewandte-kuenstliche-intelligenz?groupcolor=1
+2026-06-14 19:11:36,579 WARNING Fetch failed: https://nachrichten.idw-online.de/2026/06/11/westfaelische-hochschule-eroeffnet-westfaelisches-hochschulzentrum-fuer-angewandte-kuenstliche-intelligenz?groupcolor=1 (HTTPSConnectionPool(host='nachrichten.idw-online.de', port=443): Max retries exceeded with url: /2026/06/11/westfaelische-hochschule-eroeffnet-westfaelisches-hochschulzentrum-fuer-angewandte-kuenstliche-intelligenz?groupcolor=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6201318290>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')))
+2026-06-14 19:11:58,107 WARNING Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f620131a050>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/quantenrisiko-fuer-behoerdennetze?groupcolor=1
+2026-06-14 19:12:20,231 WARNING Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f620131bb50>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/quantenrisiko-fuer-behoerdennetze?groupcolor=1
+2026-06-14 19:12:44,618 WARNING Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f620131b810>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/quantenrisiko-fuer-behoerdennetze?groupcolor=1
+2026-06-14 19:13:04,641 WARNING Fetch failed: https://nachrichten.idw-online.de/2026/06/11/quantenrisiko-fuer-behoerdennetze?groupcolor=1 (HTTPSConnectionPool(host='nachrichten.idw-online.de', port=443): Max retries exceeded with url: /2026/06/11/quantenrisiko-fuer-behoerdennetze?groupcolor=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f62016ae450>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')))
+2026-06-14 19:13:26,265 WARNING Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6201215fd0>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/optik-eoss-r-neues-industrielles-produktionssystem-fuer-praezisionsoptische-schichten?groupcolor=1
+2026-06-14 19:13:48,482 WARNING Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6201215d50>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/optik-eoss-r-neues-industrielles-produktionssystem-fuer-praezisionsoptische-schichten?groupcolor=1
+2026-06-14 19:14:12,502 WARNING Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f62012177d0>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/optik-eoss-r-neues-industrielles-produktionssystem-fuer-praezisionsoptische-schichten?groupcolor=1
+2026-06-14 19:14:32,513 WARNING Fetch failed: https://nachrichten.idw-online.de/2026/06/11/optik-eoss-r-neues-industrielles-produktionssystem-fuer-praezisionsoptische-schichten?groupcolor=1 (HTTPSConnectionPool(host='nachrichten.idw-online.de', port=443): Max retries exceeded with url: /2026/06/11/optik-eoss-r-neues-industrielles-produktionssystem-fuer-praezisionsoptische-schichten?groupcolor=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6201215150>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')))
+2026-06-14 19:14:54,325 WARNING Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f620131a750>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/sail-zeigt-ki-kann-nachhaltig-und-verantwortungsvoll-sein?groupcolor=1
+2026-06-14 19:15:16,447 WARNING Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6201319fd0>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/sail-zeigt-ki-kann-nachhaltig-und-verantwortungsvoll-sein?groupcolor=1
+2026-06-14 19:15:40,457 WARNING Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f62013186d0>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/sail-zeigt-ki-kann-nachhaltig-und-verantwortungsvoll-sein?groupcolor=1
+2026-06-14 19:16:00,889 WARNING Fetch failed: https://nachrichten.idw-online.de/2026/06/11/sail-zeigt-ki-kann-nachhaltig-und-verantwortungsvoll-sein?groupcolor=1 (HTTPSConnectionPool(host='nachrichten.idw-online.de', port=443): Max retries exceeded with url: /2026/06/11/sail-zeigt-ki-kann-nachhaltig-und-verantwortungsvoll-sein?groupcolor=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f620131a810>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')))
+2026-06-14 19:16:22,513 WARNING Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f62014d5b10>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/bam-skizziert-neue-materialstrategie-wie-hochleistungswerkstoffe-robuster-und-nachhaltiger-werden?groupcolor=1
+2026-06-14 19:16:44,636 WARNING Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6200e613d0>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/bam-skizziert-neue-materialstrategie-wie-hochleistungswerkstoffe-robuster-und-nachhaltiger-werden?groupcolor=1
+2026-06-14 19:17:08,937 WARNING Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6200e623d0>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/bam-skizziert-neue-materialstrategie-wie-hochleistungswerkstoffe-robuster-und-nachhaltiger-werden?groupcolor=1
+2026-06-14 19:17:28,942 WARNING Fetch failed: https://nachrichten.idw-online.de/2026/06/11/bam-skizziert-neue-materialstrategie-wie-hochleistungswerkstoffe-robuster-und-nachhaltiger-werden?groupcolor=1 (HTTPSConnectionPool(host='nachrichten.idw-online.de', port=443): Max retries exceeded with url: /2026/06/11/bam-skizziert-neue-materialstrategie-wie-hochleistungswerkstoffe-robuster-und-nachhaltiger-werden?groupcolor=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6200e60a10>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')))
+2026-06-14 19:17:50,678 WARNING Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6200e60450>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/ferroelektrische-speicher-daten-schnell-und-energieeffizient-sichern_1?groupcolor=1
+2026-06-14 19:18:12,996 WARNING Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6200e63c10>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/ferroelektrische-speicher-daten-schnell-und-energieeffizient-sichern_1?groupcolor=1
+2026-06-14 19:18:37,097 WARNING Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f62012144d0>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/ferroelektrische-speicher-daten-schnell-und-energieeffizient-sichern_1?groupcolor=1
+2026-06-14 19:18:57,122 WARNING Fetch failed: https://nachrichten.idw-online.de/2026/06/11/ferroelektrische-speicher-daten-schnell-und-energieeffizient-sichern_1?groupcolor=1 (HTTPSConnectionPool(host='nachrichten.idw-online.de', port=443): Max retries exceeded with url: /2026/06/11/ferroelektrische-speicher-daten-schnell-und-energieeffizient-sichern_1?groupcolor=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6201217590>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')))
+2026-06-14 19:19:18,847 WARNING Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6201328850>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/leibniz-uni-hannover-verlaengert-juniorprofessur-von-jan-k-hoehne-erfolgreiche-forschung-am-dzhw-wird-fortgesetzt?groupcolor=1
+2026-06-14 19:19:40,953 WARNING Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6201328750>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/leibniz-uni-hannover-verlaengert-juniorprofessur-von-jan-k-hoehne-erfolgreiche-forschung-am-dzhw-wird-fortgesetzt?groupcolor=1
+2026-06-14 19:20:04,980 WARNING Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6200e60990>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/leibniz-uni-hannover-verlaengert-juniorprofessur-von-jan-k-hoehne-erfolgreiche-forschung-am-dzhw-wird-fortgesetzt?groupcolor=1
+2026-06-14 19:20:25,281 WARNING Fetch failed: https://nachrichten.idw-online.de/2026/06/11/leibniz-uni-hannover-verlaengert-juniorprofessur-von-jan-k-hoehne-erfolgreiche-forschung-am-dzhw-wird-fortgesetzt?groupcolor=1 (HTTPSConnectionPool(host='nachrichten.idw-online.de', port=443): Max retries exceeded with url: /2026/06/11/leibniz-uni-hannover-verlaengert-juniorprofessur-von-jan-k-hoehne-erfolgreiche-forschung-am-dzhw-wird-fortgesetzt?groupcolor=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6200e622d0>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')))
+2026-06-14 19:20:46,806 WARNING Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6200e62350>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/mit-drohne-und-sensorbike-auf-der-suche-nach-gefaehrlichen-verkehrssituationen?groupcolor=1
+2026-06-14 19:21:08,927 WARNING Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6200e61490>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/mit-drohne-und-sensorbike-auf-der-suche-nach-gefaehrlichen-verkehrssituationen?groupcolor=1
+2026-06-14 19:21:33,041 WARNING Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6200e60b10>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/mit-drohne-und-sensorbike-auf-der-suche-nach-gefaehrlichen-verkehrssituationen?groupcolor=1
+2026-06-14 19:21:53,241 WARNING Fetch failed: https://nachrichten.idw-online.de/2026/06/11/mit-drohne-und-sensorbike-auf-der-suche-nach-gefaehrlichen-verkehrssituationen?groupcolor=1 (HTTPSConnectionPool(host='nachrichten.idw-online.de', port=443): Max retries exceeded with url: /2026/06/11/mit-drohne-und-sensorbike-auf-der-suche-nach-gefaehrlichen-verkehrssituationen?groupcolor=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6200e61950>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')))
+2026-06-14 19:22:14,857 WARNING Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f620131ae10>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/spuerroboter-auf-vier-beinen-fuer-sichere-feuerwehreinsaetze?groupcolor=1
+2026-06-14 19:22:36,975 WARNING Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f620131a950>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/spuerroboter-auf-vier-beinen-fuer-sichere-feuerwehreinsaetze?groupcolor=1
+2026-06-14 19:23:01,182 WARNING Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6201319110>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/spuerroboter-auf-vier-beinen-fuer-sichere-feuerwehreinsaetze?groupcolor=1
+2026-06-14 19:23:21,292 WARNING Fetch failed: https://nachrichten.idw-online.de/2026/06/11/spuerroboter-auf-vier-beinen-fuer-sichere-feuerwehreinsaetze?groupcolor=1 (HTTPSConnectionPool(host='nachrichten.idw-online.de', port=443): Max retries exceeded with url: /2026/06/11/spuerroboter-auf-vier-beinen-fuer-sichere-feuerwehreinsaetze?groupcolor=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6201318110>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')))
+2026-06-14 19:23:42,805 WARNING Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f620131b150>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/duenne-schichten-starke-leistung-empa-spin-off-swiss-cluster-gewinnt-den-swiss-economic-award?groupcolor=1
+2026-06-14 19:24:05,114 WARNING Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6201215850>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/duenne-schichten-starke-leistung-empa-spin-off-swiss-cluster-gewinnt-den-swiss-economic-award?groupcolor=1
+2026-06-14 19:24:29,234 WARNING Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f620132ba10>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')': /2026/06/11/duenne-schichten-starke-leistung-empa-spin-off-swiss-cluster-gewinnt-den-swiss-economic-award?groupcolor=1
+2026-06-14 19:24:49,352 WARNING Fetch failed: https://nachrichten.idw-online.de/2026/06/11/duenne-schichten-starke-leistung-empa-spin-off-swiss-cluster-gewinnt-den-swiss-economic-award?groupcolor=1 (HTTPSConnectionPool(host='nachrichten.idw-online.de', port=443): Max retries exceeded with url: /2026/06/11/duenne-schichten-starke-leistung-empa-spin-off-swiss-cluster-gewinnt-den-swiss-economic-award?groupcolor=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f6201328fd0>, 'Connection to nachrichten.idw-online.de timed out. (connect timeout=20)')))
+2026-06-14 19:24:49,353 INFO Skip non-target-date article: https://nachrichten.idw-online.de/2026/06/12/innovationsnetzwerk-meta-als-zim-netzwerk-des-jahres-2026-ausgezeichnet (2026-06-12)
+2026-06-14 19:24:49,353 INFO Skip non-target-date article: https://nachrichten.idw-online.de/2026/06/12/generative-ki-veraendert-gesellschaft-internationale-weizenbaum-konferenz-zieht-bilanz (2026-06-12)
+2026-06-14 19:24:49,353 INFO Source complete: Informationsdienst Wissenschaft-idw, new articles=0
+2026-06-14 19:24:49,353 INFO Processing source: ESS News <https://www.ess-news.com/category/projects-applications/>
+2026-06-14 19:24:49,353 INFO Using configured RSS for ESS News: https://www.ess-news.com/category/projects-applications/feed/
+2026-06-14 19:24:51,393 INFO Source complete: ESS News, new articles=0
+2026-06-14 19:24:51,393 INFO Processing source: Batteries International News <https://www.batteriesinternational.com/news-test/news/>
+2026-06-14 19:24:51,393 INFO Using configured RSS for Batteries International News: https://www.batteriesinternational.com/news-test/news/feed/
+2026-06-14 19:24:53,970 INFO Source complete: Batteries International News, new articles=0
+2026-06-14 19:24:53,970 INFO Processing source: pv magazine C&I PV <https://www.pv-magazine.com/category/installations/commercial-industrial-pv/>
+2026-06-14 19:24:53,970 INFO Using configured RSS for pv magazine C&I PV: https://www.pv-magazine.com/category/installations/commercial-industrial-pv/feed/
+2026-06-14 19:24:56,054 WARNING Fetch failed: https://www.pv-magazine.com/category/installations/commercial-industrial-pv/feed/ (404 Client Error: Not Found for url: https://www.pv-magazine.com/category/installations/commercial-industrial-pv/feed/)
+2026-06-14 19:24:56,054 INFO Source complete: pv magazine C&I PV, new articles=0
+2026-06-14 19:24:56,054 INFO Processing source: Ammonia Energy Association <https://ammoniaenergy.org/articles/>
+2026-06-14 19:24:56,054 INFO Using configured RSS for Ammonia Energy Association: https://ammoniaenergy.org/articles/feed/
+2026-06-14 19:24:58,285 INFO Source complete: Ammonia Energy Association, new articles=0
+2026-06-14 19:24:58,285 INFO Processing source: H2 View <https://www.h2-view.com/news/all-news/>
+2026-06-14 19:24:58,285 INFO Using configured RSS for H2 View: https://news.google.com/rss/search?q=site:h2-view.com&hl=en&gl=US&ceid=US:en
+2026-06-14 19:24:58,285 WARNING Blocked by robots.txt: https://news.google.com/rss/search?q=site:h2-view.com&hl=en&gl=US&ceid=US:en
+2026-06-14 19:24:58,285 INFO Source complete: H2 View, new articles=0
+2026-06-14 19:24:58,285 INFO Processing source: Hydrogen Tech World <https://hydrogentechworld.com/news-category/news>
+2026-06-14 19:24:58,285 INFO Using configured RSS for Hydrogen Tech World: https://hydrogentechworld.com/feed/
+2026-06-14 19:25:01,590 INFO Skip non-target-date RSS entry: https://hydrogentechworld.com/klaipeda-port-opens-lithuanias-first-green-hydrogen-station (Mon, 08 Jun 2026 08:25:07 +0000)
+2026-06-14 19:25:01,591 INFO Source complete: Hydrogen Tech World, new articles=0
+2026-06-14 19:25:01,591 INFO Processing source: BloombergNEF Press <https://about.bnef.com/insights/type/press/>
+2026-06-14 19:25:01,591 INFO Using configured RSS for BloombergNEF Press: https://about.bnef.com/feed/?post_type=insights&type=press
+2026-06-14 19:25:03,887 INFO Source complete: BloombergNEF Press, new articles=0
+2026-06-14 19:25:03,887 INFO Processing source: MIT Technology Review Climate <https://www.technologyreview.com/topic/climate-change/>
+2026-06-14 19:25:03,888 INFO Using configured RSS for MIT Technology Review Climate: https://www.technologyreview.com/topic/climate-change/feed/
+2026-06-14 19:25:05,428 INFO Skip non-target-date RSS entry: https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/ (Wed, 03 Jun 2026 16:51:38 +0000)
+2026-06-14 19:25:05,428 INFO Skip non-target-date RSS entry: https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/ (Thu, 28 May 2026 18:01:00 +0000)
+2026-06-14 19:25:05,428 INFO Source complete: MIT Technology Review Climate, new articles=0
+2026-06-14 19:25:05,428 INFO Processing source: 网易知光谷 <https://m.163.com/news/sub/T1632726077385.html>
+2026-06-14 19:25:10,722 WARNING Fetch failed: https://m.163.com/feed (404 Client Error: Not Found for url: https://m.163.com/feed)
+2026-06-14 19:25:12,639 WARNING Fetch failed: https://m.163.com/rss (404 Client Error: Not Found for url: https://m.163.com/rss)
+2026-06-14 19:25:14,530 WARNING Fetch failed: https://m.163.com/atom.xml (404 Client Error: Not Found for url: https://m.163.com/atom.xml)
+2026-06-14 19:25:16,360 WARNING Fetch failed: https://m.163.com/feed.xml (404 Client Error: Not Found for url: https://m.163.com/feed.xml)
+2026-06-14 19:25:18,252 WARNING Fetch failed: https://m.163.com/rss.xml (404 Client Error: Not Found for url: https://m.163.com/rss.xml)
+2026-06-14 19:25:20,139 WARNING Fetch failed: https://m.163.com/index.xml (404 Client Error: Not Found for url: https://m.163.com/index.xml)
+2026-06-14 19:25:22,036 WARNING Fetch failed: https://m.163.com/news/sub/T1632726077385.html/feed (404 Client Error: Not Found for url: https://m.163.com/news/sub/T1632726077385.html/feed)
+2026-06-14 19:25:23,937 WARNING Fetch failed: https://m.163.com/news/sub/T1632726077385.html/rss (404 Client Error: Not Found for url: https://m.163.com/news/sub/T1632726077385.html/rss)
+2026-06-14 19:25:25,756 WARNING Fetch failed: https://m.163.com/news/sub/T1632726077385.html/atom.xml (404 Client Error: Not Found for url: https://m.163.com/news/sub/T1632726077385.html/atom.xml)
+2026-06-14 19:25:27,615 WARNING Fetch failed: https://m.163.com/news/sub/T1632726077385.html/feed.xml (404 Client Error: Not Found for url: https://m.163.com/news/sub/T1632726077385.html/feed.xml)
+2026-06-14 19:25:29,565 WARNING Fetch failed: https://m.163.com/news/sub/T1632726077385.html/rss.xml (404 Client Error: Not Found for url: https://m.163.com/news/sub/T1632726077385.html/rss.xml)
+2026-06-14 19:25:31,474 WARNING Fetch failed: https://m.163.com/news/sub/T1632726077385.html/index.xml (404 Client Error: Not Found for url: https://m.163.com/news/sub/T1632726077385.html/index.xml)
+2026-06-14 19:25:31,474 INFO No RSS discovered for https://m.163.com/news/sub/T1632726077385.html
+2026-06-14 19:26:23,007 INFO Source complete: 网易知光谷, new articles=0
+2026-06-14 19:26:23,008 INFO Processing source: 中国核电信息网-国内 <https://www.cnnpn.cn/channel/1.html?&page=1>
+2026-06-14 19:26:28,400 WARNING Fetch failed: https://www.cnnpn.cn/feed (404 Client Error: Not Found for url: https://www.cnnpn.cn/feed)
+2026-06-14 19:26:30,640 WARNING Fetch failed: https://www.cnnpn.cn/rss (404 Client Error: Not Found for url: https://www.cnnpn.cn/rss)
+2026-06-14 19:26:33,053 WARNING Fetch failed: https://www.cnnpn.cn/atom.xml (404 Client Error: Not Found for url: https://www.cnnpn.cn/atom.xml)
+2026-06-14 19:26:35,169 WARNING Fetch failed: https://www.cnnpn.cn/feed.xml (404 Client Error: Not Found for url: https://www.cnnpn.cn/feed.xml)
+2026-06-14 19:26:37,358 WARNING Fetch failed: https://www.cnnpn.cn/rss.xml (404 Client Error: Not Found for url: https://www.cnnpn.cn/rss.xml)
+2026-06-14 19:26:39,748 WARNING Fetch failed: https://www.cnnpn.cn/index.xml (404 Client Error: Not Found for url: https://www.cnnpn.cn/index.xml)
+2026-06-14 19:26:41,985 WARNING Fetch failed: https://www.cnnpn.cn/channel/feed (404 Client Error: Not Found for url: https://www.cnnpn.cn/channel/feed)
+2026-06-14 19:26:44,128 WARNING Fetch failed: https://www.cnnpn.cn/channel/rss (404 Client Error: Not Found for url: https://www.cnnpn.cn/channel/rss)
+2026-06-14 19:26:46,537 WARNING Fetch failed: https://www.cnnpn.cn/channel/atom.xml (404 Client Error: Not Found for url: https://www.cnnpn.cn/channel/atom.xml)
+2026-06-14 19:26:48,714 WARNING Fetch failed: https://www.cnnpn.cn/channel/feed.xml (404 Client Error: Not Found for url: https://www.cnnpn.cn/channel/feed.xml)
+2026-06-14 19:26:51,228 WARNING Fetch failed: https://www.cnnpn.cn/channel/rss.xml (404 Client Error: Not Found for url: https://www.cnnpn.cn/channel/rss.xml)
+2026-06-14 19:26:53,355 WARNING Fetch failed: https://www.cnnpn.cn/channel/index.xml (404 Client Error: Not Found for url: https://www.cnnpn.cn/channel/index.xml)
+2026-06-14 19:26:53,355 INFO No RSS discovered for https://www.cnnpn.cn/channel/1.html?&page=1
+2026-06-14 19:27:45,739 INFO Skip non-target-date article: https://www.cnnpn.cn/article/54899.html ()
+2026-06-14 19:27:45,739 INFO Skip non-target-date article: https://www.cnnpn.cn/article/54898.html ()
+2026-06-14 19:27:45,739 INFO Skip non-target-date article: https://www.cnnpn.cn/article/54897.html ()
+2026-06-14 19:27:45,739 INFO Skip non-target-date article: https://www.cnnpn.cn/article/54896.html ()
+2026-06-14 19:27:45,739 INFO Skip non-target-date article: https://www.cnnpn.cn/article/54881.html ()
+2026-06-14 19:27:45,739 INFO Skip non-target-date article: https://www.cnnpn.cn/article/54880.html ()
+2026-06-14 19:27:45,739 INFO Skip non-target-date article: https://www.cnnpn.cn/article/54879.html ()
+2026-06-14 19:27:45,739 INFO Skip non-target-date article: https://www.cnnpn.cn/article/54878.html ()
+2026-06-14 19:27:45,739 INFO Skip non-target-date article: https://www.cnnpn.cn/article/54877.html ()
+2026-06-14 19:27:45,739 INFO Skip non-target-date article: https://www.cnnpn.cn/article/54875.html ()
+2026-06-14 19:27:45,739 INFO Skip non-target-date article: https://www.cnnpn.cn/article/54874.html ()
+2026-06-14 19:27:45,739 INFO Skip non-target-date article: https://www.cnnpn.cn/article/54873.html ()
+2026-06-14 19:27:45,740 INFO Skip non-target-date article: https://www.cnnpn.cn/article/54870.html ()
+2026-06-14 19:27:45,740 INFO Skip non-target-date article: https://www.cnnpn.cn/article/54862.html ()
+2026-06-14 19:27:45,740 INFO Skip non-target-date article: https://www.cnnpn.cn/article/54839.html ()
+2026-06-14 19:27:45,740 INFO Skip non-target-date article: https://www.cnnpn.cn/article/23221.html ()
+2026-06-14 19:27:45,740 INFO Skip non-target-date article: https://www.cnnpn.cn/article/23222.html ()
+2026-06-14 19:27:45,740 INFO Skip non-target-date article: https://www.cnnpn.cn/article/26154.html ()
+2026-06-14 19:27:45,740 INFO Skip non-target-date article: https://www.cnnpn.cn/article/38683.html ()
+2026-06-14 19:27:45,740 INFO Source complete: 中国核电信息网-国内, new articles=0
+2026-06-14 19:27:45,740 INFO Processing source: 中国核电信息网-国际 <https://www.cnnpn.cn/channel/4.html>
+2026-06-14 19:27:50,202 WARNING Fetch failed: https://www.cnnpn.cn/feed (404 Client Error: Not Found for url: https://www.cnnpn.cn/feed)
+2026-06-14 19:27:52,343 WARNING Fetch failed: https://www.cnnpn.cn/rss (404 Client Error: Not Found for url: https://www.cnnpn.cn/rss)
+2026-06-14 19:27:54,483 WARNING Fetch failed: https://www.cnnpn.cn/atom.xml (404 Client Error: Not Found for url: https://www.cnnpn.cn/atom.xml)
+2026-06-14 19:27:56,722 WARNING Fetch failed: https://www.cnnpn.cn/feed.xml (404 Client Error: Not Found for url: https://www.cnnpn.cn/feed.xml)
+2026-06-14 19:27:59,143 WARNING Fetch failed: https://www.cnnpn.cn/rss.xml (404 Client Error: Not Found for url: https://www.cnnpn.cn/rss.xml)
+2026-06-14 19:28:01,287 WARNING Fetch failed: https://www.cnnpn.cn/index.xml (404 Client Error: Not Found for url: https://www.cnnpn.cn/index.xml)
+2026-06-14 19:28:15,521 INFO No RSS discovered for https://www.cnnpn.cn/channel/4.html
+2026-06-14 19:29:04,728 INFO Skip non-target-date article: https://www.cnnpn.cn/article/54895.html ()
+2026-06-14 19:29:04,728 INFO Skip non-target-date article: https://www.cnnpn.cn/article/54894.html ()
+2026-06-14 19:29:04,728 INFO Skip non-target-date article: https://www.cnnpn.cn/article/54892.html ()
+2026-06-14 19:29:04,728 INFO Skip non-target-date article: https://www.cnnpn.cn/article/54886.html ()
+2026-06-14 19:29:04,728 INFO Skip non-target-date article: https://www.cnnpn.cn/article/54882.html ()
+2026-06-14 19:29:04,728 INFO Skip non-target-date article: https://www.cnnpn.cn/article/54893.html ()
+2026-06-14 19:29:04,728 INFO Skip non-target-date article: https://www.cnnpn.cn/article/54891.html ()
+2026-06-14 19:29:04,728 INFO Skip non-target-date article: https://www.cnnpn.cn/article/54890.html ()
+2026-06-14 19:29:04,728 INFO Skip non-target-date article: https://www.cnnpn.cn/article/54889.html ()
+2026-06-14 19:29:04,728 INFO Skip non-target-date article: https://www.cnnpn.cn/article/54888.html ()
+2026-06-14 19:29:04,728 INFO Skip non-target-date article: https://www.cnnpn.cn/article/54887.html ()
+2026-06-14 19:29:04,728 INFO Skip non-target-date article: https://www.cnnpn.cn/article/54885.html ()
+2026-06-14 19:29:04,728 INFO Skip non-target-date article: https://www.cnnpn.cn/article/54884.html ()
+2026-06-14 19:29:04,729 INFO Skip non-target-date article: https://www.cnnpn.cn/article/54883.html ()
+2026-06-14 19:29:04,729 INFO Skip non-target-date article: https://www.cnnpn.cn/article/54876.html ()
+2026-06-14 19:29:04,729 INFO Skip non-target-date article: https://www.cnnpn.cn/article/51137.html ()
+2026-06-14 19:29:04,729 INFO Skip non-target-date article: https://www.cnnpn.cn/article/28235.html ()
+2026-06-14 19:29:04,729 INFO Skip non-target-date article: https://www.cnnpn.cn/article/54619.html ()
+2026-06-14 19:29:04,729 INFO Skip non-target-date article: https://www.cnnpn.cn/article/50935.html ()
+2026-06-14 19:29:04,729 INFO Skip non-target-date article: https://www.cnnpn.cn/article/52864.html ()
+2026-06-14 19:29:04,729 INFO Source complete: 中国核电信息网-国际, new articles=0
+2026-06-14 19:29:04,729 INFO Processing source: 中国电力新闻网-新能源 <https://cpnn.com.cn/news/xny/>
+2026-06-14 19:29:07,017 WARNING robots.txt unavailable for https://cpnn.com.cn: HTTP 404
+2026-06-14 19:29:10,807 WARNING Fetch failed: https://cpnn.com.cn/feed (404 Client Error: Not Found for url: https://cpnn.com.cn/feed)
+2026-06-14 19:29:12,565 WARNING Fetch failed: https://cpnn.com.cn/rss (404 Client Error: Not Found for url: https://cpnn.com.cn/rss)
+2026-06-14 19:29:14,327 WARNING Fetch failed: https://cpnn.com.cn/atom.xml (404 Client Error: Not Found for url: https://cpnn.com.cn/atom.xml)
+2026-06-14 19:29:16,091 WARNING Fetch failed: https://cpnn.com.cn/feed.xml (404 Client Error: Not Found for url: https://cpnn.com.cn/feed.xml)
+2026-06-14 19:29:17,850 WARNING Fetch failed: https://cpnn.com.cn/rss.xml (404 Client Error: Not Found for url: https://cpnn.com.cn/rss.xml)
+2026-06-14 19:29:19,608 WARNING Fetch failed: https://cpnn.com.cn/index.xml (404 Client Error: Not Found for url: https://cpnn.com.cn/index.xml)
+2026-06-14 19:29:21,367 WARNING Fetch failed: https://cpnn.com.cn/news/xny/feed (404 Client Error: Not Found for url: https://cpnn.com.cn/news/xny/feed)
+2026-06-14 19:29:23,126 WARNING Fetch failed: https://cpnn.com.cn/news/xny/rss (404 Client Error: Not Found for url: https://cpnn.com.cn/news/xny/rss)
+2026-06-14 19:29:24,884 WARNING Fetch failed: https://cpnn.com.cn/news/xny/atom.xml (404 Client Error: Not Found for url: https://cpnn.com.cn/news/xny/atom.xml)
+2026-06-14 19:29:26,643 WARNING Fetch failed: https://cpnn.com.cn/news/xny/feed.xml (404 Client Error: Not Found for url: https://cpnn.com.cn/news/xny/feed.xml)
+2026-06-14 19:29:28,401 WARNING Fetch failed: https://cpnn.com.cn/news/xny/rss.xml (404 Client Error: Not Found for url: https://cpnn.com.cn/news/xny/rss.xml)
+2026-06-14 19:29:30,160 WARNING Fetch failed: https://cpnn.com.cn/news/xny/index.xml (404 Client Error: Not Found for url: https://cpnn.com.cn/news/xny/index.xml)
+2026-06-14 19:29:30,160 INFO No RSS discovered for https://cpnn.com.cn/news/xny/
+2026-06-14 19:30:01,895 WARNING robots.txt unavailable for https://www.cpnn.com.cn: HTTP 404
+2026-06-14 19:30:06,905 WARNING robots.txt unavailable for http://www.cpnn.com.cn: HTTP 404
+2026-06-14 19:30:13,267 INFO Skip non-target-date article: https://www.cpnn.com.cn/zt/2025zt/4zqh2025/ ()
+2026-06-14 19:30:13,267 INFO Skip non-target-date article: https://www.cpnn.com.cn/zt/2025zt/nygzlfz2025/ ()
+2026-06-14 19:30:13,267 INFO Source complete: 中国电力新闻网-新能源, new articles=0
+2026-06-14 19:30:13,267 INFO Processing source: 中国电力新闻网-科技 <https://cpnn.com.cn/news/kj/>
+2026-06-14 19:30:16,801 WARNING Fetch failed: https://cpnn.com.cn/feed (404 Client Error: Not Found for url: https://cpnn.com.cn/feed)
+2026-06-14 19:30:18,559 WARNING Fetch failed: https://cpnn.com.cn/rss (404 Client Error: Not Found for url: https://cpnn.com.cn/rss)
+2026-06-14 19:30:20,317 WARNING Fetch failed: https://cpnn.com.cn/atom.xml (404 Client Error: Not Found for url: https://cpnn.com.cn/atom.xml)
+2026-06-14 19:30:22,076 WARNING Fetch failed: https://cpnn.com.cn/feed.xml (404 Client Error: Not Found for url: https://cpnn.com.cn/feed.xml)
+2026-06-14 19:30:23,834 WARNING Fetch failed: https://cpnn.com.cn/rss.xml (404 Client Error: Not Found for url: https://cpnn.com.cn/rss.xml)
+2026-06-14 19:30:25,592 WARNING Fetch failed: https://cpnn.com.cn/index.xml (404 Client Error: Not Found for url: https://cpnn.com.cn/index.xml)
+2026-06-14 19:30:27,352 WARNING Fetch failed: https://cpnn.com.cn/news/kj/feed (404 Client Error: Not Found for url: https://cpnn.com.cn/news/kj/feed)
+2026-06-14 19:30:29,113 WARNING Fetch failed: https://cpnn.com.cn/news/kj/rss (404 Client Error: Not Found for url: https://cpnn.com.cn/news/kj/rss)
+2026-06-14 19:30:30,874 WARNING Fetch failed: https://cpnn.com.cn/news/kj/atom.xml (404 Client Error: Not Found for url: https://cpnn.com.cn/news/kj/atom.xml)
+2026-06-14 19:30:32,633 WARNING Fetch failed: https://cpnn.com.cn/news/kj/feed.xml (404 Client Error: Not Found for url: https://cpnn.com.cn/news/kj/feed.xml)
+2026-06-14 19:30:34,391 WARNING Fetch failed: https://cpnn.com.cn/news/kj/rss.xml (404 Client Error: Not Found for url: https://cpnn.com.cn/news/kj/rss.xml)
+2026-06-14 19:30:36,150 WARNING Fetch failed: https://cpnn.com.cn/news/kj/index.xml (404 Client Error: Not Found for url: https://cpnn.com.cn/news/kj/index.xml)
+2026-06-14 19:30:36,150 INFO No RSS discovered for https://cpnn.com.cn/news/kj/
+2026-06-14 19:31:15,984 INFO Skip non-target-date article: https://www.cpnn.com.cn/zt/2025zt/4zqh2025/ ()
+2026-06-14 19:31:15,984 INFO Skip non-target-date article: https://www.cpnn.com.cn/zt/2025zt/nygzlfz2025/ ()
+2026-06-14 19:31:15,984 INFO Source complete: 中国电力新闻网-科技, new articles=0
+2026-06-14 19:31:15,984 INFO Processing source: 科学网新闻 <https://news.sciencenet.cn/morenews-V-1.aspx>
+2026-06-14 19:31:17,557 WARNING robots.txt unavailable for https://news.sciencenet.cn: HTTP 405
+2026-06-14 19:31:19,275 WARNING Fetch failed: https://news.sciencenet.cn/morenews-V-1.aspx (405 Client Error: Not Allowed for url: https://news.sciencenet.cn/morenews-V-1.aspx)
+2026-06-14 19:31:20,992 WARNING Fetch failed: https://news.sciencenet.cn/feed (405 Client Error: Not Allowed for url: https://news.sciencenet.cn/feed)
+2026-06-14 19:31:22,710 WARNING Fetch failed: https://news.sciencenet.cn/rss (405 Client Error: Not Allowed for url: https://news.sciencenet.cn/rss)
+2026-06-14 19:31:24,428 WARNING Fetch failed: https://news.sciencenet.cn/atom.xml (405 Client Error: Not Allowed for url: https://news.sciencenet.cn/atom.xml)
+2026-06-14 19:31:26,145 WARNING Fetch failed: https://news.sciencenet.cn/feed.xml (405 Client Error: Not Allowed for url: https://news.sciencenet.cn/feed.xml)
+2026-06-14 19:31:27,862 WARNING Fetch failed: https://news.sciencenet.cn/rss.xml (405 Client Error: Not Allowed for url: https://news.sciencenet.cn/rss.xml)
+2026-06-14 19:31:29,580 WARNING Fetch failed: https://news.sciencenet.cn/index.xml (405 Client Error: Not Allowed for url: https://news.sciencenet.cn/index.xml)
+2026-06-14 19:31:29,580 INFO No RSS discovered for https://news.sciencenet.cn/morenews-V-1.aspx
+2026-06-14 19:31:31,298 WARNING Fetch failed: https://news.sciencenet.cn/morenews-V-1.aspx (405 Client Error: Not Allowed for url: https://news.sciencenet.cn/morenews-V-1.aspx)
+2026-06-14 19:31:31,298 WARNING TODO scraper needed for 科学网新闻: unable to identify article links from listing page. Please provide article-list CSS selectors or API details.
+2026-06-14 19:31:31,298 INFO Source complete: 科学网新闻, new articles=0
+2026-06-14 19:31:31,298 INFO Processing source: 新华网科技 <https://www.news.cn/tech/index.html>
+2026-06-14 19:31:36,422 WARNING Fetch failed: https://www.news.cn/feed (404 Client Error: Not Found for url: https://www.news.cn/feed)
+2026-06-14 19:31:38,561 WARNING Fetch failed: https://www.news.cn/rss (403 Client Error: Forbidden for url: http://www.news.cn/rss/)
+2026-06-14 19:31:40,435 WARNING Fetch failed: https://www.news.cn/atom.xml (404 Client Error: Not Found for url: https://www.news.cn/atom.xml)
+2026-06-14 19:31:42,278 WARNING Fetch failed: https://www.news.cn/feed.xml (404 Client Error: Not Found for url: https://www.news.cn/feed.xml)
+2026-06-14 19:31:44,144 WARNING Fetch failed: https://www.news.cn/rss.xml (404 Client Error: Not Found for url: https://www.news.cn/rss.xml)
+2026-06-14 19:31:45,966 WARNING Fetch failed: https://www.news.cn/index.xml (404 Client Error: Not Found for url: https://www.news.cn/index.xml)
+2026-06-14 19:31:47,819 WARNING Fetch failed: https://www.news.cn/tech/index.html/feed (404 Client Error: Not Found for url: https://www.news.cn/tech/index.html/feed)
+2026-06-14 19:31:49,684 WARNING Fetch failed: https://www.news.cn/tech/index.html/rss (404 Client Error: Not Found for url: https://www.news.cn/tech/index.html/rss)
+2026-06-14 19:31:51,610 WARNING Fetch failed: https://www.news.cn/tech/index.html/atom.xml (404 Client Error: Not Found for url: https://www.news.cn/tech/index.html/atom.xml)
+2026-06-14 19:31:53,457 WARNING Fetch failed: https://www.news.cn/tech/index.html/feed.xml (404 Client Error: Not Found for url: https://www.news.cn/tech/index.html/feed.xml)
+2026-06-14 19:31:55,304 WARNING Fetch failed: https://www.news.cn/tech/index.html/rss.xml (404 Client Error: Not Found for url: https://www.news.cn/tech/index.html/rss.xml)
+2026-06-14 19:31:57,166 WARNING Fetch failed: https://www.news.cn/tech/index.html/index.xml (404 Client Error: Not Found for url: https://www.news.cn/tech/index.html/index.xml)
+2026-06-14 19:31:57,166 INFO No RSS discovered for https://www.news.cn/tech/index.html
+2026-06-14 19:32:38,009 INFO Skip non-target-date article: http://www.news.cn/tech/zt/kjzlzq2022/index.html ()
+2026-06-14 19:32:38,009 INFO Skip non-target-date article: https://www.news.cn/tech/20260520/9545d47809fc409293a76ca2ae15035a/c.html (2026-05-20)
+2026-06-14 19:32:38,009 INFO Skip non-target-date article: https://www.news.cn/tech/20260514/15f45732f6b54fa580e11cda2fda6204/c.html (2026-05-14)
+2026-06-14 19:32:38,010 INFO Skip non-target-date article: http://www.news.cn/tech/zt/2026awe/index.html ()
+2026-06-14 19:32:38,010 INFO Skip non-target-date article: http://www.news.cn/tech/zt/2025awe/index.html ()
+2026-06-14 19:32:38,010 INFO Source complete: 新华网科技, new articles=0
+2026-06-14 19:32:38,010 INFO Processing source: 国际太阳能光伏网 <https://solar.in-en.com/news/>
+2026-06-14 19:32:41,874 WARNING Fetch failed: https://solar.in-en.com/news/ (403 Client Error: Forbidden for url: https://solar.in-en.com/news/)
+2026-06-14 19:32:54,645 WARNING Fetch failed: https://solar.in-en.com/feed (404 Client Error: Not Found for url: https://solar.in-en.com/feed)
+2026-06-14 19:33:12,105 WARNING Fetch failed: https://solar.in-en.com/rss (404 Client Error: Not Found for url: https://solar.in-en.com/rss)
+2026-06-14 19:33:38,355 WARNING Fetch failed: https://solar.in-en.com/atom.xml (HTTPSConnectionPool(host='solar.in-en.com', port=443): Read timed out.)
+2026-06-14 19:34:02,310 WARNING Fetch failed: https://solar.in-en.com/feed.xml (404 Client Error: Not Found for url: https://solar.in-en.com/feed.xml)
+2026-06-14 19:34:16,699 WARNING Fetch failed: https://solar.in-en.com/rss.xml (404 Client Error: Not Found for url: https://solar.in-en.com/rss.xml)
+2026-06-14 19:34:44,090 WARNING Fetch failed: https://solar.in-en.com/index.xml (HTTPSConnectionPool(host='solar.in-en.com', port=443): Read timed out.)
+2026-06-14 19:34:44,090 INFO No RSS discovered for https://solar.in-en.com/news/
+2026-06-14 19:35:26,500 WARNING Fetch failed: https://solar.in-en.com (HTTPSConnectionPool(host='solar.in-en.com', port=443): Read timed out.)
+2026-06-14 19:36:34,793 WARNING Retrying (Retry(total=2, connect=3, read=2, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='solar.in-en.com', port=443): Read timed out. (read timeout=20)")': /html/solar-2460772.shtml
+2026-06-14 19:36:57,183 WARNING Retrying (Retry(total=1, connect=3, read=1, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='solar.in-en.com', port=443): Read timed out. (read timeout=20)")': /html/solar-2460772.shtml
+2026-06-14 19:37:29,975 WARNING Retrying (Retry(total=2, connect=3, read=2, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='solar.in-en.com', port=443): Read timed out. (read timeout=20)")': /html/solar-2460770.shtml
+2026-06-14 19:38:19,079 WARNING Retrying (Retry(total=2, connect=3, read=2, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='solar.in-en.com', port=443): Read timed out. (read timeout=20)")': /html/solar-2460740.shtml
+2026-06-14 19:38:41,401 WARNING Retrying (Retry(total=1, connect=3, read=1, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='solar.in-en.com', port=443): Read timed out. (read timeout=20)")': /html/solar-2460740.shtml
+2026-06-14 19:39:07,457 WARNING Retrying (Retry(total=0, connect=3, read=0, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='solar.in-en.com', port=443): Read timed out. (read timeout=20)")': /html/solar-2460740.shtml
+2026-06-14 19:39:29,326 WARNING Fetch failed: https://solar.in-en.com/html/solar-2460740.shtml (HTTPSConnectionPool(host='solar.in-en.com', port=443): Max retries exceeded with url: /html/solar-2460740.shtml (Caused by ReadTimeoutError("HTTPSConnectionPool(host='solar.in-en.com', port=443): Read timed out. (read timeout=20)")))
+2026-06-14 19:39:51,373 WARNING Retrying (Retry(total=2, connect=3, read=2, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='solar.in-en.com', port=443): Read timed out. (read timeout=20)")': /html/solar-2460730.shtml
+2026-06-14 19:40:15,615 WARNING Retrying (Retry(total=2, connect=3, read=2, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='solar.in-en.com', port=443): Read timed out. (read timeout=20)")': /html/solar-2460710.shtml
+2026-06-14 19:40:38,166 WARNING Retrying (Retry(total=1, connect=3, read=1, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='solar.in-en.com', port=443): Read timed out. (read timeout=20)")': /html/solar-2460710.shtml
+2026-06-14 19:41:02,622 WARNING Retrying (Retry(total=0, connect=3, read=0, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='solar.in-en.com', port=443): Read timed out. (read timeout=20)")': /html/solar-2460710.shtml
+2026-06-14 19:41:32,712 INFO Skip non-target-date article: https://solar.in-en.com/ycl/ ()
+2026-06-14 19:41:32,712 INFO Skip non-target-date article: https://solar.in-en.com/html/solar-2460946.shtml ()
+2026-06-14 19:41:32,712 INFO Skip non-target-date article: https://solar.in-en.com/html/solar-2460888.shtml ()
+2026-06-14 19:41:32,712 INFO Skip non-target-date article: https://solar.in-en.com/html/solar-2460834.shtml ()
+2026-06-14 19:41:32,712 INFO Skip non-target-date article: https://solar.in-en.com/html/solar-2460826.shtml ()
+2026-06-14 19:41:32,712 INFO Skip non-target-date article: https://solar.in-en.com/html/solar-2460774.shtml ()
+2026-06-14 19:41:32,712 INFO Skip non-target-date article: https://solar.in-en.com/html/solar-2460772.shtml ()
+2026-06-14 19:41:32,712 INFO Skip non-target-date article: https://solar.in-en.com/html/solar-2460771.shtml ()
+2026-06-14 19:41:32,712 INFO Skip non-target-date article: https://solar.in-en.com/html/solar-2460770.shtml ()
+2026-06-14 19:41:32,712 INFO Skip non-target-date article: https://solar.in-en.com/html/solar-2460769.shtml ()
+2026-06-14 19:41:32,712 INFO Skip non-target-date article: https://solar.in-en.com/html/solar-2460765.shtml ()
+2026-06-14 19:41:32,712 INFO Skip non-target-date article: https://solar.in-en.com/html/solar-2460739.shtml ()
+2026-06-14 19:41:32,713 INFO Skip non-target-date article: https://solar.in-en.com/html/solar-2460730.shtml ()
+2026-06-14 19:41:32,713 INFO Skip non-target-date article: https://solar.in-en.com/html/solar-2460710.shtml ()
+2026-06-14 19:41:32,713 INFO Skip non-target-date article: https://solar.in-en.com/html/solar-2460702.shtml ()
+2026-06-14 19:41:32,713 INFO Skip non-target-date article: https://solar.in-en.com/html/solar-2460947.shtml ()
+2026-06-14 19:41:32,713 INFO Skip non-target-date article: https://solar.in-en.com/html/solar-2460890.shtml ()
+2026-06-14 19:41:32,713 INFO Source complete: 国际太阳能光伏网, new articles=0
+2026-06-14 19:41:32,713 INFO Processing source: Renewables Now <https://renewablesnow.com/news/>
+2026-06-14 19:41:41,152 WARNING Fetch failed: https://renewablesnow.com/rss (404 Client Error: Not Found for url: https://renewablesnow.com/rss/)
+2026-06-14 19:41:43,006 WARNING Fetch failed: https://renewablesnow.com/atom.xml (404 Client Error: Not Found for url: https://renewablesnow.com/atom.xml)
+2026-06-14 19:41:44,797 WARNING Fetch failed: https://renewablesnow.com/feed.xml (404 Client Error: Not Found for url: https://renewablesnow.com/feed.xml)
+2026-06-14 19:41:46,588 WARNING Fetch failed: https://renewablesnow.com/rss.xml (404 Client Error: Not Found for url: https://renewablesnow.com/rss.xml)
+2026-06-14 19:41:48,381 WARNING Fetch failed: https://renewablesnow.com/index.xml (404 Client Error: Not Found for url: https://renewablesnow.com/index.xml)
+2026-06-14 19:41:50,389 WARNING Fetch failed: https://renewablesnow.com/news/feed (404 Client Error: Not Found for url: https://renewablesnow.com/news/feed/)
+2026-06-14 19:41:52,312 WARNING Fetch failed: https://renewablesnow.com/news/rss (404 Client Error: Not Found for url: https://renewablesnow.com/news/rss/)
+2026-06-14 19:41:54,123 WARNING Fetch failed: https://renewablesnow.com/news/atom.xml (404 Client Error: Not Found for url: https://renewablesnow.com/news/atom.xml)
+2026-06-14 19:41:55,965 WARNING Fetch failed: https://renewablesnow.com/news/feed.xml (404 Client Error: Not Found for url: https://renewablesnow.com/news/feed.xml)
+2026-06-14 19:41:57,761 WARNING Fetch failed: https://renewablesnow.com/news/rss.xml (404 Client Error: Not Found for url: https://renewablesnow.com/news/rss.xml)
+2026-06-14 19:41:59,592 WARNING Fetch failed: https://renewablesnow.com/news/index.xml (404 Client Error: Not Found for url: https://renewablesnow.com/news/index.xml)
+2026-06-14 19:41:59,593 INFO No RSS discovered for https://renewablesnow.com/news/
+2026-06-14 19:43:08,058 INFO Skip non-target-date article: https://renewablesnow.com/advanced-search/ ()
+2026-06-14 19:43:08,058 INFO Skip non-target-date article: https://renewablesnow.com/subscription/ ()
+2026-06-14 19:43:08,058 INFO Source complete: Renewables Now, new articles=0
+2026-06-14 19:43:08,058 INFO Processing source: 索比光伏-综合新闻 <https://news.solarbe.com/>
+2026-06-14 19:43:12,340 WARNING Fetch failed: https://news.solarbe.com/feed (404 Client Error: Not Found for url: https://news.solarbe.com/feed)
+2026-06-14 19:43:14,068 WARNING Fetch failed: https://news.solarbe.com/rss (404 Client Error: Not Found for url: https://news.solarbe.com/rss)
+2026-06-14 19:43:15,817 WARNING Fetch failed: https://news.solarbe.com/atom.xml (404 Client Error: Not Found for url: https://news.solarbe.com/atom.xml)
+2026-06-14 19:43:17,551 WARNING Fetch failed: https://news.solarbe.com/feed.xml (404 Client Error: Not Found for url: https://news.solarbe.com/feed.xml)
+2026-06-14 19:43:19,277 WARNING Fetch failed: https://news.solarbe.com/rss.xml (404 Client Error: Not Found for url: https://news.solarbe.com/rss.xml)
+2026-06-14 19:43:21,005 WARNING Fetch failed: https://news.solarbe.com/index.xml (404 Client Error: Not Found for url: https://news.solarbe.com/index.xml)
+2026-06-14 19:43:21,005 INFO No RSS discovered for https://news.solarbe.com/
+2026-06-14 19:44:01,380 INFO Source complete: 索比光伏-综合新闻, new articles=0
+2026-06-14 19:44:01,380 INFO Processing source: 中国新能源网-新闻 <http://www.china-nengyuan.com/news/>
+2026-06-14 19:44:05,951 WARNING Fetch failed: http://www.china-nengyuan.com/feed (404 Client Error: Not Found for url: http://www.china-nengyuan.com/feed)
+2026-06-14 19:44:07,652 WARNING Fetch failed: http://www.china-nengyuan.com/rss (404 Client Error: Not Found for url: http://www.china-nengyuan.com/rss)
+2026-06-14 19:44:09,354 WARNING Fetch failed: http://www.china-nengyuan.com/atom.xml (404 Client Error: Not Found for url: http://www.china-nengyuan.com/atom.xml)
+2026-06-14 19:44:11,055 WARNING Fetch failed: http://www.china-nengyuan.com/feed.xml (404 Client Error: Not Found for url: http://www.china-nengyuan.com/feed.xml)
+2026-06-14 19:44:12,756 WARNING Fetch failed: http://www.china-nengyuan.com/rss.xml (404 Client Error: Not Found for url: http://www.china-nengyuan.com/rss.xml)
+2026-06-14 19:44:14,458 WARNING Fetch failed: http://www.china-nengyuan.com/index.xml (404 Client Error: Not Found for url: http://www.china-nengyuan.com/index.xml)
+2026-06-14 19:44:16,196 WARNING Fetch failed: http://www.china-nengyuan.com/news/feed (404 Client Error: Not Found for url: http://www.china-nengyuan.com/news/feed)
+2026-06-14 19:44:17,902 WARNING Fetch failed: http://www.china-nengyuan.com/news/rss (404 Client Error: Not Found for url: http://www.china-nengyuan.com/news/rss)
+2026-06-14 19:44:19,602 WARNING Fetch failed: http://www.china-nengyuan.com/news/atom.xml (404 Client Error: Not Found for url: http://www.china-nengyuan.com/news/atom.xml)
+2026-06-14 19:44:21,304 WARNING Fetch failed: http://www.china-nengyuan.com/news/feed.xml (404 Client Error: Not Found for url: http://www.china-nengyuan.com/news/feed.xml)
+2026-06-14 19:44:23,005 WARNING Fetch failed: http://www.china-nengyuan.com/news/rss.xml (404 Client Error: Not Found for url: http://www.china-nengyuan.com/news/rss.xml)
+2026-06-14 19:44:24,706 WARNING Fetch failed: http://www.china-nengyuan.com/news/index.xml (404 Client Error: Not Found for url: http://www.china-nengyuan.com/news/index.xml)
+2026-06-14 19:44:24,706 INFO No RSS discovered for http://www.china-nengyuan.com/news/
+2026-06-14 19:44:26,416 WARNING TODO scraper needed for 中国新能源网-新闻: unable to identify article links from listing page. Please provide article-list CSS selectors or API details.
+2026-06-14 19:44:26,416 INFO Source complete: 中国新能源网-新闻, new articles=0
+2026-06-14 19:44:26,416 INFO Processing source: IT之家 <https://www.ithome.com/>
+2026-06-14 19:44:26,416 INFO Using configured RSS for IT之家: https://www.ithome.com/rss/
+2026-06-14 19:45:03,059 INFO Source complete: IT之家, new articles=20
+2026-06-14 19:45:03,153 INFO Run complete. New articles: 41
+2026-06-14 19:45:03,153 INFO Skipped sources: [('batteries news', '备注包含“无法访问”'), ('Battery Council International', '备注包含“需邮箱订阅”'), ('中粉固态电池', '备注包含“公众号”'), ('起点钠电', '备注包含“公众号”'), ('能源学人', '备注包含“公众号”'), ('钙钛矿工厂', '备注包含“公众号”'), ('钙钛矿学习xx平台', '备注包含“公众号”'), ('风电世界', '链接为空'), ('ESPLAZA长时储能网', '备注包含“公众号”'), ('地热能在线', '备注包含“公众号”')]
+2026-06-14 19:45:03,153 INFO Failed sources: []
