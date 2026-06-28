@@ -1,0 +1,517 @@
+﻿title,published_at,content,url,source_name,domain,sub_domain,crawled_at
+Advanced Battery Designs Shaping Wearable Device Evolution,2026-06-27,"Discover how advanced battery designs enable smaller, flexible wearable devices while addressing challenges in size, safety, and performance.
+June 26, 2026
+Oura ring 5.
+Advances in wearable technology have transformed how devices are designed and integrated into everyday life, prioritizing compactness, flexibility, and functionality. Batteries play a crucial role in powering these devices, and they require innovative designs to meet strict demands for size, shape, and performance. Let’s delve into the evolution of wearable batteries, the engineering trade-offs they entail, and the future of power solutions for increasingly compact and adaptable devices.
+Wearable devices have very strict requirements for size, thickness, and flexibility. This pushes batteries to move away from traditional round and rectangular shapes. Instead, they become soft pack, ultra-thin, curved, and even split-distributed types. Different wearable devices have very different sizes and power needs, so they require batteries of different shapes.
+Harnessing the Quantum Vacuum to Produce Low-Power Energy
+Device Category
+Typical Battery Form Factor & Capacity
+Apple Watch Ultra example: ~564 mAh lithium-ion battery
+Enclosure approx. 49 × 44 × 12 mm, titanium case (61.3 g). Offers ~36 hours of battery life under typical usage. Other models such as Apple Watch Series 9 use ~282–308 mAh batteries.
+Fitbit Charge 5: ~65 mAh battery
+Highly integrated design combining display and sensors within a thin wristband, resulting in extremely limited internal space.
+Example: Oura Ring 4 (~7.9 mm width, ~2.88 mm thickness), battery capacity in the single-digit mAh range
+Ultra-compact ring form factor designed for all-day comfort and unobtrusive wearability, requiring extreme miniaturization and ultra-low power consumption design.
+AR/VR Headset
+Apple Vision Pro: 3 × 3166 mAh cells (total ~9498 mAh)
+Uses an external wearable battery pack to reduce head weight. Meta Quest 2 features an internal ~3640 mAh battery. Most AR/VR devices require multi-Wh battery systems to support high-performance computing and display workloads.
+Overall, wearable device batteries are much smaller than smartphone batteries (which are usually 3000–5000mAh). However, they still need to provide enough battery life within an extremely limited space. For example, when Apple removed the 3.5mm headphone jack, it helped push the rise of wireless earbuds, which in turn required a much more compact internal design.
+Devices like the Apple Watch must fit a battery module inside a thin metal watch body, while also making space for complex sensors. For even smaller products, the space constraints are even stricter. They can only use ultra-thin power sources that are just a few millimeters thick.
+To address strict space constraints, wearable batteries have shifted from traditional rigid cells to flexible pouch, ultra-thin, and curved designs. Curved batteries can match product geometry with bending angles up to 180°, while ultra-thin cells can reach thicknesses of about 0.4 mm, typically with limited capacity. Many devices also use distributed power architecture, such as true wireless earbuds that split energy storage between the earbuds and the charging case.
+Cylindrical or prismatic vs pouch batteries:
+Many early wearable devices, such as old hearing aids or early smartwatches, used cylindrical or prismatic batteries. However, these shapes waste internal space and are not efficient for compact designs. Today, most wearable devices use lithium-ion pouch batteries. Pouch cells are more flexible and can better fit the device's internal space.
+Ultra-thin batteries:
+To support extremely thin products like smart rings and wearable patches, batteries are becoming thinner. Some manufacturers have developed
+custom pouch batteries
+ranging in thickness from 8 mm to 0.4 mm.
+Curved or bent batteries:
+For curved wearable designs, specialized curved lithium-polymer batteries have been developed. These batteries can be made with specific bending shapes to fit devices like smart bands, wristbands, smart rings, and even glasses frames. Curved strip batteries can fit around wristbands, while round or polygon-shaped cells can be used inside rings or eyewear frames. This allows the battery to more closely match the natural shape of the human body.
+Flexible or stretchable batteries:
+The latest research has led to the development of flexible materials and solid-state electrolytes. These allow batteries to bend or stretch to a certain degree. Such batteries are suitable for smart textiles, wearable patches, and other next-generation flexible electronics.
+Race to Power Smart Contact Lenses Intensifies with Solid-State Breakthrough
+The design and production of wearable batteries is essentially a balancing act among multiple conflicting engineering requirements. Every decision, from electrochemical performance to structural design and manufacturing methods, affects energy density, safety, reliability, and cost.
+1. Trade-offs between performance and structure
+Energy density vs. space utilization
+: Wearable devices have extremely limited internal space. Increasing battery capacity typically requires thicker electrodes or larger cell volumes, which directly conflicts with the industry’s push toward thinner and lighter product designs.
+Thickness vs. electrical performance
+: Ultra-thin batteries help reduce device thickness, but thinner structures often result in higher internal resistance and reduced cycle life. For example, some 0.4 mm ultra-thin batteries deliver only about 22 mAh of capacity while exhibiting internal resistance as high as 600 mΩ, illustrating the performance compromises associated with extreme miniaturization.
+Flexibility vs. power capability
+: Flexible batteries improve mechanical adaptability by using thin current collectors and polymer-based materials. However, these design choices can increase resistance in electron and ion transport pathways, which may limit high-power output.
+Curve battery for smart ring. Courtesy of LanDazzle Battery.
+2. Thermal management and safety constraints
+When high energy density is packed into a very small space, heat dissipation and safety become critical issues. Wearable devices have limited space, so heat is harder to release. If overcharging, over-discharging, or internal short circuits occur, the temperature can rise quickly, posing safety risks.
+Because of this, designs must include multiple safety measures. These include thermal protection design, flame-retardant materials, and structural buffering. Common solutions include multi-layer packaging and cushioning materials such as silicone or polyurethane to improve impact resistance and reduce swelling or leakage risks.
+3. System-level design choices
+In real product development, these trade-offs must be adjusted based on application needs:
+VR headsets and other high-power devices: Longer battery life is the priority, even if it means sacrificing some size and weight.
+Smart rings or implantable devices: The size must be minimized as much as possible, even if battery life and power are reduced.
+Distributed battery design: In true wireless earbuds, split small batteries between the earbuds, while a charging case provides additional capacity, balancing size and total runtime.
+Trapezoidal smart glasses battery. Courtesy of LanDazzle Battery.
+4. Manufacturing and packaging challenges
+Beyond design trade-offs, wearable batteries also face major challenges in manufacturing and packaging.
+First, materials and processes require flexible electrodes, polymer separators, and ultra-thin current collectors. Multi-layer stacking or winding must be completed in very limited space. For ultra-thin batteries, aluminum-plastic film packaging and heat-sealing adhesives are often used to improve strength and sealing performance. Some designs also use solid-state or gel electrolytes to reduce the risk of leakage and improve safety.
+Second, batteries must pass strict reliability tests, including:
+High and low temperature cycling
+Bending and mechanical fatigue tests
+Overcharge, over-discharge, and short-circuit tests
+Long-term storage and aging tests
+These tests ensure stable performance in real wearable conditions.
+5. Mass production and engineering constraints
+The final challenge is scalability in manufacturing. Ultra-thin and custom-shaped batteries often require special equipment such as laser cutting, precision stacking, and vacuum sealing. These processes demand high stability and make yield control more difficult.
+Therefore, early-stage design must work closely with manufacturing teams to evaluate:
+Process limits (minimum thickness, bending radius, etc.)
+Production line compatibility
+Yield and cost structure
+Mass production scalability
+Without this coordination, even well-designed batteries may face cost issues or unstable delivery in mass production.
+Wearable devices are driving major changes in lithium battery design. To fit strict limits on size, thickness, and shape, batteries are evolving from traditional rigid forms to pouch, ultra-thin, curved, and even distributed structures. At the same time, engineers must balance energy density, safety, flexibility, and manufacturability, which often involves clear trade-offs in performance. Looking ahead, advances in solid-state batteries, new materials, energy harvesting, and smarter power management will continue to improve performance while enabling smaller, more flexible wearable devices.
+Website Operations and Content Manager , LanDazzle Battery
+Kaia Zhang is a Website Operations and Content Manager at LanDazzle Battery, where she focuses on translating complex battery technologies into clear, accessible insights for the wearable and XR industries. She has in-depth knowledge of custom-shaped lithium polymer batteries and their application in smart glasses, VR/MR headsets, smartwatches, and other compact wearable devices. Her work centers on understanding product-level constraints—such as form factor, energy density, and thermal performance—and communicating how battery design influences real-world device design and user experience.
+See more from",https://www.batterytechonline.com/portable/advanced-battery-designs-shaping-wearable-device-evolution,Battery Tech Online,电池,无,2026-06-28T15:16:26+00:00
+"Sunrun, Tesla, and Renew Home Support Hyperscaler Power Demands",2026-06-27,"The three companies collaborate to leverage solar panels, batteries, and thermostats to meet hyperscaler energy demands and support PJM grid reliability.
+June 26, 2026
+The companies offer 16.8 GW of flexible capacity across the nation's largest data center markets.
+Courtesy of GlobeNewswire.
+Hyperscalers are
+reshaping the energy landscape
+, driving unprecedented demand for electricity as they expand their vast networks of data centers. This surge has highlighted the urgent need for innovative energy storage solutions to ensure grid reliability and meet the growing power requirements of these data centers.
+To address these challenges,
+PJM Interconnection
+, the largest regional transmission organization (RTO) in North America, is undergoing significant changes to its energy management. Spanning all or parts of 13 states (e.g., Delaware, Maryland, New Jersey, Ohio, Pennsylvania, Virginia, West Virginia, and Washington D.C), PJM coordinates the movement of wholesale electricity for over 67M people. Acting as the ""air traffic controller"" for the electric grid, PJM balances supply and demand in real time to prevent blackouts and ensure reliability.
+However, the organization is now facing unprecedented challenges as it navigates the rapid retirement of fossil-fuel generators, surging electricity demand, and the rise of hyperscalers driven by the global artificial intelligence (AI) data center boom.
+Why GM Believes V2G Is Key to Grid Resilience
+Hyperscalers, including Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), and Meta, are reshaping the energy landscape. These companies operate vast networks of data centers that power cloud computing, artificial intelligence (AI), and internet services. A single hyperscaler data center campus can consume as much as 1,000 megawatts (1 GW) of power, which is equivalent to the output of a nuclear power plant or enough electricity to supply 750,000 homes.
+One of PJM's territories, the Northern Virginia ""Data Center Alley,"" is the epicenter of this transformation. As the world's largest data center market, the territory is experiencing unprecedented load growth, with hyperscalers driving electricity demand to levels never seen before. This surge has forced PJM to adapt its grid management strategies, introducing measures like the Reliability Backstop Process to address the rapid pace of demand growth. Additionally, hyperscalers are challenging traditional utility models by co-locating data centers near power plants, sparking debates over who should bear the cost of grid infrastructure upgrades.
+A Cybertruck using Powerwall technology to charge. Tesla.
+In this context, an
+announcement
+ChargePoint Express Charger Tackles Reliability With Modular Design and Air Cooling System
+The partnership aims to aggregate millions of existing home energy devices—such as batteries, smart thermostats, and vehicle-to-grid (V2G) systems—into a distributed power plant capable of injecting net new electrons onto the grid. This ""capacity-as-a-solution"" framework is designed to free up transmission capacity, ease congestion, and extend the depth of available energy resources, all while lowering household energy costs and reducing the need for expensive new infrastructure.
+The collaboration between Sunrun, Renew Home, and Tesla addresses the unique challenges posed by hyperscalers. By tapping into the latent capacity of residential energy systems, the partnership offers a faster, more cost-effective alternative to traditional grid expansion. According to the announcement, the key benefits include:
+Here Are 7 of the Fastest-Charging EV Batteries in 2026
+Better grid utilization:
+Immediate deployment:
+With 300 megawatts of capacity already available in Virginia and plans to scale to 500 megawatts by 2030, the initiative provides a near-term solution to the hyperscaler-driven energy crunch.
+National coverage:
+The partnership's extensive footprint across major electricity markets ensures that hyperscalers can access the energy they need, wherever they operate.
+Customer rewards:
+Households participating in the program can earn rewards and reduce their energy bills, creating a win-win scenario for consumers and utilities alike.
+A Sunrun customer powered his home with his solar-plus-storage system during a neighborhood outage in Houston. Courtesy of Sunrun.
+While the potential of this partnership is immense, its success hinges on the ability to bring electric utilities and state regulators on board. These stakeholders play a critical role in enabling the large-scale deployment of distributed energy resources. Persuading them to embrace this innovative framework will require demonstrating its benefits not only for hyperscalers but also for the broader energy ecosystem.
+Electric utilities must recognize the value of distributed energy in reducing peak demand and deferring costly infrastructure investments. State regulators, meanwhile, must create policies that incentivize the adoption of distributed energy solutions while protecting ratepayers from unnecessary costs. By aligning the interests of hyperscalers, utilities, and regulators, this initiative can accelerate the transition to a more resilient, cost-effective, and sustainable energy future.
+As hyperscalers race to bring AI compute online and electrification accelerates, the stakes for America's energy grid have never been higher. The partnership between Sunrun, Renew Home, and Tesla demonstrates the potential of distributed energy resources to meet these challenges head-on.
+Maria Guerra
+Senior Editor-Battery Technology, Informa Markets
+Maria L. Guerra is a Senior Editor at
+Battery Technology
+, blending her engineering background with a passion for technology journalism. She holds a Bachelor of Science in Electrical Engineering from Universidad Metropolitana in Caracas, Venezuela, and a Master of Science in Electrical Engineering from NYU Tandon School of Engineering.
+Guerra's career spans power systems engineering, oil & gas consulting, and technical writing and editing. She worked for several years at Kellogg, Brown & Root Ltd. (KBR) in the UK, conducting power system studies and providing technical support for offshore and onshore projects. During her internship at Pequiven S.A. in Venezuela, she trained neural networks using MATLAB (Kohonen Map) to estimate electrical circuit variables for oil wells (e.g., voltage, current, and power).
+In addition to her engineering roles, Guerra worked as a freelance technical editor, refining complex technical content for clarity and accuracy. She later became a Power/Analog Editor at
+Electronic Design
+, covering advancements in the semiconductor market, focusing on power/analog electronics systems.
+Battery Technology
+, Guerra now delivers in-depth coverage of battery manufacturing, EV advancements, energy storage systems, and the evolving landscape of critical minerals and second-life batteries. She is passionate about uncovering the stories that shape the future of electrification, from cutting-edge battery innovations to policy shifts driving sustainable energy.
+Guerra is also a member of
+The Battery Show North America Advisory Board
+, where she contributes her expertise to advising on industry trends and speaker selection for The Battery Show North America, while helping to shape discussions on battery technology and electrification. She was part of the award-winning Battery Technology team recognized with a
+Neal Award for Best Coverage of the 2024 Election
+Neal Award for Best Explanatory Content
+in 2026 for her coverage of battery breakthroughs.
+Maria Guerra is based in Brooklyn, NY, and can be reached at
+[email protected]
+See more from
+Maria Guerra",https://www.batterytechonline.com/charging/sunrun-tesla-and-renew-home-support-hyperscaler-power-demands,Battery Tech Online,电池,无,2026-06-28T15:16:28+00:00
+Why Danone is in the top 10 of Gartner's Supply Chain Top 25,2026-06-27,"Why Danone is in the top 10 of Gartner's Supply Chain Top 25
+Prioritise Us
+Vikram Agarwal, Chief Operations Officer at Danone, is proud to be in Gartner's Supply Chain Top 25, ""a true benchmark for global supply chain excellence""
+In today's volatile world, the reliable production of food and beverages is vital. By 2050, the global supply chain will be needing to feed 10 billion people, but the food industry is vulnerable to weather decline and supply chain disruption.
+Danone is on a mission to bring ""
+health through food
+to as many people as possible"", according to its website. As a result, it is making active changes to its strategy in order to modernise and meet demands.
+Through this, it has made the top 10 of Gartner's Supply Chain Top 25 list.
+For more than 100 years, Danone has been delivering a strong range of products to consumers around the world. Now, it is recognised as a global leader in
+dairy and plant-based products
+. It is constantly growing and investing into its nutrition research in order to continue to make a positive impact on people and the planet.
+With a portfolio of international brands – including Alpro, Oykos, Evian, Danimals and Volvic – its products are sold in more than 120 markets. The compnay generated €27.3bn (US$30.9bn) in sales in 2025.
+The company aims to work with its partners to
+create innovations
+and support vulnerable communities, while creating long-term value for Danone, as part of its Renew Danone strategy.
+As a result of its strategic operations, Gartner placed Danone sixth in its Supply Chain Top 25 list. It cited Danone's '4C Performance Management Framework' as a core driver of its success.
+This framework focuses on:
+As the global supply chain has evolved into an interconnected system, it has become increasingly complex. Now, more than ever, data points need to be managed in order to meet demand and understand customer needs.
+As a result, more companies have been turning to AI in order to develop faster choices, smarter operations and more personalisation for the consumer.
+Danone, therefore, has been deploying
+AI-enabled digital twins
+and GenAI tools to increase workforce capabilities.
+Now, frontline workers have become digital experts and can use this technology to predict maintenance, ensure strategic purchasing and explore cost forecasting.
+Through this, the company has been able to rejuvenate FMCG operations, using technology alongside people to unlock value.
+""Proud to see Danone once again recognised in the Gartner for Supply Chain Top 25 — a true benchmark for global supply chain excellence. A journey from 42nd to 6th place in just five years, and the top-ranked FMCG this year,"" said Vikram Agarwal, Chief Operations Officer at Danone on LinkedIn.
+""Behind this achievement is the relentless work of our Operations teams—transforming our supply chain into a growth accelerator powered by insight, agility and innovation.
+""We are building a resilient supply chain that is a true source of competitive advantage—enabling us to better serve our consumers, patients and customers every day.""
+Gartner also recognised Danone for its deep vertical integration, which has reduced the company's exposure to
+ingredient market volatility
+, as well as its methane reduction practises and regenerative agriculture.
+Danone was the first company to commit to a 30%
+methane reduction
+Through regenerative agriculture practises and other sustainability measures, it had already achieved a 25% reduction in 2024. Its work to meet consumer demand through innovation and sustainable practises has ensured it takes its place among the leading global supply chains.",https://supplychaindigital.com/news/why-danone-is-in-the-top-10-of-gartners-supply-chain-top-25,Supply Chain Digital,综合媒体,关键原材料/矿产,2026-06-28T15:16:58+00:00
+"G7, Lloyds & Hormuz: Top Supply Chain News This Week",2026-06-27,"G7, Lloyds & Hormuz: Top Supply Chain News This Week
+Prioritise Us
+This week's top supply chain news includes G7 plans to secure mineral sourcing and Allianz revealing US$125bn cargo awaiting passage in Strait of Hormuz
+Critical Mineral Supply Chains Need Securing, say G7 Leaders
+As part of the talks taking place at the Évian summit, hosted in France, G7 leaders have agreed to a targeted reduction of dependency for rare earths and permanent magnets.
+The proposed agreement is for sourcing from non-G7 suppliers to fall to less than 60% by 2030, with a long-term goal of 50%. Other critical minerals will also get similar hard targets by the end of 2026.
+Supply chains need to diversify more than ever before, with resilience becoming crucial in the face of
+regular global disruption
+and rising geopolitical tensions.
+Lloyds: 37% of UK Firms Experience Supply Chain Disruption
+Lloyds Bank's Business Barometer survey, which spans companies from all regions and sectors and is made up of 1,200 UK firms, found that the most frequently cited consequences of the recent worldwide uncertainty were
+rising costs
+(45%) and supply chain disruption (37%).
+Overall, more than half (57%) of firms surveyed said that they had felt the effects of an unpredictable global landscape, which can be seen as a remnant of geopolitical fragmentation, tariffs and tensions.
+It's not all negative sentiment for businesses in the UK however, as despite feeling the effects of the volatility, they remain largely positive about this year's prospects.
+Inside Didero's Physical Supply Chain Solutions
+Global supply chains continue to depend on fragmented communication systems that scatter information across emails, PDFs, spreadsheets and supplier messages.
+A New York startup called Didero has developed an AI platform designed to convert these dispersed data points into
+automated procurement workflows
+, targeting the operational complexity that manufacturers face when managing direct materials sourcing.
+The company drew inspiration from Denis Diderot's 1751 Encyclopédie project.
+Gartner Supply Chain Top 25: NVIDIA Takes a Top Spot
+NVIDIA has been recognised for its excellence in supply chain operations, named as a leader in the Gartner Top 25.
+Leading organisations have been paying attention to the macrotrends shaping the market and embracing technology in new ways.
+For the second year in a row,
+has taken the top spot in the list, outranked only by Schneider Electric.
+Allianz: US$125bn Cargo Awaiting Passage in Strait of Hormuz
+There is an estimated US$125bn in combined vessel and cargo value, which is being carried by around 1,150 vessels, that is
+waiting to resume normal operations in the Persian Gulf
+as of 15 June 2026,
+According to the latest Safety and Shipping Review by Allianz Commercial, this cargo is equivalent to 29 million gross tonnes of shipping capacity and 20,000 seafarers.
+It is the first time in the Strait's history that the logistics network connecting the Persian Gulf to the Gulf of Oman has been closed.",https://supplychaindigital.com/news/g7-lloyds-hormuz-top-supply-chain-news-this-week,Supply Chain Digital,综合媒体,关键原材料/矿产,2026-06-28T15:17:00+00:00
+Mercedes posts Tesla-like efficiency hauling 36 tons through a German winter,2026-06-27,"| Jun 27 2026 - 5:48 am PT
+Despite the rapidly growing number of heavy-duty EVs on western roads, a number of myths still persist about range, charging infrastructure, and economic viability. To combat those myths, Mercedes-Benz is sharing real-world data from 80 of its deployed electric semi trucks. Here’s what they found.
+The data released by Mercedes-Benz covers 80 battery-electric heavy trucks deployed in the company’s own logistics fleet over thousands of trips, thousands of charging cycles,
+and millions of miles
+. Their conclusion:
+electric long‑haul transport is viable today
+A real‑world example from the Ulm‑based logistics company Seifert illustrates a route between Wörth am Rhein and Bielefeld. An eActros 600 with an average gross combination weight of 36 metric tons achieves a daily mileage of around 600 km, with approximately half of the charging events taking place at public charging points. On this route, the electric truck also achieves toll savings of more than €4,000/mo. Annually, this route saves 90 metric tons of CO2e. Average energy consumption between November and February is 100 kWh per 100 km, which is equivalent to approximately 11 liters of diesel.
+The data demonstrate that demanding long‑distance routes can already be operated reliably and predictably on this route using today’s public charging infrastructure and economically as well, when TCO is considered.
+MERCEDES-BENZ
+Those results mirror previous studies from groups like
+Transport Canada
+, which followed Class 8 electric trucks across a year of North American operations, and further support the idea that battery powered logistics are ready for prime time,
+saving commercial vehicle fleets both time
+… under the right circumstances.
+The report repeatedly shows that success depended less on vehicle capability than on operational alignment. Routes with predictable distances, centralized terminals and controlled return schedules allowed electric trucks to operate efficiently and reliably, while variability and scheduling pressure quickly exposed operational flaws.
+Interestingly, too, Mercedes-Benz’ operational data shows its cabover-style eActros trucks achieving an impressive 1.61 kWh / mile efficiency while rolling out at an
+of 36 metric tons (~79,400 lbs.) combined vehicle weight.
+That number compares
+favorably to the Tesla Semi team’s claimed 1.55 kWh / mile efficiency
+. It should also be noted that ArcBest,
+the logistics company operating the Tesla Semi prototypes that recorded those numbers
+, is traditionally an LTL, or “
+less-than-truckload
+” freight carrier, and did not reveal the average combined vehicle weight of the loads it was running when its trucks recorded that 1.55 kWh / mile number.
+Mercedes’ number, for what its worth, was achieved under heavy loads and in cold weather (between Novemeber and February), while the ArcBest numbers were recorded on routes between Reno, Nevada, and Sacramento, California – which get cold enough, but are hardly comparable to a German winter.
+All of which is to say that, regardless of which electric semi truck your fleet eventually chooses to deploy, it might be a lot more efficient –
+and save you a lot more money
+– than you might think.
+If you’re considering going solar, it’s always a good idea to get quotes from a few installers. To make sure you find a trusted, reliable solar installer near you that offers competitive pricing, check out
+, a free service that makes it easy for you to go solar. It has hundreds of pre-vetted solar installers competing for your business, ensuring you get high-quality solutions and save 20-30% compared to going it alone. Plus, it’s free to use, and you won’t get sales calls until you select an installer and share your phone number with them.
+Your personalized solar quotes are easy to compare online and you’ll get access to unbiased Energy Advisors to help you every step of the way.
+Get started here
+Subscribe to Electrek on YouTube for exclusive videos
+and subscribe to the
+I’ve been in and around the auto industry for over thirty years, and have written for a number of well-known outlets like CleanTechnica, Popular Mechanics, the Truth About Cars, and more. You can catch me at Electrek Daily’s Quick Charge, The Heavy Equipment Podcast, or chasing my kids around Oak Park, IL
+Find a reliable home solar and battery installer and save 20-30% compared to going it alone.
+Qmerit makes electrification easy — connecting you with trusted pros who get it done right.",https://electrek.co/2026/06/27/mercedes-posts-tesla-like-efficiency-hauling-36-tons-through-a-german-winter/,Electrek,电池,EV,2026-06-28T15:17:41+00:00
+"Lower temperatures, higher heat pump efficiency - pv magazine Global",2026-06-27,"Applications & Installations
+Featured in The power puzzle – 06 – 2026
+A large-scale study of UK heat pump installations has revealed a major gap between hypothetical performance and real-world data. Changes to commissioning could make all the difference. pv magazine caught up with Oxford University’s Jan Rosenow and Heat Pump Monitor’s Trystan Lea to hear how installers can achieve higher seasonal performance factor (SPF) ratings for their customers.
+Matthew Lynas
+Applications & Installations
+Technology & Products
+Electrification
+The quality of commissioning work will impact heat pump efficiency and, when done correctly, can result in major cost savings over a system’s lifespan. UK heat pumps must be installed by an MCS Certified installer to be eligible for grant support from the government’s Boiler Upgrade Scheme. | Image: MCS
+A large-scale study of UK heat pump installations has revealed a major gap between hypothetical performance and real-world data. Changes to commissioning could make all the difference. pv magazine caught up with Oxford University’s Jan Rosenow and Heat Pump Monitor’s Trystan Lea to hear how installers can achieve higher seasonal performance factor (SPF) ratings for …",https://www.pv-magazine.com/2026/06/27/lower-temperatures-higher-heat-pump-efficiency/,pv magazine,综合新能源,光伏、氢能、储能,2026-06-28T15:18:03+00:00
+The Surprising Reason Sugary Gum Helped Lower Blood Pressure,2026-06-27,"Chewing sugary gum may boost the heart and blood vessel benefits of nitrate-rich vegetables.
+What happens in your mouth after eating vegetables may be just as important as the vegetables themselves. Researchers at
+King’s College London
+have found the first evidence that chewing sugary gum after consuming nitrate-rich vegetables such as beetroot, spinach, and kale can temporarily enhance the body’s ability to lower blood pressure.
+Vegetables absorb nitrate from the soil, but bacteria in the mouth must convert it into nitrite before the body can use it. Nitrite relaxes and widens blood vessels, improving circulation and reducing blood pressure.
+Since this conversion relies on oral bacteria, scientists have been investigating ways to optimize the process. One little-studied idea is that making saliva more acidic could improve nitrate conversion, leading the team to test whether sugary chewing gum could influence the body’s response to dietary nitrate.
+To examine that possibility, the study tested whether sugar-containing gum, which is acidic and lowers mouth pH, could increase nitrite production.
+Dr. Andrew Webb, Clinical Senior Lecturer in the School of Cardiovascular & Metabolic Medicine & Sciences, King’s College London, said: “Whether and how the acidity of the saliva in the mouth impacts the conversion of the inactive nitrate, to the more active nitrite, is a fundamental question, as it impacts a range of important physiological functions, including blood pressure. However, this process has not been studied much.
+“While most research suggests that increasing acidity inhibits the conversion of nitrate, this has never been investigated in the whole body, over several hours.
+“Incidentally, we previously found that combining grapefruit juice with beetroot juice decreased the acidity of the saliva and inhibited the conversion of nitrate to nitrite in the saliva. So, we wanted to formally test whether doing the opposite – increasing the acidity of the saliva – would enhance the conversion of nitrate to nitrite.”
+Healthy volunteers drank a shot of beetroot juice and were randomly assigned to chew either sugar-containing (Hubba Bubba bubble) gum or sugar-free (Wrigley’s Extra) chewing gum for three to six hours. Blood pressure was measured, and blood and saliva samples were analyzed throughout the study. At least one week later, the volunteers returned and repeated the experiment with the other gum.
+When participants chewed Hubba Bubba, their saliva became more acidic than it did with sugar-free gum, shown by (measured by a 1.4 decrease in pH). They also had 45% more nitrite in the mouth and 25% more nitrite circulating through the body than when they chewed sugar-free gum.
+Sugary gum also significantly reduced systolic blood pressure (when the heart pushes blood out) and diastolic blood pressure (when the heart relaxes between beats) by almost 3 over 2 mmHg compared with sugar-free gum.
+The finding may matter for athletes who already use beetroot to support performance, but the researchers emphasize that sugary gum should not be treated as a blood pressure therapy.
+Dr. Webb added: “The effects were only short-term, lasting several hours, and long-term use of sugar-containing products would not be recommended for dental health. Nonetheless, the classic culinary tradition of following a starter and a main course, especially if they contain nitrate-rich salad leaves and vegetables, with a sweet dessert, which could be fruit, may temporarily increase blood pressure-lowering and exercise enhancement.
+“We also suggest that sugary chewing gum will have a greater effect compared to drinking sugary drinks, as it stays in the mouth for a longer period of time.”
+Co-author Dr. Charlotte Mills, University of Reading, added: “The bacteria that live in our mouths play a critical role in converting nitrate from foods such as beetroot into beneficial compounds that help relax blood vessels and lower blood pressure. Our findings suggest that the presence of sugar may create a more favorable environment for this process.
+“We are certainly not suggesting that people should start chewing sugary gum regularly. Frequent sugar consumption is harmful for dental health and is also detrimental to cardiometabolic health when consumed in excess. Instead, our findings provide a proof of concept that we may be able to improve how the body processes dietary nitrate, and future research should focus on developing tooth-friendly, metabolically sound approaches that achieve the same effect.
+“The challenge now is to identify alternative strategies that are both effective and appropriate for long-term use.
+“Because dietary nitrate is already a recognized sports supplement, there is potential to optimize how athletes use it. If we can enhance nitrate conversion, we may be able to improve the physiological benefits that athletes obtain from nitrate-rich foods.
+“We found that something as simple as the type of chewing gum used alongside beetroot juice can influence how effectively the body converts dietary nitrate into compounds that help lower blood pressure.”
+The next proposed step is a larger study in athletes to better understand how sugary chewing gum may affect nitrate conversion, blood pressure, and athletic performance.
+Reference: “Lowering salivary pH with sugar-containing gum augments salivary nitrite production and blood pressure reduction with dietary nitrate (beetroot juice)” by Andrew J. Webb, Harriet Clift, Callum Hill, Nur Mousa, Navanithan Arun Jayaraj, Jasmine Quraishi, Charlotte E. Mills and Kevin O’Gallagher, 18 June 2026,
+British Journal of Clinical Pharmacology
+DOI: 10.1002/bcp.70640
+Never miss a breakthrough:
+Join the SciTechDaily newsletter.
+Follow us on
+Blood Pressure
+King’s College London",https://scitechdaily.com/the-surprising-reason-sugary-gum-helped-lower-blood-pressure/,scitechdaily,综合科技,无,2026-06-28T15:18:10+00:00
+Hidden Virus May Have Infected 9.4 Million People – Scientists Say We’ve Missed Most Cases,2026-06-27,"New research indicates the Oropouche
+has spread far more widely than reported, exposing major gaps in disease surveillance.
+Until recently, few people had heard of the Oropouche virus. But after a massive 2023 outbreak swept across Brazil, infecting tens of thousands of people, causing the country’s first confirmed death, and spreading far beyond its traditional Amazonian range, the virus quickly became an international concern.
+The World Health Organization (WHO) has since urged the rapid development of new tools to improve surveillance, prevention, and control.
+Two studies published in
+Nature Medicine
+Nature Health
+suggest that Oropouche virus has affected far more people than official figures show. By combining mathematical modeling, historical data, and blood bank analysis, the researchers estimate that the virus has infected about 9.4 million people across Latin America and the Caribbean since 1960. Brazil alone may account for roughly 5.5 million infections.
+The illness causes fever and symptoms that can resemble dengue. In some cases, it can trigger severe complications, including neurological conditions such as meningitis and meningoencephalitis, as well as microcephaly when the virus passes from a mother to a fetus.
+“We’re facing a disease of much greater magnitude than previously imagined, which requires greater attention. We estimate that one in every thousand diagnosed cases progresses to serious complications such as neurological disorders, microcephaly, miscarriages, and liver complications, raising the priority level for public health,” says José Luiz Proença Módena, coordinator of the Laboratory for the Study of Emerging Viruses (LEVE) at the State University of Campinas (UNICAMP) and co-author of the studies, which were supported by FAPESP.
+In Manaus, the largest city in the Amazon region, an estimated 300,000 people were infected between 2023 and 2024. That figure is nearly 260 times higher than the confirmed case count. According to the researchers, antibodies against the virus rose from 11.4% of the population in November 2023 to 25.7% in November 2024, a sign that transmission was widespread.
+“The capital of the state of Amazonas is a city with over two million inhabitants and is considered the gateway to the Amazon region. The striking underreporting occurred due to several factors, mainly because the virus circulated silently before reaching the outskirts of the urban center, with many cases being asymptomatic or mild and going undiagnosed,” says William de Souza, a professor at the University of Kentucky in the United States and co-author of the study.
+That pattern helps explain how Oropouche virus reached all Brazilian states and spread into neighboring countries, leading the WHO to issue an international alert.
+The situation is especially difficult in remote parts of the Amazon, where access to medical care can be slow and logistically complex. “Patients in remote regions of the Amazon often face travel times of more than 24 hours to reach a healthcare facility. That means that many cases likely went undiagnosed, allowing the virus to circulate silently until it reached the outskirts of a major urban center,” Souza says.
+The researchers found that Oropouche virus can keep circulating continuously, often at levels too low for standard surveillance systems to detect. “In our study, we identified two major Oropouche virus outbreaks in the Amazonian capital: one in the 1980s and one in 2023. Each one infected more than 12% of the population,” says Módena.
+They also found that people infected in the 1980s were still able to neutralize the newer viral strain. “That suggests long-lasting cross-protection, which could inform future vaccination strategies,” Souza explains.
+The 2023 return of Oropouche virus confirmed that the disease had spread widely across Brazil. Espírito Santo recorded the highest cumulative rate, with 318 cases per 100,000 people. The Southeast became the new center of reported transmission, accounting for 57.9% of cases.
+Oropouche differs from better-known arboviruses because it is spread by the gunpowder midge (
+Culicoides paraensis
+). The disease was 11 times more common in rural areas than in cities.
+Aedes aegypti
+[the mosquito that transmits
+], which breeds in standing water, the gunpowder midge lays its eggs in moist soil rich in organic matter. It’s a bush mosquito found in humid areas. That’s why cases are predominantly found in rural rather than urban areas,” Souza explains.
+“Historically, this disease was closely linked to areas with banana and cocoa plantations, but by studying the ecology of the virus, we found that the issue isn’t the fruit itself but rather the ideal conditions of moist soil rich in organic matter. High temperatures and rainfall are also conducive to the spread of the midge,” says the researcher.
+The rural profile of the disease changes what public health responses need to look like. “Combating the disease is very different from other mosquito-borne arboviruses, which are more urban. Strategies such as fumigation in squares and on paved streets are likely ineffective against Oropouche. The gunpowder midge doesn’t live in household drains but rather in the humidity of forested areas and the vegetation on the outskirts of cities,” Souza explains.
+The gunpowder midge is also about three times smaller than an ordinary mosquito, small enough to pass through many mosquito nets. But the outbreak’s aggressive resurgence appears to involve more than climate. The researchers also point to a new viral recombination, or reassortment.
+In the study, the researchers identified a new viral lineage created through genetic reassortment, which happens when two different viruses infect the same cell. This process can help the virus replicate more efficiently and make it more difficult for antibodies from past infections to neutralize it. As a result, the pathogen may be better equipped to expand into new areas.
+“The reemergence of Oropouche shows us that we can’t combat all arboviruses with the same approach because the gunpowder midge doesn’t follow the same rules as
+. That makes current surveillance against the Oropouche virus insufficient and drastically underestimates the true scale of the disease,” says Módena.
+Módena argues that surveillance needs to reach beyond large urban centers. “Although long-term immunity appears to exist for those who have already been infected, the speed with which the virus has spread across all Brazilian states shows that the healthcare system needs new detection systems, including those focused on surveillance far from major urban centers,” he states.
+The researchers call for structural changes in how Oropouche virus is monitored. They emphasize continuous serological studies, the use of blood banks as early warning systems, and the integration of digital and genomic tools to track outbreaks and mutations. They also highlight the need to decentralize laboratory testing and build active, permanent surveillance that combines environmental, serological, and genomic data to anticipate risks and guide vaccination strategies.
+“Transmission dynamics of Oropouche virus in Latin America and the Caribbean” by Erika R. Manuli, Xinyi Hua, Gabriel C. Scachetti, Julia Forato, Ingra M. Claro, Geovana M. Pereira, Livia Sacchetto, Oscar Cortes-Azuero, Ana Carolina Bernardo, Cláudia F. Resende, Natália B. S. Bacarov, Ligia Capuani, Shirlene T. S. de Lima, Ronaldo de Jesus, Rodrigo B. Kato, Bárbara B. Salgado, Carolina M. L. Singh, Nadielle C. Pereira, Renato S. Reis, Sérgio R. L. Albuquerque, Richard Stanton, Vanderson S. Sampaio, Ana I. Bento, Marielton P. Cunha, Oliver Ratmann, Nuno R. Faria, Scott C. Weaver, Pritesh J. Lalwani, Henrik Salje, Allyson G. Costa, José Luiz Proenca-Modena, Ester C. Sabino and William M. de Souza, 24 March 2026,
+Nature Medicine
+DOI: 10.1038/s41591-026-04221-z
+“Ecological and demographic drivers of Oropouche virus transmission” by Xinyi Hua (华心怡), Laura W. Alexander, Ingra M. Claro, Yucai Shao, Ronaldo de Jesus, Shirlene T. S. de Lima, Paulo C. Ventura, Rodrigo B. Kato, Marco Ajelli, André B. B. Wilke, Marc A. Suchard, Nuno R. Faria, José Luiz Proenca-Modena, Laura B. Dickson, Ana I. Bento and William M. de Souza, 24 March 2026,
+Nature Health
+DOI: 10.1038/s44360-026-00065-6
+The research was funded by the National Council for Scientific and Technological Development (CNPq), which is affiliated with Brazil’s Ministry of Science, Technology, and Innovation; the Todos Pela Saúde Institute; the U.S.
+National Institutes of Health
+(NIH); and the British philanthropic organization the Wellcome Trust.
+Never miss a breakthrough:
+Join the SciTechDaily newsletter.
+Follow us on
+Epidemiology
+Infectious Diseases
+Public Health
+São Paulo Research Foundation
+Deadly Hantavirus Outbreak on Cruise Ship Sparks Global Health Alert
+What Is Hantavirus? The Deadly Disease Raising Alarm Worldwide
+This Overlooked Health Condition Could Raise Your Risk of Death by 83%
+Is Sitting on a Public Toilet Seat Actually Dangerous? The Science Might Surprise You
+Mysterious New Bacteria Discovered in the Amazon Raises Global Health Questions
+COVID-19 Virus Can Lurk in Sperm for 100+ Days After Infection
+RSV – A Serious Health Threat That the Public Knows Little About
+New Coronavirus Could Infect Millions During Hajj in Saudi Arabia
+West Nile Virus Might Be Linked to Kidney Problems",https://scitechdaily.com/hidden-virus-may-have-infected-9-4-million-people-scientists-say-weve-missed-most-cases/,scitechdaily,综合科技,无,2026-06-28T15:18:12+00:00
+NASA’s Lucy Uncovers Ancient Water Clues on a Weirdly Wobbling Asteroid,2026-06-27,"NASA’s Lucy spacecraft revealed that a bizarre wobbling, peanut-shaped asteroid holds surprising clues about ancient water and the origins of the solar system.
+Even a relatively small asteroid can have a surprisingly dramatic history. During a close flyby of the asteroid Donaldjohanson, NASA’s Lucy spacecraft discovered an oddly shaped world that wobbles through space, bears scars from an ancient collision, and even preserves evidence that liquid water briefly existed on its parent body long ago.
+The asteroid formed about 155 million years ago when fragments from a violent impact slowly came back together. Since then, sunlight has steadily altered its rotation through a subtle but powerful process, leaving behind clues to its long and eventful evolution.
+A timelapse video made from images taken by NASA’s Lucy spacecraft as it approached the asteroid Donaldjohanson on April 20, 2025. The L’LORRI (Lucy Long Range Reconnaissance Imager) instrument, the spacecraft’s high-resolution black-and-white imager, collected these images over two hours as the spacecraft rapidly closed in on the asteroid from an initial separation of more than 58,000 miles (93,000 km), until the spacecraft passed a mere 650 miles (1000 km) from the 5-mile (8 km) wide asteroid. Credit: NASA/Goddard/SwRI/JHU-APL
+On April 20, 2025, Lucy flew within 650 miles of Donaldjohanson while traveling through the main asteroid belt on its way to the Jupiter Trojan asteroids. The spacecraft captured the first detailed images and scientific measurements of this previously unexplored object.
+Rather than rotating around a single axis like most planets and asteroids, Donaldjohanson was found to have a much more complicated motion involving two separate rotational movements. The flyby also revealed its distinctive peanut-like shape along with numerous craters and ridges covering its surface.
+The encounter served as a full-scale rehearsal before Lucy begins exploring the Trojan asteroids, starting with its flyby of Eurybates on Aug. 12, 2027. Everything aboard the spacecraft operated as planned, while scientists gained an unexpected opportunity to compare Donaldjohanson with two better-known asteroids, Bennu and Ryugu. Those two bodies have similar compositions but followed very different evolutionary paths after their formation.
+The Lucy team’s initial findings were published June 18 in the journal
+The asteroid Donaldjohanson is shown slowly rotating in a tumbling, non-principal axis motion, with its angular momentum vector and rotation axes indicated. The surface is colored by gravity slope, which measures the angle between the local surface and the direction of gravity. Higher values (warmer colors) indicate steeper terrain relative to the local gravitational pull. Regions with limited stereo image coverage have been masked out where the shape model is less well constrained. Credit: Kel Elkins/NASA’s Science Visualization Studio/DLR
+Before Lucy arrived, astronomers using Earth-based telescopes noticed regular changes in the asteroid’s brightness, indicating that the elongated object completed one rotation every 10.5 Earth days.
+Lucy revealed that the situation is much more complex. Instead of spinning smoothly, Donaldjohanson behaves more like a wobbling top. It rotates end over end every 10.5 days while also rocking back and forth around its long axis every 26.5 days.
+Earlier observations suggested the asteroid was elongated, but Lucy’s close-up images showed that it is actually a “bilobate” object consisting of two connected lobes separated by a narrow neck, giving it the appearance of a peanut.
+Scientists believe these two lobes were once separate fragments created during an asteroid collision. Their own gravity eventually pulled them together into a single object.
+Researchers estimate that Donaldjohanson originally spun at least 10 times faster than it does today. Over the past 20 million to 60 million years, its rotation gradually slowed. As the spin decreased, the balance between gravity and centrifugal force changed, allowing loose rocks and debris to slide downhill and soften the appearance of many impact craters seen in Lucy’s images.
+The researchers believe the slowdown was caused by the YORP effect, a process driven by sunlight.
+As the Sun warms different parts of an asteroid’s surface, those areas release the absorbed energy as infrared radiation. Although the force produced is extremely small, an unevenly shaped asteroid experiences a tiny twisting effect that can gradually alter its rotation over millions of years.
+This same process can either slow or speed up other asteroids. Bennu, for example, now rotates once every four hours, while Ryugu spins about once every seven hours. Scientists think both of those asteroids once rotated much more slowly before the YORP effect accelerated them.
+As Lucy sped past Donaldjohanson at roughly 30,000 mph, its instruments detected iron-rich clay minerals on the asteroid’s surface.
+These minerals could only have formed in the presence of liquid water sometime in the distant past. However, researchers concluded that the water was present only briefly because prolonged exposure typically replaces the iron in these clays with elements such as magnesium.
+That contrasts with Bennu and Ryugu, where scientists found magnesium-rich clay minerals that point to much longer periods of water exposure, possibly lasting millions of years while those asteroids were still part of larger parent bodies.
+The different mineral signatures suggest that the parent asteroids may have formed at different times or in different regions of the early solar system before eventually ending up in the main asteroid belt.
+Donaldjohanson is believed to be made from the remains of a larger asteroid that contained both carbon and water and was shattered in a collision within the main asteroid belt. Scientists think Bennu and Ryugu share a similar origin.
+The differences, however, are just as important.
+Donaldjohanson formed only about 155 million years ago, making it far younger than Bennu and Ryugu, which originated roughly 1 to 2 billion years ago. It has also stayed in the asteroid belt throughout its existence, while Bennu and Ryugu gradually migrated into orbits that periodically bring them close to Earth, making them ideal targets for sample return missions.
+“It’s helpful for scientists to compare Donaldjohanson with asteroids like Bennu and Ryugu, which are seemingly similar asteroids, because every subtle difference is another clue to our origin story,” said Simone Marchi, Lucy deputy principal investigator and lead author of the study at the Boulder, Colorado, office of the Southwest Research Institute.
+“Once we start learning more about the Trojans, a completely different population of space rocks with very different histories, our understanding of solar system formation is destined to be challenged,” said Marchi.
+Donaldjohanson is only a preview of Lucy’s primary mission.
+Named after the famous fossilized human ancestor discovered in Ethiopia in 1974, Lucy will become the first spacecraft to explore Jupiter’s Trojan asteroids. These ancient, well-preserved objects formed during the earliest days of the solar system and may help scientists better understand how the planets formed, migrated, and eventually settled into their present orbits.
+Reference: “The Lucy flyby of (52246) Donaldjohanson: A bilobed asteroid with tumbling rotation” by Simone Marchi, Harold F. Levison, Keith S. Noll, John R. Spencer, Thomas S. Statler, Olivier S. Barnouin, James F. BellIII, Edward B. Bierhaus, Richard Binzel, William F. Bottke, Daniel Britt, Michael E. Brown, Marc W. Buie, Philip R. Christensen, Neil Dello Russo, Joshua P. Emery, William M. Grundy, Victoria E. Hamilton, Carly Howett, Hannah H. Kaplan, Katherine Kretke, Tod R. Lauer, Brian H. May, Stefano Mottola, Catherine B. Olkin, Martin Pätzold, Joel Wm. Parker, Frank Preusker, Silvia Protopapa, Dennis C. Reuter, Stuart J. Robbins, Julien Salmon, Amy A. Simon, S. Alan Stern, Jessica M. Sunshine, David Vokrouhlický, Harold A. Weaver, Harrison Agrusa, Emily S. Costello, Masatoshi Hirabayashi, Fiona Nichols-Fleming, Jennifer E. C. Scully, Anne Verbiscer, Coralie Adam, John Andrews, Kevin E. Berry, Emma Birath, Rich Burns, Russell Carpenter, Mark Effertz, Kristen Francis, Jeroen Geeraert, Sheila Gray, Katie Hegedus, David Kaufmann, Brian A. Keeney, Thomas Kennedy, Jim McAdams, Matthew Montanaro, Jon Pineau, Devin Poland, Eric Sahr, Ishita Solanki, Dale Stanbridge, Brian Sutter and Michael Vincent, 18 June 2026,
+DOI: 10.1126/science.aec0503
+Lucy is led by a principal investigator at the Boulder, Colorado, branch of Southwest Research Institute, which is headquartered in San Antonio. NASA’s Goddard Space Flight Center in Greenbelt, Maryland, oversees mission management, systems engineering, safety, and mission assurance. Lockheed Martin Space in Littleton, Colorado, built the spacecraft. Lucy is the 13th mission in NASA’s Discovery Program, which is managed by NASA’s Marshall Space Flight Center in Huntsville, Alabama, for the agency’s Science Mission Directorate in Washington.
+Never miss a breakthrough:
+Join the SciTechDaily newsletter.
+Follow us on
+Lucy Mission
+NASA Goddard Space Flight Center
+Southwest Research Institute
+NASA’s Lucy Captures Ice Cream Cone–Shaped Asteroid That Defies Expectations
+Another Surprise From NASA’s Lucy Asteroid Encounter: “We Never Suspected Anything So Bizarre!”
+NASA’s Lucy Spacecraft Snaps First Images of Asteroid Dinkinesh on Its 12-Year Voyage of Discovery
+Lucy in the Sky With Asteroids: NASA’s Mission Reveals First Images of Jupiter’s Trojans
+Introducing “Dinkinesh” – First Asteroid Target for NASA’s Lucy Mission Gets a Name
+NASA’s Record-Breaking Lucy Spacecraft Has a New Asteroid Target
+Moon Discovered Around Asteroid Polymele by NASA’s Lucy Team
+The Fascinating Story of How the Trojan Asteroids – Target of NASA’s Lucy Mission – Were Discovered and Named
+NASA’s Mission to Jupiter’s Trojan Asteroids Confirms Discovery of “Bonus” Exploration Opportunity",https://scitechdaily.com/nasas-lucy-uncovers-ancient-water-clues-on-a-weirdly-wobbling-asteroid/,scitechdaily,综合科技,无,2026-06-28T15:18:13+00:00
+Could This Visitor From Another Star System Be Alien Technology? SETI Investigates,2026-06-27,"A rare visitor from another star system prompted SETI to hunt for alien technology, but the mysterious object appears to be a natural cosmic traveler after all.
+Scientists have completed a search for signs of alien technology from 3I/ATLAS, the third known interstellar object ever observed passing through our Solar System. Using the Allen Telescope Array (ATA) at the Hat Creek Radio Observatory in Northern California, researchers scanned a broad range of radio frequencies for artificial signals. As expected from previous observations showing that 3I/ATLAS behaves like a natural comet, they found no evidence of extraterrestrial technology.
+Discovered in July 2025, 3I/ATLAS is only the third confirmed object from another star system to enter our Solar System, following 1I/’Oumuamua and 2I/Borisov. These rare visitors give scientists a unique chance to examine material formed around other stars, offering valuable clues about how planetary systems develop and evolve.
+Although every observation so far points to 3I/ATLAS being a natural object, researchers say interstellar visitors are still important targets in the search for technosignatures. In the unlikely event that one of these objects were artificial, it could carry detectable signs of extraterrestrial technology and potentially provide the first evidence of life beyond Earth.
+“Eventually, our own Voyager spacecraft will be extraterrestrial artifacts in other stellar systems,” said Dr. Sofia Sheikh, lead author on the paper. “Given that, it is important that we understand the natural distribution of interstellar objects so that we will be able to identify any anomalies that could one day be signs of an artificial interstellar object.”
+The research team observed 3I/ATLAS for more than seven hours using the ATA, monitoring frequencies from 1 to 9 gigahertz. This range allows scientists to search for narrowband radio signals, which are not known to occur naturally and could indicate the presence of technology.
+During the observations, the scientists detected nearly 74 million narrowband signals. After filtering out radio interference from human activity and selecting only signals that matched the object’s motion, roughly 200 candidates remained.
+A closer investigation showed that every one of those remaining signals originated from technology on Earth or from satellites orbiting our planet.
+Although the search uncovered no technosignatures, it placed new limits on what could be hiding near 3I/ATLAS and further supports the conclusion that it is a natural object. The observations ruled out radio transmitters stronger than roughly 10–110 watts across the frequencies examined, about the amount of power used by a typical household appliance.
+“The results from 3I/ATLAS show how realistic it is to detect a signal with the technology we have today,” said Valeria Garcia Lopez, co-author. “That is why it is important to keep searching for technosignatures, even from objects we might not expect to have signals.”
+The project also highlighted how quickly the Allen Telescope Array can respond to unexpected discoveries. Observations of 3I/ATLAS began less than a day after the object’s announcement, demonstrating the system’s ability to rapidly investigate newly discovered interstellar visitors.
+Beyond the search for intelligent life, studying these objects helps scientists better understand the natural properties of material traveling between star systems as it passes through our Solar System.
+As astronomers continue discovering more interstellar visitors, each one will provide another opportunity to search for technosignatures while expanding our knowledge of both natural cosmic objects and the possibility of advanced technology beyond our Solar System.
+Reference: “A Search for Radio Technosignatures from Interstellar Object 3I/ATLAS with the Allen Telescope Array” by Sofia Z. Sheikh, Valeria Garcia Lopez, Isabel Gerrard, James R. A. Davenport, Wael Farah, Blayne Griffin, Steve Croft, Luigi F. Cruz, Imke de Pater, Ben Jacobson-Bell, Mark Masters, Karen I. Perez, Alexander W. Pollak, Carol Shumaker and Andrew Siemion, 3 June 2026,
+The Astronomical Journal
+DOI: 10.3847/1538-3881/ae6651
+Never miss a breakthrough:
+Join the SciTechDaily newsletter.
+Follow us on
+SETI Institute
+Don’t Miss Comet A3: One of the Most Significant Celestial Events of the Decade?
+New “Space Snowman” Discovery Shakes Up Solar System Theories
+Potentially Hazardous 4,000 Year Comets Can Cause Meteor Showers on Earth
+Trillions of Comet Collisions Explain 17-Year-Old Stellar Mystery
+ISON Comet May Become Brightest Object in the Night Skies
+Trajectory Models of Refractory Particles Help Solve Two Solar System Puzzles
+View the Eta Aquarid Meteor Shower From Halley’s Comet
+Comet Lovejoy Streaks Past Desert Telescope
+Comet Survives after Close Brush With the Sun",https://scitechdaily.com/could-this-visitor-from-another-star-system-be-alien-technology-seti-investigates/,scitechdaily,综合科技,无,2026-06-28T15:18:15+00:00
+NASA Moon Base Could Become Earth’s First Defense Against Alien Microbes,2026-06-27,"Researchers propose turning a future
+moon base into a quarantine station that would screen space samples before they ever reach Earth.
+A policy paper argues that NASA’s planned moon base should include a biocontainment facility to help protect Earth from potentially hazardous biological contaminants brought back from space.
+“Humanity is entering a new era of space exploration, but our planetary protection strategies have not kept pace with the risks associated with returning extraterrestrial samples to Earth,” said paper coauthor Frederick I. Moxley, Director of Strategic Threat Analysis and Research Laboratories, an Idaho-based consultancy.
+“The proposed facility would essentially act as a firewall between Earth and any potentially hazardous live organisms that could accompany returning future space missions,” said Moxley, whose coauthor is Anthony Ricciardi, a James McGill Professor of Biology and the Director of the Bieler School of Environment at McGill University.
+In their paper, published in Ambio, Moxley and Ricciardi argue that material gathered from the moon,
+or farther destinations should not be sent straight to Earth. Instead, they say extraterrestrial samples should first go to a secure quarantine and research facility on the moon.
+Moxley and Ricciardi recommend that all incoming space samples be handled only by advanced robotic systems inside the lunar facility. That approach would reduce the chances of human exposure or an accidental release.
+Although no extraterrestrial life has been confirmed, Moxley and Ricciardi warn that any unfamiliar form of life entering Earth’s biosphere could have unpredictable ecological effects. They point to Earth’s long history of invasive species as a cautionary example.
+“Decades of research on invasive species have demonstrated how an organism introduced to the wrong place at the wrong time can spread uncontrollably with potentially devastating and irreversible long-term impacts on ecosystems,” said Ricciardi, an expert on biological invasions. “This research justifies a strong precautionary approach against introductions of extraterrestrial origin.”
+The paper comes as government space agencies and private aerospace companies move more quickly into missions beyond Earth orbit. Moxley and Ricciardi argue that this busier and more competitive space environment makes strict biosafety standards increasingly important.
+The study raises concerns about worst-case scenarios, including a spacecraft carrying contaminated material crashing or malfunctioning, or astronauts being exposed to extraterrestrial environments. Moxley and Ricciardi contend that no facility currently on Earth can absolutely guarantee containment, elimination or control of an unknown alien microorganism if an accident occurs.
+Moxley and Ricciardi conclude that the search for life beyond Earth could become one of humanity’s most important scientific milestones, but that its risks need to be managed before they become emergencies.
+“The moon,” they argue, “may become humanity’s first line of biological defense.”
+Reference: “Protecting earth from extraterrestrial contamination: The case for a lunar biocontainment facility” by Frederick I. Moxley, and Anthony Ricciardi, 28 May 2026,
+DOI: 10.1007/s13280-026-02428-5
+Never miss a breakthrough:
+Join the SciTechDaily newsletter.
+Follow us on
+Astrobiology
+McGill University
+Planetary Protection
+Space Exploration
+There’s Enough Oxygen in the Lunar Regolith To Support Billions of People Living on the Moon
+The Moon’s Top Layer Has Enough Oxygen To Sustain 8 Billion People for 100,000 Years
+NASA Team Studying the Building Blocks of Life Will Analyze 50-Year-Old Apollo Moon Soil – Here’s Why
+NASA Reveals Sustainable Campaign to Return to Moon and Beyond
+Moon Bricks Will Pave the Way for Human Space Exploration
+Will Astronomers Know ‘Alien’ Life When They See It?
+NASA’s Exploration Campaign: Back to the Moon and on to Mars
+Lunar Orbital Platform-Gateway will Extend Human Presence in Deep Space
+Scientists Rank Most Livable Alien Worlds",https://scitechdaily.com/nasa-moon-base-could-become-earths-first-defense-against-alien-microbes/,scitechdaily,综合科技,无,2026-06-28T15:18:17+00:00
+Europe’s First TES Spectrometer Makes Previously Impossible X-Ray Experiments Possible,2026-06-27,"Europe’s first TES spectrometer is transforming X-ray research with up to 1,000 times greater sensitivity, making once impossible experiments finally possible.
+Europe’s first and only TES spectrometer at a synchrotron light source is now operating at BESSY II, marking a major advance for X-ray research. Developed through a collaboration between HZB, the MPI-CEC (Mühlheim-an-der-Ruhr, Germany), and NIST (Boulder CO, USA), the new instrument can detect X-ray photons with an efficiency that is 100 to 1,000 times greater than conventional wavelength dispersive X-ray emission spectrometers.
+Its exceptional sensitivity will allow researchers to investigate the electronic properties of atomically thin materials, nanostructures, and extremely dilute atomic and molecular samples. The team is now inviting scientists to submit research proposals that take advantage of the new capability.
+Synchrotron facilities such as BESSY II generate exceptionally bright X-ray beams that scientists use to study the structure and properties of many different materials. Some of the most powerful techniques, including X-ray emission spectroscopy (XES) and Resonant Inelastic X-ray Scattering (RIXS), analyze the X-ray photons emitted by a sample after it is exposed to the beam.
+These methods provide valuable information about a material’s electronic structure, but they require large numbers of emitted photons to produce meaningful data. As a result, XES and RIXS have traditionally been limited to bulk materials and samples with relatively high concentrations.
+“The superconducting Transition Edge Sensor (TES) array
+detector that we have now put into operation at BESSY II is around 100 to 1000 times more efficient to detect photons than conventional XES and RIXS spectrometers,” says Régis Decker, HZB, responsible scientist of the new instrument.
+That dramatic improvement makes it possible to examine samples that were previously too small or too dilute for these techniques.
+According to Decker, the new spectrometer will enable studies across a wide range of scientific fields.
+“This can provide new insights into molecular chemistry or molecular biology, but also into the quantum properties of systems in reduced dimensions such as atomic monolayers, nanostructures, and impurities. The TES spectrometer complements methods such as ARPES, which scans the electronic band structures of such systems,” says Régis Decker.
+The increased sensitivity also speeds up many experiments. Measurements that once required hours can now, in some cases, be completed within minutes.
+The instrument contains an array of 248 superconducting sensors that operate at an extremely low temperature of just 25 milli-Kelvin. Those conditions are achieved using a He4-He3 dilution refrigerator, a cooling technology similar to the systems used in quantum computers.
+When X-rays strike a sample, the material emits photons of its own. Each emitted photon is captured by one of the superconducting sensors, briefly raising its temperature enough to disrupt its superconducting state. That tiny change increases the sensor’s electrical resistance, which is measured using a circuit based on Superconducting Quantum Interference Devices (SQUIDs). This process allows the energy of each photon to be measured with remarkable precision.
+The spectrometer is connected to a custom ultra-high vacuum sample chamber that allows researchers to transfer, prepare, and analyze samples while precisely controlling temperatures from 10 K to room temperature.
+The complete system is installed at the BESSY II UE52-SGM beamline, which provides full polarisation control. Future enhancements will expand sample preparation capabilities and enable experiments in magnetic fields for X-ray Magnetic Circular Dichroism in absorption (XMCD) and emission (RIXS-MCD).
+TES spectrometers were originally created for astrophysics, where they were designed to detect extremely weak photon signals from distant objects.
+Before the installation at BESSY II, only five TES spectrometers were operating at X-ray facilities worldwide, with four located in the United States and one in Japan. BESSY II now hosts the only synchrotron TES spectrometer in Europe.
+“We are looking forward to receiving exciting research proposals from our user community,” says Decker.
+Reference: “A superconducting transition edge sensor array for synchrotron soft x-ray emission spectroscopies of low-dimensional and impurity-level concentration systems” by Régis Decker, Kelsey M. Morgan, Sergey Peredkov, Charles J. Titus, Galen C. O’Neil, Alexander Dillmann, Dmitry Tikhonov, Utkarsh Prakash, Axel Knop-Gericke, Joseph W. Fowler, Jonathan W. Dean, Nathan Nakamura, Raoul Blume, Detre Techner, Minmin Chen, Zechao Jin, Christian Weniger, Thomas Blume, Torsten Kachel, Nathan J. Ortiz, Douglas A. Bennett, John A. B. Mates, Daniel R. Schmidt, Jozsef Imrek, Joel C. Weber, Johnathon D. Gard, Leila Vale, Abigail L. Wessels, Bastian Klemke, Sebastian Gerischer, Mattis Fondell, Sebastian Eckert, Joel N. Ullom, Daniel S. Swetz, Serena DeBeer and Alexander Föhlisch, 10 June 2026,
+Review of Scientific Instruments
+DOI: 10.1063/5.0332443
+Never miss a breakthrough:
+Join the SciTechDaily newsletter.
+Follow us on
+Helmholtz-Zentrum Berlin
+Spectrometer
+Spectroscopy
+Mass Spectrometry Breakthrough Detects Billions of Molecules at Once
+Scientists Shrink a Lab Spectrometer to the Size of a Grain of Sand
+This Tiny Device Could Turn Your Phone Into a Lab-Grade Spectrometer
+Revolutionizing OLEDs: New Spectroscopy Technique Extends Device Lifespan
+Tiny Diamonds, Big Spark: A Laser-Free Leap in Quantum Spin Detection
+Harvard Builds Laser the Size of a Chip, Bright Enough to Map Invisible Worlds
+New Silicon Discovery Could Supercharge Quantum Computers
+Detect Dangerous Gases in Seconds With New Technology
+Beyond Graphene: A New World of 2D Materials Is Opening Up",https://scitechdaily.com/europes-first-tes-spectrometer-makes-previously-impossible-x-ray-experiments-possible/,scitechdaily,综合科技,无,2026-06-28T15:18:19+00:00
+This Sodium Battery From China Matched Tesla in a Surprising Head-to-Head Test,2026-06-27,"A new study found that a commercial sodium-ion battery from China rivals Tesla’s batteries in manufacturing quality and several key performance benchmarks.
+With improvements to cold-weather charging and energy density, sodium-ion batteries could become a more affordable alternative for electric vehicles and grid-scale energy storage.
+A commercially available sodium-ion battery already being used in cars and large-scale energy storage systems in China has achieved manufacturing quality and performance levels comparable to Tesla’s lithium-ion batteries, according to research published in the Cell Press journal
+Cell Reports
+Physical Science
+The findings suggest sodium-ion technology is advancing faster than many expected. Although the battery still needs improvements in cold-weather charging and energy density, researchers believe it could become a lower-cost alternative for future electric vehicles by replacing lithium with sodium, an abundant and widely available material.
+“The combination of good uniformity, high power capability, and strong low‑temperature performance makes these cells attractive for stationary storage, grid services, and shorter‑range or commercial vehicles where potential lower cost and resource availability matter more than maximum driving range,” says Moritz Schütte, a battery researcher at RWTH Aachen University in Germany.
+To evaluate how Hina’s sodium-ion batteries stack up against Tesla’s more advanced lithium-ion cells, Schütte and his colleagues analyzed 120 battery cells using a non-destructive method known as impedance spectroscopy to measure manufacturing consistency.
+The team also tested each battery under realistic operating conditions, measuring power and energy performance across a range of charging currents and temperatures from −20 °C to 45 °C. X-ray imaging allowed the researchers to examine the batteries’ internal structures before they disassembled the cells to study electrode dimensions, material composition, and microscopic features.
+Their analysis revealed a sophisticated design that includes a tabless, double-aluminum current collector. This layout lowers electrical resistance, promotes more even temperature distribution, and closely resembles the architecture used in current Tesla batteries.
+“We were positively surprised by how uniform the cells are,” says Schütte.
+Despite its impressive performance, the sodium-ion battery still falls short of the best lithium-ion batteries in several important areas. The researchers found that while the battery delivers better high-power performance than expected for an early commercial sodium-ion product, charging at low temperatures remains a significant challenge.
+“The high-power performance was better than one might expect from an early commercial sodium-ion product,” says Schütte. “However, for applications that require frequent charging at low ambient temperatures, appropriate thermal management or operating strategies will be important because low-temperature charging remains a clear weakness.”
+The team also detected unexpectedly high and uneven concentrations of copper in parts of the battery’s cathode.
+According to Schütte, this “raises interesting questions about its role in performance and aging,” adding, “It will be exciting to see future sodium-ion technologies that are free of nickel and copper, as well, while achieving competitive energy density.”
+Sodium offers several potential advantages over lithium because it is far more abundant and easier to source worldwide. That could lower raw material costs for battery manufacturers while reducing long-term supply chain concerns.
+The study also found that sodium-ion batteries maintain strong performance under heavy loads in cold conditions, making them promising candidates for stationary energy storage as well as vehicles operating in colder climates.
+“However, today’s commercial sodium-ion cells generally have lower energy density than the best lithium-ion cells, and the technology is less mature overall,” said Schütte.
+The researchers now plan to improve how sodium-ion batteries charge at temperatures below 0°C, with the goal of making charging both safer and more efficient in freezing conditions.
+Future work will also focus on refining the materials used inside the batteries.
+“Advances in hard-carbon anodes and electrolyte formulations may be especially promising,” he said.
+Reference: “Cell teardown and characterization of a Hina commercial sodium-ion battery” by Christian Siebert, Moritz Schütte, Jonas Rinner, Gereon Stahl, Jan Lin, Katharina Quade, Heinrich Ditler, Christiane Rahe and Dirk Uwe Sauer, 28 May 2026,
+Cell Reports Physical Science
+DOI: 10.1016/j.xcrp.2026.103323
+The research was supported by the Federal Ministry of Research, Technology, and Space and the Federal Ministry for Economic Affairs and Energy.
+Never miss a breakthrough:
+Join the SciTechDaily newsletter.
+Follow us on
+Battery Technology
+Flexible Electrolyte Sheet Breakthrough for Advanced Lithium Metal Batteries
+New Li-Ion Superconductor Enables Safe, High-Performance All-Solid-State Batteries
+Ultrasound Device Improves Lithium Battery Capacity and Charge Time
+Better Lithium-Ion Batteries Possible With Nanoscale Molecular View of Self-Assembling Structure
+World’s Most Efficient Lithium-Sulfur Battery Developed – Powers Smartphone for 5 Days
+Using Light to Recharge Lithium-Ion Batteries Twice As Fast
+Breakthrough Flexible, Cuttable Lithium-Ion Battery Won’t Catch Fire – Unbreakable & Incombustible
+Cause of Harmful Dendrites and Whiskers in Lithium Batteries Uncovered [Video]
+Half Price Lithium-ion Batteries With Improved Performance and Recyclability",https://scitechdaily.com/this-sodium-battery-from-china-matched-tesla-in-a-surprising-head-to-head-test/,scitechdaily,综合科技,无,2026-06-28T15:18:20+00:00
+Where Tech Political Spending Goes Next,2026-06-27,Subscribe to unlock,https://www.theinformation.com/newsletters/the-weekend/tech-political-spending-goes-next,the information,综合科技,科技金融,2026-06-28T15:21:22+00:00
+What to Wear When Work’s a Beach,2026-06-27,Subscribe to unlock,https://www.theinformation.com/articles/wear-works-beach,the information,综合科技,科技金融,2026-06-28T15:21:24+00:00
+Salesforce Employees Worry Over Anthropic’s Invasion of Slack,2026-06-27,Subscribe to unlock,https://www.theinformation.com/articles/salesforce-employees-worry-anthropics-invasion-slack,the information,综合科技,科技金融,2026-06-28T15:21:26+00:00
+"Coinbase Cuts AI Spending in Half As Usage Rises, Armstrong Says",2026-06-27,"Coinbase Cuts AI Spending in Half As Usage Rises, Armstrong Says — The Information
+Read this briefing for free",https://www.theinformation.com/briefings/coinbase-cuts-ai-spending-half-usage-rises-armstrong-says,the information,综合科技,科技金融,2026-06-28T15:21:27+00:00
+White House lifts some export controls on Anthropic’s Mythos,2026-06-27,"White House lifts some export controls on Anthropic’s Mythos — The Information
+Read this briefing for free",https://www.theinformation.com/briefings/white-house-lifts-export-control-anthropics-mythos,the information,综合科技,科技金融,2026-06-28T15:21:29+00:00
+What We Learned Mapping 300-Plus Data Center Bans,2026-06-27,Subscribe to unlock,https://www.theinformation.com/articles/learned-mapping-300-plus-data-center-bans,the information,综合科技,科技金融,2026-06-28T15:21:31+00:00
+OpenAI Hires Apple Vision Pro and Smart Glasses Executive,2026-06-27,"OpenAI Hires Apple Vision Pro and Smart Glasses Executive — The Information
+Read this briefing for free",https://www.theinformation.com/briefings/openai-hires-apple-vision-pro-smart-glasses-executive,the information,综合科技,科技金融,2026-06-28T15:21:33+00:00
+AWS Raises Prices for Some Nvidia Compute by 20%,2026-06-27,"AWS Raises Prices for Some Nvidia Compute by 20% — The Information
+Read this briefing for free",https://www.theinformation.com/briefings/aws-raises-prices-nvidia-compute-20,the information,综合科技,科技金融,2026-06-28T15:21:35+00:00
+OpenAI Releases GPT-5.6 to U.S. Government-Approved Customers,2026-06-27,"OpenAI Releases GPT-5.6 to U.S. Government-Approved Customers — The Information
+Read this briefing for free",https://www.theinformation.com/briefings/openai-releases-gpt-5-6-u-s-government-approved-customers,the information,综合科技,科技金融,2026-06-28T15:21:36+00:00
+"Altman, Amodei and Why the Pragmatic Survive",2026-06-27,Subscribe to unlock,https://www.theinformation.com/newsletters/the-takeaway/altman-amodei-pragmatic-survive,the information,综合科技,科技金融,2026-06-28T15:21:38+00:00
